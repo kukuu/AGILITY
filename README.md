@@ -81,11 +81,15 @@ Demanding that every single developer in the company learn the intricacies of ma
 
 Resolution:
 
-	1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means is Developing services 
-	    should not   require knowledge of the infrastructure and changing infrastructure should not require detailed knowledge of the services running on it. If we need to change the hostname or port a service runs on it should require no changes to the service itself.
+	1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
+		is Developing services should not   require knowledge of the infrastructure and changing i
+		nfrastructure should not require detailed knowledge of the services running on it. 
+		If we need to change the hostname or port a service runs on it should require no changes
+		to the service itself.
 
-	2.	All project configuration—from build process to health monitoring—must be contained within the project repository. 
-	    Anything else introduces hidden dependencies for deployment that threaten to break the pipeline and require specialist knowledge to debug.
+	2.	All project configuration—from build process to health monitoring—must be contained within the 
+		project repository. Anything else introduces hidden dependencies for deployment that threaten
+		to break the pipeline and require specialist knowledge to debug.
 
 	3.	The above configuration should be declarative and not require adding dependencies to the project.
 
