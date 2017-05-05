@@ -93,7 +93,7 @@ Resolution:
 
 	3.	The above configuration should be declarative and not require adding dependencies to the project.
 
-	4. Use Containerisation
+	4.  Use Containerisation
 
 
 # Containerisation
