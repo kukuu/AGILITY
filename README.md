@@ -79,20 +79,18 @@ However, note microservices introduced a new problem: if adding a feature was of
 
 Demanding that every single developer in the company learn the intricacies of maintaining Puppet configuration for all their services would have been impractical and more than a little cruel.
 
-Resolution: 
+Resolution:
 
+	1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means is Developing services 
+	    should not   require knowledge of the infrastructure and changing infrastructure should not require detailed knowledge of the services running on it. If we need to change the hostname or port a service runs on it should require no changes to the service itself.
 
+	2.	All project configuration—from build process to health monitoring—must be contained within the project repository. 
+	    Anything else introduces hidden dependencies for deployment that threaten to break the pipeline and require specialist knowledge to debug.
 
-1. Set up feature teams  that can possibly set up a new service in under four hours. What this means is:
+	3.	The above configuration should be declarative and not require adding dependencies to the project.
 
-	i. Developing services should not require knowledge of the infrastructure and changing infrastructure should not require detailed knowledge of the services running on it. If we need to change the hostname or port a service runs on it should require no changes to the service itself.
+	4. Use Containerisation
 
-	ii. All project configuration—from build process to health monitoring—must be contained within the project repository. Anything else introduces hidden dependencies for deployment that threaten to break the pipeline and require specialist knowledge to debug.
-
-	iii. The above configuration should be declarative and not require adding dependencies to the project.
-
-
-2. Use Containerisation
 
 # Containerisation
 
@@ -126,5 +124,5 @@ You will need a  Consul to store and  manage service states.
 	9.	Wait until they are all responding and passing automated checks.
 
 	10.	Flip environment alias to point at the offline colour.
-	
+
 	11.	The new build is now online.
