@@ -139,7 +139,7 @@ You will need a  Consul to store and  manage service states.
 		Confluence. Developing practices like TDD, Unit Testing, XP, BDD. 
 		The use source control like GIT/svn and continuous integration tools like Jenkins and Hudson
 
-	2.  Typical development workflow will follow software development lifecyle:
+	2.   Typical development workflow will follow software development lifecyle:
 
 		a. Requirement gathering
 
