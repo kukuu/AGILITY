@@ -54,11 +54,15 @@ The active involvement, cooperation and collaboration make agile development tea
 
 # Continuous Delivery
 
- CD is the ability to get changes of all types—including new features, configuration changes, bug fixes and experiments—into production, or into the hands of users, safely and quickly in a sustainable way.
+ CD is the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way. 
+
+ A logical extension of Continuous Integration, It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
+
+
 
 The ultimate goal of continuous delivery is to minimise the iteration time of the code-test-deliver-measure experimentation cycle. Increasing deliverable throughput in this way is the key to not only more feature work being delivered but higher quality code as well. This might seem counter-intuitive at first but code is fixed and polished through that same cycle and less time spent on deployment is more time spent on designing quality code.
 
-The high-level requirements FOR CD are:
+	The high-level requirements FOR CD are:
 
 	1.	Software must be easily testable, which means it must be loosely coupled.
 
@@ -67,6 +71,36 @@ The high-level requirements FOR CD are:
 	3.	Delivery—from commit to production—must be fast. Preferably under 10 minutes.
 
 	4.	Rolling back a deployed feature if it is found to be broken or unwanted must be trivial.
+
+	5. Build binaries only once. Binaries should be compiled once and once only. 
+	   The binary should then be stored someplace which is accessible only to your deployment mechanism, 
+	   and your deployment mechanism should deploy this same binary to each successive environment
+
+	6. Use precisely the same mechanism to deploy to every environment. Both QA and production deployment must be both autmated.
+
+	7. Smoke test your deployment. Write a smoke test and include that in the deployment process.
+
+	8. Stop the lines if anything fails.
+	
+
+	Achieving CD
+
+	1. The process for releasing/deploying software MUST be repeatable and reliable. 
+
+	2. Automate everything!
+
+	3. If somethings difficult or painful, do it more often.
+
+	4. Keep everything in source control
+
+	5. Done means “released”.
+
+	6. Build quality in! 
+
+	7. Everybody has responsibility for the release process
+
+	8. Improve continuously
+
 
 The most optimum path to achieve these goals is to use  microservices architecture
 
