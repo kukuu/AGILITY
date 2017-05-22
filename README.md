@@ -82,8 +82,8 @@ Demanding that every single developer in the company learn the intricacies of ma
 Resolution:
 
 	1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
-		is Developing services should not   require knowledge of the infrastructure and changing i
-		nfrastructure should not require detailed knowledge of the services running on it. 
+		is Developing services should not   require knowledge of the infrastructure and changing 
+		infrastructure should not require detailed knowledge of the services running on it. 
 		If we need to change the hostname or port a service runs on it should require no changes
 		to the service itself.
 
@@ -109,6 +109,7 @@ You will need a  Consul to store and  manage service states.
 
 
 #### What a deployment looks like:
+
 	1.	Build Docker image.
 
 	2.	Test that image in isolation.
@@ -130,3 +131,105 @@ You will need a  Consul to store and  manage service states.
 	10.	Flip environment alias to point at the offline colour.
 
 	11.	The new build is now online.
+
+
+#### Ultimate development/production workflow. How to get changes from your local machine into production:
+
+	1.	Preferred development workflow involves the use of project management tracking tools like JIRA,
+		Confluence. Developing practices like TDD, Unit Testing, XP, BDD. 
+		The use source control like GIT/svn and continuous integration tools like Jenkins and Hudson
+
+	2.  Typical development workflow will follow software development lifecyle:
+
+		a. Requirement gathering
+
+		b. Participation in system and interface design with Architects and UX Team
+
+		c. Lead SPRINT Planning (Define SPRINT goals)
+
+		d. Refining backlog with Product Owners and Team
+
+		e. Create tickets and associate estimations and  resources with team
+
+		f. Leading code reviews
+
+		g. Ensuring Testing Framework is in place to check deliverables and requirement are met.
+
+		h. Owning the code base and release cycles
+
+		i. Working with Platform team to mange deployment and release management
+
+		j. Managing bug fixes, and making sure regression tests are fully fulfilled
+
+		k. Supporting aftercare (Hypercare)
+
+		l. Refining and improving product and platform
+
+
+	3	How to ensure that the quality of your code is high, and meets the standards of the project:
+
+		1. Having best practices in place and supporting continuos delivery. 
+
+		2. Using Automated Testing
+
+		3. Having  a code review process in place. 
+
+		4. Reducing manual testing times and spending more time on improving code quality
+
+		5. Follow and support development and usability standards proclaimed by W3C
+
+		6. Breaking features into smaller modules and having  test framework and documentation in 
+		   place to support.
+
+		7. Ensuring incremental releases. As this will allow to mange volume of flaws
+
+		8. Have a micro-service architecture in place that ensures features are shipped with their 
+		   context and configuration management services. 
+
+		9. No configurations will sit outside the features that are developed. They will be contained 
+		   in the same repository. This will be to avoid platform configuration changes that can potentially result 
+		   in code and applications breaking. Use Docker, Puppet and Vagrant to support the application build
+
+		10. Have documentation and dashboard available and easily accessible to the development team and stakeholders
+
+		11. Ensure there is consistent and constant communication in the team with actions and setup agenda.
+
+
+	4.	Improving and managing  complicated API random calls to disparate systems:
+
+		The API data flow to the the UI environment may initially consist of making several API calls to a variable
+		number of  different data sources from the backend. May include  Machine Learning servers, ElasticSearch indexes, 
+		H-BASE and CORE  source. Making these numbers of API calls to such disparate  systems is  expensive and increases 
+		latency and expected response times. 
+
+		Such an architecture can be re-vamped by  bulding a gatewawy to allow all the data systems to manage and push into
+		a central gateway poll, using for example Apache's ActiveMQ as middleware, from where the UI backend will make a 
+		single call to the gateway pipeline. The gateway serves to save data and replicate across multiple services with
+		stored changes.  It also allowed multiple  end points to subscribe to the service that it provides.
+
+
+	5. Ensuring that websites and apps built are performant for your target audience, and address performance issues:
+
+		a. Have as part of the infrastructure devices that are commonly used by the customers to  access and use the 
+		   product during  development. This will allow you to  capture some bottlenecks that could be obvious and 
+		   inherent during development
+
+		b. Research into  customer needs. This is fed into requirement gathering, analysed and turned into specification.
+
+		c. Have automated debugging tools available and incorporated in the code building phase. Use Dev and debugging 
+		   Tools built into browser. 
+		   Use integrated test frameworks like BrowserStack, Selenium and  BDD (Behavior Driven Design) to handle user 
+		   stories and acceptance criteria.
+
+		d. Have a usability testing phases whiles the product is being built. Done to gather customer feedback
+
+		e. Ensure a beta  release of the application will be in place and create a segmentation for a cross section 
+		   of customers to evaluate.
+
+		   Normally segmentation is done with loyalty uses. These are reliable customers who use the application very often,
+		   so it is important to seek their opinion
+
+		f. Engage positive feedback, workshops with customer services and platform/release management/DevOps to review customer 
+		   concerns with view to refining product features,
+
+		g. Use Analytics tools to build statistics and pattern of customer behaviour i.e - Omniture/Google Analytics
