@@ -66,11 +66,11 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 
 	1.	Software must be easily testable, which means it must be loosely coupled.
 
-	2.	Delivery must—under normal circumstances—require minimal human interaction.
+	2. Delivery must—under normal circumstances—require minimal human interaction.
 
-	3.	Delivery—from commit to production—must be fast. Preferably under 10 minutes.
+	3. Delivery—from commit to production—must be fast. Preferably under 10 minutes.
 
-	4.	Rolling back a deployed feature if it is found to be broken or unwanted must be trivial.
+	4. Rolling back a deployed feature if it is found to be broken or unwanted must be trivial.
 
 	5. Build binaries only once. Binaries should be compiled once and once only. 
 	   The binary should then be stored someplace which is accessible only to your deployment mechanism, 
@@ -81,7 +81,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 	7. Smoke test your deployment. Write a smoke test and include that in the deployment process.
 
 	8. Stop the lines if anything fails.
-	
+
 
 	Achieving CD
 
