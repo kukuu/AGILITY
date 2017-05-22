@@ -208,7 +208,7 @@ You will need a  Consul to store and  manage service states.
 		stored changes.  It also allowed multiple  end points to subscribe to the service that it provides.
 
 
-	5. Ensuring that websites and apps built are performant for your target audience, and address performance issues:
+	5.   Ensuring that websites and apps built are performant for your target audience, and address performance issues:
 
 		a. Have as part of the infrastructure devices that are commonly used by the customers to  access and use the 
 		   product during  development. This will allow you to  capture some bottlenecks that could be obvious and 
