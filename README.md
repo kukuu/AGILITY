@@ -64,7 +64,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 
 	The high-level requirements FOR CD are:
 
-	1.	Software must be easily testable, which means it must be loosely coupled.
+	1. Software must be easily testable, which means it must be loosely coupled.
 
 	2. Delivery must—under normal circumstances—require minimal human interaction.
 
