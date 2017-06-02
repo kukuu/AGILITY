@@ -52,11 +52,13 @@ Above all other points, the ability for agile development requirements to emerge
 The active involvement, cooperation and collaboration make agile development teams a much more enjoyable place for most people. Instead of big specs, we discuss requirements in workshops. Instead of lengthy status reports, we collaborate around a task-board discussing progress. Instead of long project plans and change management committees, we discuss what’s right for the product and project and the team is empowered to make decisions. In my experience this makes it a much more rewarding approach for everyone. In turn this helps to create highly motivated, high performance teams that are highly co-operative.
 
 
-# Continuous Delivery
+# Continuous Delivery (RRASc)
+
+#### Reliable :: Repeatable :: Automation :: Source control
 
  CD is the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way. 
 
- A logical extension of Continuous Integration, It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
+ A logical extension of Continuous Integration, It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. Manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
 
 
 
@@ -76,7 +78,8 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 	   The binary should then be stored someplace which is accessible only to your deployment mechanism, 
 	   and your deployment mechanism should deploy this same binary to each successive environment
 
-	6. Use precisely the same mechanism to deploy to every environment. Both QA and production deployment must be both autmated.
+	6. Use precisely the same mechanism to deploy to every environment. Both QA and production
+	 deployment must be both autmated.
 
 	7. Smoke test your deployment. Write a smoke test and include that in the deployment process.
 
