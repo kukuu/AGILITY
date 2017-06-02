@@ -130,7 +130,7 @@ Resolution:
 
 	3.	The above configuration should be declarative and not require adding dependencies to the project.
 
-	4.  Use Containerisation
+	4.   Use Containerisation
 
 
 # Containerisation
@@ -174,7 +174,7 @@ You will need a  Consul to store and  manage service states.
 
 	1.	Preferred development workflow involves the use of project management tracking tools like JIRA,
 		Confluence. Developing practices like TDD, Unit Testing, XP, BDD. 
-		The use source control like GIT/svn and continuous integration tools like Jenkins and Hudson
+		The use of source control like GIT/SVN and continuous integration tools like Jenkins and Hudson
 
 	2.   Typical development workflow will follow software development lifecyle:
 
@@ -220,53 +220,63 @@ You will need a  Consul to store and  manage service states.
 
 		7. Ensuring incremental releases. As this will allow to mange volume of flaws
 
-		8. Have a micro-service architecture in place that ensures features are shipped with their 
-		   context and configuration management services. 
+		8. Have a micro-service architecture in place that supports loose coupling and  
+		   ensures features are shipped with their context and configuration 
+		   management services. 
 
-		9. No configurations will sit outside the features that are developed. They will be contained 
-		   in the same repository. This will be to avoid platform configuration changes that can potentially result 
-		   in code and applications breaking. Use Docker, Puppet and Vagrant to support the application build
+		9. No configurations will sit outside the features that are developed. 
+		   They will be contained in the same repository. This will be to avoid platform configuration 
+		   changes that can potentially result in code and applications breaking. 
+		   Use Docker, Puppet and Vagrant to support the application build
 
-		10. Have documentation and dashboard available and easily accessible to the development team and stakeholders
+		10. Have documentation and dashboard available and easily accessible to 
+		    the development team and stakeholders
 
-		11. Ensure there is consistent and constant communication in the team with actions and setup agenda.
+		11. Ensure there is consistent and constant communication in the team 
+		    with actions and setup agenda.
 
 
 	4.	Improving and managing  complicated API random calls to disparate systems:
 
-		The API data flow to the the UI environment may initially consist of making several API calls to a variable
-		number of  different data sources from the backend. May include  Machine Learning servers, ElasticSearch indexes, 
-		H-BASE and CORE  source. Making these numbers of API calls to such disparate  systems is  expensive and increases 
-		latency and expected response times. 
+		The API data flow to the the UI environment may initially consist of making several 
+		API calls to a variable number of  different data sources from the backend. 
+		May include  Machine Learning servers, ElasticSearch indexes, 
+		H-BASE and CORE  source. Making these numbers of API calls to such disparate  
+		systems is  expensive and increases latency and expected response times. 
 
-		Such an architecture can be re-vamped by  bulding a gatewawy to allow all the data systems to manage and push into
-		a central gateway poll, using for example Apache's ActiveMQ as middleware, from where the UI backend will make a 
-		single call to the gateway pipeline. The gateway serves to save data and replicate across multiple services with
+		Such an architecture can be re-vamped by  bulding a gatewawy to allow all the data 
+		systems to manage and push into a central gateway poll, using for example Apache's ActiveMQ 
+		as middleware, from where the UI backend will make a single call to the gateway pipeline.
+		The gateway serves to save data and replicate across multiple services with
 		stored changes.  It also allowed multiple  end points to subscribe to the service that it provides.
 
 
-	5.   Ensuring that websites and apps built are performant for your target audience, and address performance issues:
+	5.   Ensuring that websites and apps built are performant for your target audience, 
+	     and address performance issues:
 
-		a. Have as part of the infrastructure devices that are commonly used by the customers to  access and use the 
-		   product during  development. This will allow you to  capture some bottlenecks that could be obvious and 
-		   inherent during development
+		a. Have as part of the infrastructure devices that are commonly used by the 
+		   customers to  access and use the product during  development. This will allow you to  
+		   capture some bottlenecks that could be obvious and inherent during development
 
-		b. Research into  customer needs. This is fed into requirement gathering, analysed and turned into specification.
+		b. Research into  customer needs. This is fed into requirement gathering, 
+		   analysed and turned into specification.
 
-		c. Have automated debugging tools available and incorporated in the code building phase. Use Dev and debugging 
-		   Tools built into browser. 
-		   Use integrated test frameworks like BrowserStack, Selenium and  BDD (Behavior Driven Design) to handle user 
-		   stories and acceptance criteria.
+		c. Have automated debugging tools available and incorporated in the code building phase. 
+		   Use Dev and debugging Tools built into browser. 
+		   Use integrated test frameworks like BrowserStack, Selenium and  
+		   BDD (Behavior Driven Design) to handle user stories and acceptance criteria.
 
-		d. Have a usability testing phases whiles the product is being built. Done to gather customer feedback
+		d. Have a usability testing phases whiles the product is being built. Done to 
+		   gather customer feedback
 
-		e. Ensure a beta  release of the application will be in place and create a segmentation for a cross section 
-		   of customers to evaluate.
+		e. Ensure a beta  release of the application will be in place and create a segmentation 
+		   for a cross section of customers to evaluate.
 
-		   Normally segmentation is done with loyalty uses. These are reliable customers who use the application very often,
-		   so it is important to seek their opinion
+		   Normally segmentation is done with loyalty uses. These are reliable customers 
+		   who use the application very often,so it is important to seek their opinion
 
-		f. Engage positive feedback, workshops with customer services and platform/release management/DevOps to review customer 
-		   concerns with view to refining product features,
+		f. Engage positive feedback, workshops with customer services and platform/release 
+		   management/DevOps to review customer concerns with view to refining product features.
 
-		g. Use Analytics tools to build statistics and pattern of customer behaviour i.e - Omniture/Google Analytics
+		g. Use Analytics tools to build statistics and pattern of customer behaviour 
+		   i.e - Omniture/Google Analytics
