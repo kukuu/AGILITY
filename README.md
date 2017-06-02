@@ -248,7 +248,8 @@ You will need a  Consul to store and  manage service states.
 		systems to manage and push into a central gateway poll, using for example Apache's ActiveMQ 
 		as middleware, from where the UI backend will make a single call to the gateway pipeline.
 		The gateway serves to save data and replicate across multiple services with
-		stored changes.  It also allowed multiple  end points to subscribe to the service that it provides.
+		stored changes.  It also allowed multiple  end points to subscribe to the service 
+		that it provides.
 
 
 	5.   Ensuring that websites and apps built are performant for your target audience, 
