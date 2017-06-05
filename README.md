@@ -108,7 +108,9 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 The most optimum path to achieve these goals is to use  microservices architecture
 
 
-# Micro-services
+# Micro-services 
+
+#### Loose coupling::individual deployment:: repeatable deploymen can only be acieved by repeatble context ==> containerisation
 
 Microservices enforce loose coupling, plus it’s easier to develop fast and reliable deployment pipelines if they only have to handle small packages.
 
@@ -281,3 +283,12 @@ You will need a  Consul to store and  manage service states.
 
 		g. Use Analytics tools to build statistics and pattern of customer behaviour 
 		   i.e - Omniture/Google Analytics
+
+
+# The role of Engineering Manager in SAFe Lean Agile development
+
+####  SAFe emphasizes the values of autonomous self organising cross-funtional teams, and Agile Release Trains.
+
+
+
+
