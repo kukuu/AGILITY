@@ -110,7 +110,7 @@ The most optimum path to achieve these goals is to use  microservices architectu
 
 # Micro-services 
 
-#### Loose coupling::individual deployment:: repeatable deployment can only be acieved by repeatble context ==> containerisation
+#### Loose coupling::individual deployment:: repeatable deployment can only be achieved by repeatble context ==> containerisation
 
 Microservices enforce loose coupling, plus it’s easier to develop fast and reliable deployment pipelines if they only have to handle small packages.
 
