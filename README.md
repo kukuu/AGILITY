@@ -287,7 +287,29 @@ You will need a  Consul to store and  manage service states.
 
 # The role of Engineering Manager in SAFe Lean Agile development
 
-####  SAFe emphasizes the values of autonomous self organising cross-funtional teams, and Agile Release Trains.
+SAFe emphasizes the values of autonomous, self-organisng, cross-functional teams and Agile Release Trains.
+This supports a leaner management infrastructure, with more empowered individuals and teams and faster, 
+local decision making. Taditional, day-to-day employee instructions and activity  direction is no longer required.
+
+However, all employees  still need someone to assist them with career development, set and manage expectations
+and provide the active coaching they need to advance their technical, functional, 
+individual and team skills and career goals.  They also have a right to serve as an integral member of a high
+performing team.
+
+Self organising ARTs do not fund themselves or define their own mission. That remains a management resposibility,
+as it is an element of implementarion of a  strategy.
+
+Much of this responsibility falls to the traditional role of the Dvelopment Manager.
+
+The Development or Engineering Manager exhibits the principles and practices of Lean-Agile leadership. 
+Further, the Manager has responsibility for the coaching and career development of direct reports, takes
+responsibility for eliminating impediments, actively evolves the systems in which all knowledge 
+workers operate, takes subtle control in assigning individuals to teams, participates in defining 
+and administering compensation, benefilts and promotions, evaluate performance, including team input
+and corrective actions, serves as an Agile coach and Advisor to Agile Teams,  remains close 
+enough to the team to add value and to be competent, and finally stays far away to let them 
+problem-solve on their own.
+
 
 
 
