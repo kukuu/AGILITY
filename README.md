@@ -292,9 +292,8 @@ This supports a leaner management infrastructure, with more empowered individual
 local decision making. Taditional, day-to-day employee instructions and activity  direction is no longer required.
 
 However, all employees  still need someone to assist them with career development, set and manage expectations
-and provide the active coaching they need to advance their technical, functional, 
-individual and team skills and career goals.  They also have a right to serve as an integral member of a high
-performing team.
+and provide the active coaching they need to advance their technical, functional, individual and team 
+skills and career goals.  They also have a right to serve as an integral member of a high performing team.
 
 Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
 as it is an element of implementation of a  strategy.
@@ -302,14 +301,13 @@ as it is an element of implementation of a  strategy.
 Much of this responsibility falls to the traditional role of the Dvelopment Manager.
 
 The Development or Engineering Manager exhibits the principles and practices of Lean-Agile leadership. 
-Coaching Scrum teams to deliver effectively, at a sustainable pace, Coaching Scrum teams to use agile engineering
-practices such as automated builds and TDD.
+Coaching Scrum teams to deliver effectively, at a sustainable pace, coaching Scrum teams, and as Advisor
+to use agile engineering practices such as automated builds and TDD. 
 
-Further, the Manager has responsibility for the coaching and career development of direct reports, takes
-responsibility for eliminating impediments, actively evolves the systems in which all knowledge 
-workers operate, takes subtle control in assigning individuals to teams, participates in defining 
-and administering compensation, benefilts and promotions, evaluate performance, including team input
-and corrective actions, serves as an Agile coach and Advisor to Agile Teams,  remains close 
+Further, the Manager  takes responsibility for eliminating impediments, actively evolves the systems
+in which all knowledge workers operate, takes subtle control in assigning individuals to teams, 
+participates in defining and administering compensation, benefilts and promotions, 
+evaluate performance, including team input and corrective actions, remains close 
 enough to the team to add value and to be competent, input into training and development strategy,
 organising training and themed dev community months/internal developer conferences.
 
