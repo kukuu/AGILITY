@@ -79,7 +79,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 	   and your deployment mechanism should deploy this same binary to each successive environment
 
 	6. Use precisely the same mechanism to deploy to every environment. Both QA and production
-	 deployment must be both autmated.
+	   deployment must be both autmated.
 
 	7. Smoke test your deployment. Write a smoke test and include that in the deployment process.
 
@@ -285,7 +285,7 @@ You will need a  Consul to store and  manage service states.
 		   i.e - Omniture/Google Analytics
 
 
-# The role of Engineering Manager in SAFe Lean Agile development
+# The role of Engineering Manager in SAFe Lean Agile Development
 
 SAFe emphasizes the values of autonomous, self-organisng, cross-functional teams and Agile Release Trains.
 This supports a leaner management infrastructure, with more empowered individuals and teams and faster, 
