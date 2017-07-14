@@ -170,7 +170,7 @@ The Facade design pattern is often used when a system is very complex or difficu
 
 3. The API Gateway can also provide each client with a custom API. It typically exposes a coarse‑grained API for mobile clients. Consider, for example, the product details scenario. The API Gateway can provide an endpoint (/productdetails?productid=xxx) that enables a mobile client to retrieve all of the product details with a single request. The API Gateway handles the request by invoking the various services – product info, recommendations, reviews, etc. – and combining the results.
 
-###. Benefits and Drawbacks of an API Gateway
+### Benefits and Drawbacks of an API Gateway
 
 Using an API Gateway has both benefits and drawbacks. 
 
