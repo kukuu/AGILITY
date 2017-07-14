@@ -197,7 +197,7 @@ The Facade design pattern is often used when a system is very complex or difficu
 
 1. The API Gateway is responsible for request routing, composition, and protocol translation. All requests from clients first go through the API Gateway. It then routes requests to the appropriate microservice. 
 
-2. he API Gateway will often handle a request by invoking multiple microservices and aggregating the results. It can translate between web protocols such as HTTP and WebSocket and web‑unfriendly protocols that are used internally.
+2. The API Gateway will often handle a request by invoking multiple microservices and aggregating the results. It can translate between web protocols such as HTTP and WebSocket and web‑unfriendly protocols that are used internally.
 
 3. The API Gateway can also provide each client with a custom API. It typically exposes a coarse‑grained API for mobile clients. Consider, for example, the product details scenario. The API Gateway can provide an endpoint (/productdetails?productid=xxx) that enables a mobile client to retrieve all of the product details with a single request. The API Gateway handles the request by invoking the various services – product info, recommendations, reviews, etc. – and combining the results.
 
@@ -406,7 +406,28 @@ You will need a  Consul to store and  manage service states.
 
 
 
+# Web Services
 
+A web service is a collection of open protocols and standards  used for exchanging data between applications or systems over the internet and uses a standardized XML messaging  system. XML is used to encode all communications to a web service. For  example, a client invokes a web service by sending an XML message, then  waits for a corresponding XML response.
+
+ As all communication is in XML,  web services are not tied to any one operating system or programming  language - Java can talk with Perl; Windows applications can talk with  Unix applications.
+
+ Web services are self-contained, modular, distributed, dynamic  applications. These  applications can be local, distributed, or web-based. Web services are  built on top of open standards such as TCP/IP, HTTP, Java, HTML, and  XML.
+
+
+# Differences between SOA and Micro-services
+
+The core difference between SOA and microservices lies in the size and scope. Microservices must be independently deployable, whereas SOA services are often implemented in deployment monoliths. Classic SOA is more platform driven, so microservices offer more choices in all dimensions.
+
+ Features of SOA:
+
+	1. Boundaries are explicit
+
+	2. Services are autonomous
+
+	3. Services share schema and contract, not class
+
+	4. Service compatibility is based on policy
 
 
 
