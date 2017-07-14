@@ -56,6 +56,37 @@ Above all other points, the ability for agile development requirements to emerge
 The active involvement, cooperation and collaboration make agile development teams a much more enjoyable place for most people. Instead of big specs, we discuss requirements in workshops. Instead of lengthy status reports, we collaborate around a task-board discussing progress. Instead of long project plans and change management committees, we discuss what’s right for the product and project and the team is empowered to make decisions. In my experience this makes it a much more rewarding approach for everyone. In turn this helps to create highly motivated, high performance teams that are highly co-operative.
 
 
+
+## Implementing SAFe Lean Agile Development
+
+SAFe emphasizes the values of autonomous, self-organisng, cross-functional teams and Agile Release Trains.
+This supports a leaner management infrastructure, with more empowered individuals and teams and faster, 
+local decision making. Taditional, day-to-day employee instructions and activity  direction is no longer required.
+
+However, all employees  still need someone to assist them with career development, set and manage expectations
+and provide the active coaching they need to advance their technical, functional, individual and team 
+skills and career goals.  They also have a right to serve as an integral member of a high performing team.
+
+Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
+as it is an element of implementation of a  strategy.
+
+Much of this responsibility falls to the traditional role of the Dvelopment or Engineering Manager.
+
+The Development or Engineering Manager exhibits the principles and practices of Lean-Agile leadership. 
+Coaching Scrum teams to deliver effectively, at a sustainable pace, and as Advisor
+to use agile engineering practices such as automated builds and TDD. 
+
+Further, the Manager  takes responsibility for eliminating impediments, actively evolves the systems
+in which all knowledge workers operate, takes subtle control in assigning individuals to teams, 
+participates in defining and administering compensation, benefilts and promotions, 
+evaluate performance, including team input and corrective actions, remains close 
+enough to the team to add value and to be competent, input into training and development strategy,
+organising training and themed dev community months/internal developer conferences.
+
+Other duties will include involved in recruitment and retention strategy, on-boarding new developers, 
+co-facilitating development community of practice, appraisals & Performance Management, 
+organising recognition awards and socials, and finally stays far away to let them problem-solve on their own.
+
 # Continuous Delivery (RRASc)
 
 #### Reliable :: Repeatable :: Automation :: Source control
@@ -374,35 +405,6 @@ You will need a  Consul to store and  manage service states.
 		   i.e - Omniture/Google Analytics
 
 
-# The role of Engineering Manager in SAFe Lean Agile Development
-
-SAFe emphasizes the values of autonomous, self-organisng, cross-functional teams and Agile Release Trains.
-This supports a leaner management infrastructure, with more empowered individuals and teams and faster, 
-local decision making. Taditional, day-to-day employee instructions and activity  direction is no longer required.
-
-However, all employees  still need someone to assist them with career development, set and manage expectations
-and provide the active coaching they need to advance their technical, functional, individual and team 
-skills and career goals.  They also have a right to serve as an integral member of a high performing team.
-
-Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
-as it is an element of implementation of a  strategy.
-
-Much of this responsibility falls to the traditional role of the Dvelopment Manager.
-
-The Development or Engineering Manager exhibits the principles and practices of Lean-Agile leadership. 
-Coaching Scrum teams to deliver effectively, at a sustainable pace, and as Advisor
-to use agile engineering practices such as automated builds and TDD. 
-
-Further, the Manager  takes responsibility for eliminating impediments, actively evolves the systems
-in which all knowledge workers operate, takes subtle control in assigning individuals to teams, 
-participates in defining and administering compensation, benefilts and promotions, 
-evaluate performance, including team input and corrective actions, remains close 
-enough to the team to add value and to be competent, input into training and development strategy,
-organising training and themed dev community months/internal developer conferences.
-
-Other duties will include involved in recruitment and retention strategy, on-boarding new developers, 
-co-facilitating development community of practice, appraisals & Performance Management, 
-organising recognition awards and socials, and finally stays far away to let them problem-solve on their own.
 
 
 
