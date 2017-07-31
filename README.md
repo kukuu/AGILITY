@@ -1,6 +1,6 @@
 
 # Digital transformation 
-Is the change associated with the application of digital technology. When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. Practices used in transformation include methodologies like Agile, Continuous Delivery, Micro-services and Containerization.
+Is the change associated with the application of digital technology. When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. Practices used in transformation include methodologies like Agile, Kanban, Continuous Delivery, Micro-services and Containerization.
 
 
 
