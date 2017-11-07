@@ -114,7 +114,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 	   and your deployment mechanism should deploy this same binary to each successive environment
 
 	6. Use precisely the same mechanism to deploy to every environment. Both QA and production
-	   deployment must be both autmated.
+	   deployment must be both automated.
 
 	7. Smoke test your deployment. Write a smoke test and include that in the deployment process.
 
