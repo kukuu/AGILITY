@@ -35,6 +35,6 @@ Cycle time, part of lead time, is how long it takes to make a desired change to 
 The open and close rate is the number of issues or problems developers report and fix or close over a period of time.
 
 
-### Production 
+### Down time analysis 
 
-Production is a downtime analysis and includes mean time between failures (MTBF) and mean time to recover/repair (MTTR). These measure how well software performs in a production environment.
+Downtime analysis is a measure of the  mean time between failures (MTBF) and mean time to recover/repair (MTTR). This evaluates how well software performs in a production environment.
