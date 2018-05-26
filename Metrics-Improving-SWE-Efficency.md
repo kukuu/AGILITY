@@ -1,4 +1,4 @@
-# Metrics for Improving Software Engineering Efficiency and Productivity
+# Improving Software Engineering Efficiency and Productivity
 
  
 In today’s fast-paced technological landscape, tomorrow’s products are already at risk of being “old news.” To overcome lengthy production cycles, successful software developers are focusing on efficiency and productivity. Greater efficiency leads to greater productivity, accelerated product life cycles, shorter time to market and, ultimately, an increased bottom line.
