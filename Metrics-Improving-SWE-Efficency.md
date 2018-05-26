@@ -1,4 +1,4 @@
-# Metrics for Improving Software Engineering Efficiency and Productivity
+#  Improving Software Engineering Efficiency and Productivity
 
  
 In today’s fast-paced technological landscape, tomorrow’s products are already at risk of being “old news.” To overcome lengthy production cycles, successful software developers are focusing on efficiency and productivity. Greater efficiency leads to greater productivity, accelerated product life cycles, shorter time to market and, ultimately, an increased bottom line.
@@ -33,4 +33,8 @@ Cycle time, part of lead time, is how long it takes to make a desired change to 
 ### Open and close rates 
 
 The open and close rate is the number of issues or problems developers report and fix or close over a period of time.
-Production — Production is a downtime analysis and includes mean time between failures (MTBF) and mean time to recover/repair (MTTR). These measure how well software performs in a production environment.
+
+
+### Production 
+
+Production is a downtime analysis and includes mean time between failures (MTBF) and mean time to recover/repair (MTTR). These measure how well software performs in a production environment.
