@@ -16,7 +16,7 @@ CI acts as a safety net that lets developers prevent many issues before they rea
 
 The best initial investment developers can make is to ensure that their automated test suite is comprehensive and stable enough that they feel safe to deploy every passed CI build to a staging, and later production environment, without a long manual QA (quality assurance) process.
 
-The second thing to pay attention to is CI speed: at Semaphore, we strongly believe that developers must get CI results within 10 minutes, otherwise their productivity shrinks due to lack of focus and frequent context switching. We build our product to support that. An easy way to optimize CI time is to run tests in parallel on a powerful platform.
+The second thing to pay attention to is CI speed: It is strongly recommmended that developers must get CI results within 10 minutes, otherwise their productivity shrinks due to lack of focus and frequent context switching. An easy way to optimize CI time is to run tests in parallel on a powerful platform.
 
 
 ## The leap to continuous delivery and deployment
