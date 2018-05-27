@@ -1,7 +1,11 @@
 #  Improving Software Engineering Efficiency and Productivity
 
  
-In today’s fast-paced technological landscape, tomorrow’s products are already at risk of being “old news.” To overcome lengthy production cycles, successful software developers are focusing on efficiency and productivity. Greater efficiency leads to greater productivity, accelerated product life cycles, shorter time to market and, ultimately, an increased bottom line.
+In today’s fast-paced technological landscape, tomorrow’s products are already at risk of being “old news.”  
+
+Focus must be directed at building high performance engineering teams. One with a quick turn around, and also with a minimum or no down time.
+
+To overcome lengthy production cycles, successful software developers are focusing on efficiency and productivity. Greater efficiency leads to greater productivity, accelerated product life cycles, shorter time to market and, ultimately, an increased bottom line.
 
  Engineering team managers can use many metrics to gauge efficiency and productivity along the way. But of course, the ultimate measure of a software application’s success is whether it meets end users’ needs and improves the organization’s business results.
 
