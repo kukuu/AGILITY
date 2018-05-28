@@ -1,4 +1,6 @@
-# Competence Matrix – how to make team skills visible
+# Competence Matrix 
+
+## How to make team skills visible
 
 Scrum promotes on self-organizing and cross-functional teams.  Each Development Team has to have all the skills to turn a Product Backlog Item into an increment of working software.
 
