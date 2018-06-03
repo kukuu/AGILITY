@@ -37,6 +37,13 @@ Service Workers are powerful, but complicated. Generally, writing them from scra
 
 Progressive Web Apps are judged by several performance standards, including Time to Interactive and First Meaningful Paint.
 
+```Time to Interactive - This audit identifies the time at which a page appears to be ready enough that a user can interact with it.```
+
+
+```First Meaningful Paint - First Meaningful Paint is essentially the paint after which the biggest above-the-fold layout change has happened, and web fonts have loaded.```
+
+
+
 ### Tools
 
 #### Capacitor: Native Progressive Web Apps
