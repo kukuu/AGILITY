@@ -1,4 +1,4 @@
-# SOA and Micro services
+# SOA and Micro-services
 
 ## SOA
 A Service Oriented Architecture is a software architecture pattern, which application components provide services to other components via a communications protocol over a network. The communication can involve either simple data passing or it could involve two or more services coordinating connecting services to each other. Services (such as RESTful Web services) carry out some small functions, such as validating an order, activating account, or providing shopping cart services.
