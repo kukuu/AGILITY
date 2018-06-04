@@ -82,3 +82,78 @@ if (!isAvailable) {
   Camera.getPhoto()
 }
 
+
+```
+
+## Hybrid vs Native
+
+
+### How to make a choice
+
+Most companies face a common challenge, such as, what should be built – native app or hybrid app? Which will be the best for the organization? The answers to the queries depend on the factors such as the following:
+
+1. Speedy development of the app
+
+2. Whether the organization opt for in-house development
+
+3. Objective of building the app
+
+4. Budget to develop the app
+
+5. Features required in the app
+
+
+### Hybrid
+
+Hybrid applications are web applications (or web pages) in the native browser, such as UIWebView in iOS and WebView in Android (not Safari or Chrome).
+
+Hybrid apps are developed using HTML, CSS and Javascript, and then wrapped in a native application using platforms. like Cordova.
+
+
+
+#### The main features of a typical hybrid app are:
+
+1. Faster app development
+
+2. Simple and easy to maintain
+
+3. Cross platform UI
+
+4. Integrate with device file system
+
+5. Less expensive app development and cost effective maintenance
+
+6. Single code management for multiple mobile platforms
+
+
+### What is Native app?
+
+A native app is a program that has been coded in a specific programming language, for devices having specific OS. For instance, Objective C is used for iOS or Java for Android Phones. These apps can take advantage of OS features and other software tools that are installed on that platform. They also have access to various phones functions such as camera, gallery, contact list etc. Mostly Native apps are compiled into machine code. These provisions help native apps perform the best in a mobile device.
+
+The native development is easy and there are innumerous resources available, but it might not be understandable to everyone. Since the code has to be written specifically for each platform, it has to be rewritten for each one. Only the logic remains same but the language, APIs and the development process might be different. Sometimes, this process becomes quite long for complex applications.
+
+
+#### The main features of a native app are:
+
+1. High degree of reliability
+
+2. Simple but Fast Performance and better user experience
+
+3. Supports both online & offline transactions
+
+4. Native features can best be exploited
+
+
+### Development Cost and Time
+
+Hybrid apps take least amount of time to develop and are developed at a fairly cheaper price as compared to native app. Building a hybrid app means maintaining just one code whereas with native code you need an app developer for each platform. But this does not mean that native apps are bad because they have their own advantages.
+
+
+### User Experience
+
+Native apps provide the best user experience because they are specifically designed for a single app store, with which one can get the best compatible apps. The screen size is taken care of and so the hardware capabilities. With Hybrid apps it is impossible to provide a good experience with just 1 application code for all platforms.
+
+
+### Paid or Free app
+
+Since native apps have the best UI hence paid apps are usually advised to be developed as native apps whereas free apps can be developed as hybrid apps.
