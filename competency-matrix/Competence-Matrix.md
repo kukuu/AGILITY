@@ -15,7 +15,7 @@ In large organizations a Product Owner might be looking for a Development Team t
 Competence Matrices is a tool that is built in two steps: Identifying Competencies and Filling the matrix. After creating it requires periodical updating.
 
 
-##Identifying Competencies
+## Identifying Competencies
 
 The first step to building a competence matrix is identifying as many competencies as we can in the team. It can be done in many ways – by mind-mapping all skills in detail on the wall, identifying them on sticky notes and grouping, simply brainstorming on the whiteboard. The Development Team can use any desired exercise to identify those.
 
