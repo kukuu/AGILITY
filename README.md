@@ -3,6 +3,22 @@
 Is the change associated with the application of digital technology. When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. Practices used in transformation include methodologies like Agile, Kanban, Continuous Delivery, Micro-services and Containerization.
 
 
+## Agile management
+
+Agile management involves the division of a company into small teams of employees, each one acting like a start-up in its own right. The aim is to change the way in which your company runs to meet the ever-changing demands of the global market. There is even an ‘Agile Manifesto,’ which highlights the key messages behind the system – including self-organisation, collaboration and cross-functionality of teams.
+
+### Squads
+
+The individual teams that make up a company in agile management are known as squads. The idea is that each squad has its own defined goal, which they work towards autonomously. Each squad has a ‘product owner’: they prioritise work to be done. However, they don’t tell employees how to work. Squad members also have access to an ‘agile coach’ to keep them up to date and well informed.
+
+### Tribes
+
+A tribe is the name given to a collection of squads working together. They can be seen as an incubator for the mini start-up squads in your company. Tribes will usually not exceed more than around 100 employees.
+
+### Guilds
+
+The idea behind guilds is that they glue the company together and ensure you avoid losing economies of scale without sacrificing too much autonomy. In other words, guilds allow for cross-referencing between squads.
+
 
 ## Benefits of AGILE
 
