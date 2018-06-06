@@ -166,6 +166,8 @@ Microservices architecture is an approach to application development in which a 
 
 When you choose to build your application as a set of microservices, you need to decide how your application’s clients will interact with the microservices. With a monolithic application there is just one set of (typically replicated, load‑balanced) endpoints. In a microservices architecture, however, each microservice exposes a set of what are typically fine‑grained endpoints.
 
+Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol.
+
 #### Loose coupling::individual deployment:: repeatable deployment can only be achieved by repeatble context ==> containerisation
 
 Microservices enforce loose coupling, plus it’s easier to develop fast and reliable deployment pipelines if they only have to handle small packages.
