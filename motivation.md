@@ -1,8 +1,10 @@
+# Motivating your teams
+
 Teams are the way that most companies get important work done. When you combine the energy, knowledge, and skills of a motivated group of people, then you and your team can accomplish anything you set your minds to.
 
-Weekdone.com recently took a look at some of the mistakes leaders make that drive away their top talent. As they suggest, "Reflect on your behavior, fix these mistakes, and get ready to boost your team performance and motivation."
+Hi-lighted below are some mistakes leaders make that drive away their top talent. Rule of thumb, "Reflect on your behavior, fix these mistakes, and get ready to boost your team performance and motivation."
 
-Try these 9 powerful ways to keep the members of your team motivated and giving their very best on the job.
+## Ways to keep the members of your team motivated
 
 1. Pay your people what they are worth
 
@@ -18,7 +20,7 @@ The members of your team will be more valuable to your organization, and to them
 
 4. Foster collaboration within the team
 
-According to Weekdone.com, 39 percent of employees don't feel that their input is appreciated. Encourage the members of your team to fully participate by inviting their input and suggestions on how to do things better. Ask questions, listen to their answers, and, whenever possible, implement their solutions.
+Encourage the members of your team to fully participate by inviting their input and suggestions on how to do things better. Ask questions, listen to their answers, and, whenever possible, implement their solutions.
 
 5. Encourage happiness
 
@@ -26,16 +28,17 @@ Happy employees are enthusiastic and positive members of the team, and their att
 
 6. Don't punish failure
 
-We all make mistakes. It's part of being human. The key is to learn valuable lessons from those mistakes so we don't make them again. When members of your team make honest mistakes, don't punish them--instead, encourage them to try again.
+We all make mistakes. It's part of being human. The key is to learn valuable lessons from those mistakes so we don't make them again. When members of your team make honest mistakes, don't punish them--instead, encourage them to try again. Note the principle of fail fast in Agile.
 
 7. Set clear goals
 
-In one study, 63 percent of employees reported that they wasted time at work because they weren't aware of what work was a priority, and what wasn't. As a leader, it's your job to work with the members of your team to set clear goals. And once you do that, make sure everyone knows exactly what those goals are, what their relative priority is, and what the team's role is in reaching them.
+Sizeable amount of Employees have reported that they wasted time at work because they weren't aware of what work was a priority, and what wasn't. As a leader, it's your job to work with the members of your team to set clear goals. And once you do that, make sure everyone knows exactly what those goals are, what their relative priority is, and what the team's role is in reaching them.
 
 8. Don't micromanage
 
-No one likes a boss who is constantly looking over her shoulder and second-guessing her every decision. In fact, 38 percent of employees in one survey reported that they would rather take on unpleasant activities than sit next to a micromanaging boss. Provide your people with clear goals (see number 7, above), and then let them figure out the best way to achieve them.
+No one likes a boss who is constantly looking over her shoulder and second-guessing her every decision. Sizeable percent of employees have  reported that they would rather take on unpleasant activities than sit next to a micromanaging boss. Provide your people with clear goals, and then let them figure out the best way to achieve them.
 
 9. Avoid useless meetings
 
 Meetings can be an incredible waste of time--the average professional wastes 3.8 hours in unproductive meetings each and every week. Create an agenda for your meetings and distribute it in advance. Invite only the people who really need to attend, start the meeting on time, and then end it as quickly as you possibly can.
+
