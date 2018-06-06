@@ -1,10 +1,12 @@
+
+
 # Motivating your teams
 
 Teams are the way that most companies get important work done. When you combine the energy, knowledge, and skills of a motivated group of people, then you and your team can accomplish anything you set your minds to.
 
 Hi-lighted below are some mistakes leaders make that drive away their top talent. Rule of thumb, "Reflect on your behavior, fix these mistakes, and get ready to boost your team performance and motivation."
 
-## Ways to keep the members of your team motivated
+## How to motivate your team
 
 1. Pay your people what they are worth
 
