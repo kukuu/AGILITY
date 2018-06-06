@@ -1,5 +1,5 @@
 
-# Digital transformation 
+# Digital Transformation 
 
 Is the change associated with the application of digital technology. When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. Practices used in transformation include methodologies like Agile, Kanban, Continuous Delivery, Micro-services, Containerization, Big Data Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development, and Mobility Management.
 
