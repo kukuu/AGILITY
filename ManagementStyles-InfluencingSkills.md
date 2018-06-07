@@ -47,14 +47,7 @@ Two self-promotion strategies stand out. First, leaders who are good at this ski
 
 ### Networking
 
-Networking to build social capital, including mingling strategically.
-Thinking before responding, considering context and goals before deciding when and how to express themselves. 
-Paying close attention to nonverbal cues, practicing active listening, considering how others might feel, and finding ways to appeal to the common good. 
-
-Leaving people with a good impression, without coming across as “trying too hard.”
-Promote Yourself, Promote the Organization
-Self-promotion is often seen as bragging or selfishness. But influential leaders know that by promoting themselves authentically, for the right reasons, they can cut through the information that bombards us all each day.
-
+Leaders who are skilled at influencing others recognize and cultivate the power of networks. Organizations are increasingly dynamic; they morph in size and shape over time. Influential leaders recognize that their personal networks must also be dynamic, and they continually grow and strengthen their networks. They are also strategic about choosing how and when to tap into this network.
 
 ### Building and Maintaining a Foundation of Trust
 
@@ -64,6 +57,3 @@ Building and maintaining trust is essential for leading. Without trust, leaders 
 People look for leaders who can appreciate their vulnerability and inspire them, understand them, support them, and guide them through looming chaos. This requires the leader to demonstrate a broad range of behaviors, some of which might seem contradictory but when used in an appropriate and timely manner, create conditions that foster trust.
 
 Trust involves a careful balance between pushing people into areas where they’re uncomfortable while also listening carefully to their concerns and feedback. Among the many “balancing acts” they must work to maintain, trustworthy leaders weigh toughness and empathy as individuals struggle with transition as well as urgency with patience as change proceeds.
-
-Network Influence
-Finally, leaders who are skilled at influencing others recognize and cultivate the power of networks. Organizations are increasingly dynamic; they morph in size and shape over time. Influential leaders recognize that their personal networks must also be dynamic, and they continually grow and strengthen their networks. They are also strategic about choosing how and when to tap into this network.
