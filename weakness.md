@@ -23,3 +23,5 @@ Examples:
 
 4. I have a very strong attention to detail. Sometimes, this attention to detail can turn into perfectionist tendencies. In the past, I found this leading me to triple-check every item on a spreadsheet, or closely proofreading emails to ensure I’ve communicated what I’m trying to get across in a clear, concise way, or fiddling with the layout of a presentation to ensure that it is perfect. I’ve since learned to successfully budget my time and gauge which tasks require, and actually benefit from, this precise attention to detail.
 
+5. When I'm working on a project, I don't want just to meet deadlines. Rather, I prefer to complete the project well ahead of when it is due. While this means I never miss a deadline, it also means that sometimes I can find myself rushed when I’m working. I’ve since learned to slow down, be more patient and give each project the careful attention it deserved.
+
