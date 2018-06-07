@@ -1,5 +1,5 @@
 
-# Mnagement Styles
+# Management Styles
 
 Different types of leadership styles exist in work environments. The culture and goals of an organization determine which leadership style fits the firm best, while personality differences often dictate which is most often used. Some companies offer several leadership styles within the organization, dependent upon the necessary tasks to complete and departmental needs.
 
