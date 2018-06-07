@@ -47,7 +47,9 @@ The first type of client will generally have a good technical background and pro
 That second type of client will often be a little more culturally in tune but say be surprised by the total cost of production.
 
 
-And the third type of client will potentially require for the supplier to help play a bigger role in the design finalisation and technical pack finishing. ```
+And the third type of client will potentially require for the supplier to help play a bigger role in the design finalisation and technical pack finishing. 
+```
+
 
 It’s a wise idea to ask plenty of questions at the outset of working with a new client to figure out how much or how little knowledge they have about the process and what their communication style is.
 
