@@ -1,6 +1,6 @@
 # Building Successful Supplier-Client Relationships
 
-1. Form a relationship with your client
+## Form a relationship with your client
 
 Understand the project you are undertaking, right from the outset, and make sure that your client understands the context of your business to avoid any misconceptions.
 
@@ -14,7 +14,7 @@ With new designers whom may not be used to dealing with external suppliers and t
 
 You may also be dealing with individuals whom have never worked in your country before and are not yet accustomed to the cultural differences and different styles of business etiquette.
 
-2. Be honest with your capabilities
+##  Be honest with your capabilities
 
 Highlight your strengths and what makes you stand out from potential competitors, don’t take on an order unless you have the actual capacity to fulfil it to a high quality standard. It is common throughout business and social culture to sometimes say ‘yes’ to a question or request being made in an effort to avoid disappointment.
 
@@ -22,12 +22,12 @@ Make it clear to clients as to what it is you handle and what you do not. It is 
 
 It’s more disappointing when a promise you’ve made is not delivered or a high level of quality is not achieved.
 
-3. Transparency throughout the manufacturing process
+##  Transparency throughout the manufacturing process
 
 Be clear and honest about your situation throughout the entire production run – capacity, working time, stresses, cultural and practical contexts or limitations. This will help designers develop a product which works to both their and your best abilities and time frames; and to be flexible if lead-times shift.
 
 
-4. Understand your client
+## Understand your client
 
 Different cultural business etiquette and their past sourcing experience.
 Different nationalities conduct business in diverse ways and it is important to be open to working with people whose communication style is a little different to yours. A good partnership will be a mutual effort from both sides to jump this hurdle.
@@ -52,14 +52,14 @@ And the third type of client will potentially require for the supplier to help p
 It’s a wise idea to ask plenty of questions at the outset of working with a new client to figure out how much or how little knowledge they have about the process and what their communication style is.
 
 
-5. Provide clients with POCs/RAD templates 	where possible
+##  Provide clients with POCs/RAD templates 	where possible
 
 It can be a very good idea to construct your own templates for production orders and garment specification 
 
 By using your own template you will also become in charge of a formula you are familiar with and thereby identify problems and areas that may need addressing earlier and quicker.
 
 
-6. Communication is Key: Communicate clearly and often
+## Communication is Key: Communicate clearly and often
 
 At every stage of the develoment process it is important to communicate with the designer. Check over any detail, no matter how small or large.
 
@@ -72,7 +72,7 @@ Here communication gaps can arise due to the simple fact that the designer mainl
 Honesty and attention to detail throughout the production process is best.
 
 
-7. Respect for the individual and importance of teamwork
+## Respect for the individual and importance of teamwork
 
 How you structure and organise yourself as a supplier will have a domino effect on the relationships you build with your clients and the way in which you handle your business and projects.
 
