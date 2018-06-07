@@ -35,7 +35,7 @@ Effective leaders don’t just command; they inspire, persuade, and encourage. L
 
 The goal is to influence others, not manipulate them. Effective, ethical leaders use different approaches in different situations. Leaders need to understand why they are doing something, and be clear about their own values and goals when applying their influence skills. That way, influence comes from a place of authenticity and has the greatest impact.
 
-## How can one achieve? 
+## How to achieve
 
 
 ### Self promotion - Gravitas
@@ -67,7 +67,3 @@ Trust involves a careful balance between pushing people into areas where they’
 
 Network Influence
 Finally, leaders who are skilled at influencing others recognize and cultivate the power of networks. Organizations are increasingly dynamic; they morph in size and shape over time. Influential leaders recognize that their personal networks must also be dynamic, and they continually grow and strengthen their networks. They are also strategic about choosing how and when to tap into this network.
-
-
-
-
