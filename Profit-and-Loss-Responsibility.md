@@ -3,7 +3,7 @@
 
 Profit and Loss (P & L) responsibility is one of the most important responsibilities of any executive position. Having P & L responsibility involves monitoring the net income after expenses for a department or entire organization, with direct influence on how company resources are allocated. Those with P & L responsibility often give final approval for new projects and are required to find ways to cut budget expenditure and ensure every program is generating a positive ROI.
 
-## ResponsibilitIES
+## Responsibilities
 
 Considering ROI management and heavy cost-cutting has become increasingly important with the current economic downturn, having experience of managing P & L is something that is actively searched for by executive recruiters when qualifying executive job candidates. So what are the main characteristics of a senior executive who takes control of this function?
 
