@@ -42,6 +42,7 @@ clarifying
 
 ```
 
+
 Sometimes it is helpful to take notes during the discussion stage to record all points put forward in case there is need for further clarification.  It is extremely important to listen, as when disagreement takes place it is easy to make the mistake of saying too much and listening too little.  Each side should have an equal opportunity to present their case.
 
 ### Clarifying Goals
@@ -94,7 +95,8 @@ Nevertheless, remembering the key points in the stages of formal negotiation may
 
 All negotiation is strongly influenced by underlying attitudes to the process itself, for example attitudes to the issues and personalities involved in the particular case or attitudes linked to personal needs for recognition.
 
-### Knowledge
+
+### Knowledge
 
 The more knowledge you possess of the issues in question, the greater your participation in the process of negotiation.  In other words, good preparation is essential.
 
