@@ -6,7 +6,7 @@ Is the change associated with the application of digital technology. When planni
 
 ## Agile management
 
-Agile management involves the division of a company into small teams of employees, each one acting like a start-up in its own right. The aim is to change the way in which your company runs to meet the ever-changing demands of the global market. There is even an ‘Agile Manifesto,’ which highlights the key messages behind the system – including self-organisation, collaboration and cross-functionality of teams.
+Agile management involves the division of a company into small teams of employees, each one acting like a start-up in its own right. The aim is to change the way in which your company runs to meet the ever-changing demands of the global market. The ‘Agile Manifesto,’ highlights key messages behind the system – including self-organisation, collaboration and cross-functionality of teams.
 
 ### Squads
 
