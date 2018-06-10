@@ -10,15 +10,15 @@ Agile management involves the division of a company into small teams of employee
 
 ### Squads
 
-The individual teams that make up a company in agile management are known as squads. The idea is that each squad has its own defined goal, which they work towards autonomously. Each squad has a ‘product owner’: they prioritise work to be done. However, they don’t tell employees how to work. Squad members also have access to an ‘agile coach’ to keep them up to date and well informed.
+The individual teams that make up a company in agile management are known as squads. The idea is that each squad has its own defined goal, which they work towards autonomously. Each squad has a ‘product owner’: they prioritise work to be done. However, they don’t tell employees how to work. Squad members also have access to an ‘agile coach’ to keep them up to date and well informed. Example: The 'Shopping  UI Basket', 'Platform Gateway', and 'Platform Core' teams.
 
 ### Tribes
 
-A tribe is the name given to a collection of squads working together. They can be seen as an incubator for the mini start-up squads in your company. Tribes will usually not exceed more than around 100 employees.
+A tribe is the name given to a collection of squads working together. They can be seen as an incubator for the mini start-up squads in your company. Tribes will usually not exceed more than around 100 employees. Example: Shopping 'Backend' and 'Test' Teams
 
 ### Guilds
 
-The idea behind guilds is that they glue the company together and ensure you avoid losing economies of scale without sacrificing too much autonomy. In other words, guilds allow for cross-referencing between squads.
+The idea behind guilds is that they glue the company together and ensure you avoid losing economies of scale without sacrificing too much autonomy. In other words, guilds allow for cross-referencing between squads. Example: 'Shopping'
 
 
 ## Benefits of AGILE
