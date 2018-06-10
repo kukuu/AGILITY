@@ -1,7 +1,7 @@
 
 # What is Negotiation?
 
- Negotiation  is a process by which compromise or agreement is reached while avoiding argument and dispute. It must encapsulate  the principles of fairness, seeking mutual benefit and maintaining a relationship are the keys to a successful outcome.
+ Negotiation  is a process by which compromise or agreement is reached while avoiding argument and dispute. It must encapsulate  the principles of fairness, seeking mutual benefit and maintaining a relationship for a successful outcome.
 
 
 ## The process of negotiation includes the following stages:
