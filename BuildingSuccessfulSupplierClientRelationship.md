@@ -56,7 +56,7 @@ It’s a wise idea to ask plenty of questions at the outset of working with a ne
 
 ##  Provide clients with POCs/RAD templates 	where possible
 
-It can be a very good idea to construct your own templates for production orders and garment specification 
+It can be a very good idea to construct your own templates for production orders and technical specification 
 
 By using your own template you will also become in charge of a formula you are familiar with and thereby identify problems and areas that may need addressing earlier and quicker.
 
