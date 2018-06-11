@@ -22,7 +22,7 @@ The members of your team will be more valuable to your organization, and to them
 
 4. Foster collaboration within the team
 
-Encourage the members of your team to fully participate by inviting their input and suggestions on how to do things better. Ask questions, listen to their answers, and, whenever possible, implement their solutions.
+Encourage the members of your team to fully participate by inviting their input and suggestions on how to do things better. Ask questions, listen to their answers, and, whenever possible, implement their solutions. Ensure retrospectives are continuously engaged.
 
 5. Encourage happiness
 
