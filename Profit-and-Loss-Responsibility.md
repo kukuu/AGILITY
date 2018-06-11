@@ -17,7 +17,7 @@ P & L responsibility goes far beyond reporting current finances or being respons
 
 3. Team leadership skills – taking the team with you, providing inspiration. 
 
-P & L responsibility goes hand in hand with leadership - executives must communicate the actualities of the P & L statement and ensure every employee is invested in positively influencing the financial situation of the organization.
+P & L responsibility goes hand in hand with leadership - executives must communicate the actualities of the P & L statement and ensure every employee is invested in positively influencing the financial situation of the organization. Encouraging employees to spend each pound as if it was their own.
 
 4. Willingness to listen to others and encouragement of creative ideas, regardless of source.
 
