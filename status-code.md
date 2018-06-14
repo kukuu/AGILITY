@@ -1,4 +1,4 @@
-# HTTP Status CodeS
+# HTTP Status Codes
 
 HTTP status Code is a list of Hypertext Transfer Protocol (HTTP) response status codes. Status codes are issued by a server in response to a client's request made to the server. 
 
