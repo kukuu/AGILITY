@@ -104,6 +104,26 @@ Other duties will include involved in recruitment and retention strategy, on-boa
 co-facilitating development community of practice, appraisals & Performance Management, 
 organising recognition awards and socials, and finally stays far away to let them problem-solve on their own.
 
+
+## How are Scrum and Kanban different
+
+There are a number of differences in both the philosophy behind and the practical application of Scrum and Kanban. While the individual differences are many, they can be grouped into the following three buckets:
+
+### Scheduling, iteration, and cadence
+
+1. Scrum processes place heavy emphasis on schedule. The scrum team is provided with a prioritized list of story points that need to be completed to deliver a shippable product. The team must decide how many of the points they feel can be completed within one sprint. Anything outside the scope they commit to must wait for the next sprint. Optimally, an efficient scrum team will quickly learn their capabilities over the course of several sprints and their estimates will improve and be optimized as time goes on. Then, every two weeks (or however long their sprint is) the team produces a shippable product, carries out a retrospective to discuss optimizing the process, and moves into the next sprint. This iterative process is designed to allow for accurate estimations of work flow and effective management of multiple projects. 
+
+2. On a Kanban team, there are no required time boxes or iterations. While the Kanban method is iterative in nature, the continual improvement is expected to occur in an evolutionary fashion as work is continually completed. The limitations placed on various conditions in the work flow will be regulated early in a team’s (or organization’s) use of Kanban until an optimal set of limits is arrived at to keep the flow steady and efficient.
+
+
+### Roles and responsibilities
+
+1. On scrum teams, there are at least three roles that must be assigned in order to effectively process the work: the Product Owner, Scrum Master, and Team Members. Each role has its own set of responsibilities, and they must work together to achieve an orderly and efficient balance. The scrum team itself also must be cross-functional, which is to say that one team must have all the resources necessary to complete the entire sprint’s work.
+
+2. Under Kanban, no set roles are prescribed. Practically speaking, it makes sense for someone to serve as a project manager or supervisor, especially for larger more complex Kanban projects, but the roles should theoretically evolve with the needs of the project and the organization. 
+
+3. A Kanban team is not required to be cross-functional since the Kanban work flow is intended to be used by any and all teams involved in the project. Therefore, a team of specialists and a separate team of generalists may be working on different aspects of the same Kanban project from the same board, and that’s ok.
+
 # Continuous Delivery (RRASc)
 
 #### Reliable :: Repeatable :: Automation :: Source control
