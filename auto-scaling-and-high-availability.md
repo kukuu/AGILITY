@@ -62,6 +62,6 @@ Using AWS Auto Scaling, you maintain optimal application performance and availab
 
 
 
-### PAY ONLY FOR WHAT YOU NEED
+#### PAY ONLY FOR WHAT YOU NEED
 
 AWS Auto Scaling can help you optimize your utilization and cost efficiencies when consuming AWS services so you only pay for the resources you actually need. When demand drops, AWS Auto Scaling will automatically remove any excess resource capacity so you avoid overspending. AWS Auto Scaling is free to use, and allows you to optimize the costs of your AWS environment.
