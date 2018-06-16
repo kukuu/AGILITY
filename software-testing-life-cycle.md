@@ -34,7 +34,9 @@ Litmus – Emails often don’t appear as expected in email clients and testing 
 Documenting your testing efforts is just as essential within an agile team as with other methodologies. Writing lightweight tests will allow you to adapt them over time and using a lightweight test management tool to help manage this process can not only keep you organized and be a huge time saver, but can also provide key reports and identify trends which can be used within you team retrospectives.
 Defect tracking
 
-### Trello – Agile teams often work with lightweight boards, lists and cards and this is exactly what Trello provides. This lightweight tool can be used to track issues and allow your entire team to quickly see the progress in the same way that your scrum board works.
+### Trello 
+
+Agile teams often work with lightweight boards, lists and cards and this is exactly what Trello provides. This lightweight tool can be used to track issues and allow your entire team to quickly see the progress in the same way that your scrum board works.
 Pivotal Tracker – A similar concept to Trello which will allow you to track issues on a board as well as some additional functionality which will come in useful when working within an agile team.
 
 ### Communication
@@ -42,8 +44,11 @@ Pivotal Tracker – A similar concept to Trello which will allow you to track is
 #### JIRA
 
 
-#### Slack – A real time messaging app for teams which allows you to bring all your communication into one place and cut down on all those emails.
-Zoom – Working in the same location is not always possible, you may have remote workers or your client may be the other side of the world. Zoom allows you to host video conferences on a lightweight system.
+#### Slack 
+
+A real time messaging app for teams which allows you to bring all your communication into one place and cut down on all those emails.
+
+#### Zoom – Working in the same location is not always possible, you may have remote workers or your client may be the other side of the world. Zoom allows you to host video conferences on a lightweight system.
 
 #### Other
 
