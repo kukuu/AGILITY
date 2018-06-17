@@ -5,7 +5,7 @@ Finally, Hybrid apps will soon be out as most companies are moving towards Nativ
 PWAs leverage sophisticated web capabilities to deliver in-app experiences to mobile website visitors. 
 This includes the ability for visitors to add the website to their mobile home screen, access content while offline, receive mobile notifications from publishers, and more!
 
-It is another term for a ```website that has been optimized for mobile performance and that utilizes newly available Web APIs to deliver features that are similar to a traditional native app, such as push notifications and offline storage.'''
+It is another term for a website that has been optimized for mobile performance and that utilizes newly available Web APIs to deliver features that are similar to a traditional native app, such as push notifications and offline storage.
 
 
 PWAs deliver users faster and more dynamic experiences than regular mobile pages.
