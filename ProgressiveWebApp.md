@@ -5,18 +5,19 @@ Finally, Hybrid apps will soon be out as most companies are moving towards Nativ
 PWAs leverage sophisticated web capabilities to deliver in-app experiences to mobile website visitors. 
 This includes the ability for visitors to add the website to their mobile home screen, access content while offline, receive mobile notifications from publishers, and more!
 
+```
 It is another term for a website that has been optimized for mobile performance and that utilizes newly available Web APIs to deliver features that are similar to a traditional native app, such as push notifications and offline storage.
 
+PWA also leverages machine learning to discover important information about visitor browsing habits. It can then adjusts things like menu style and layout to help extend sessions and improve revenue.
 
 PWAs deliver users faster and more dynamic experiences than regular mobile pages.
 
+```
 
 You can deploy your app as a PWA as well as Native app and take advantage of both channels. Ionic allows you to ship your app to not only the app store, but also deploy to the mobile web as a PWA.
 
 With PWAs, one can offer all the features of an app on their mobile website without changing their CMS, content, or code.
 
-
-PWA also leverages machine learning to discover important information about visitor browsing habits. It can then adjusts things like menu style and layout to help extend sessions and improve revenue.
 
 ## Adding Progressive Web App Support to your app
 
