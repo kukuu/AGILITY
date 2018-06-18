@@ -27,13 +27,16 @@ To overcome lengthy production cycles, successful software developers are focusi
  AREST
  
  ```
-Automation - Deployment should happen automatically. Creating and publishing packages are for the dark ages!
+Automation - Deployment should happen automatically. Creating and publishing packages are for 
+the dark ages!
 
-Reproducible - Production environment should be the same as the development environment. Issues in production should be easy to reproduce in development. 
+Reproducible - Production environment should be the same as the development environment. 
+Issues in production should be easy to reproduce in development. 
 
 Elastic - Easy to scale up or down services based upon demand.
 
-Smooth - Zero downtime while scaling or upgrading the service. Process of re-instating a failed build should be trivial.
+Smooth - Zero downtime while scaling or upgrading the service. Process of re-instating a failed
+build should be trivial.
 
 Traceable - Logging & monitoring should be in place to watch for issues
 ```
