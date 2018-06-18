@@ -53,7 +53,9 @@ Pivotal Tracker – A similar concept to Trello which will allow you to track is
 
 A real time messaging app for teams which allows you to bring all your communication into one place and cut down on all those emails.
 
-#### Zoom – Working in the same location is not always possible, you may have remote workers or your client may be the other side of the world. Zoom allows you to host video conferences on a lightweight system.
+#### Zoom 
+
+Working in the same location is not always possible, you may have remote workers or your client may be the other side of the world. Zoom allows you to host video conferences on a lightweight system.
 
 #### Other
 
