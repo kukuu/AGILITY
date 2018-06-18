@@ -18,7 +18,7 @@ You will require
 
 3. auth0-api-jwt-rsa-validation - Helper function to generate Secrete Key
 
-4. Create a middleware function to validate the access token when our API is called. See server.js- https://github.com/kukuu/-SECURE-API
+4. Create a middleware functions to validate the access token when our API is called, and also authorise the diferent clients created from the SCOPE. See server.js- https://github.com/kukuu/-SECURE-API
 
 
 ## Protecting end points
