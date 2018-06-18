@@ -6,11 +6,27 @@ Applications and processes that are critical to your business need around-the-cl
 
 ```
 
-When downtime is not an option and your Recovery Time Objective (RTO) is measured in MINUTES, you need to take a serious look at a serious solution, ‘High Availability’
+When downtime is not an option and your Recovery Time Objective (RTO) is measured in MINUTES,
+you need to take a serious look at a serious solution, ‘High Availability’
 
 ```
 
 High availability refers to systems and solutions that are durable and which are likely to operate continuously, without failure for a long time. The term implies that a system has accommodations for failure in the form of redundant components and can recover from software or hardware failure automatically. The more transparent that failover is to users, the higher the availability of the system
+
+### Working Architecture
+
+``
+1. Design for failure
+
+2. Have Multiple Availability Zones
+
+3. Scaling
+
+4. Self Healing 
+
+5. Loose coupling
+
+,,,
 
 ## Using a Load Balancer With an Auto Scaling Group
 
