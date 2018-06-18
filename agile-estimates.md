@@ -28,13 +28,16 @@ Traditional software teams give estimates in a time format: days, weeks, months.
 
 ```
 
-Dates don’t account for the non-project related work that inevitably creeps into our days: emails, meetings, and interviews that a team member may be involved in.
+Dates don’t account for the non-project related work that inevitably creeps into our days: emails,
+meetings, and interviews that a team member may be involved in.
 
 Dates have an emotional attachment to them. Relative estimation removes the emotional attachment.
 
-Once you agree on the relative effort of each story point value, you can assign points quickly without much debate.
+Once you agree on the relative effort of each story point value, you can assign points quickly 
+without much debate.
 
-Story points reward team members for solving problems based on difficulty, not time spent. This keeps team members focused on shipping value, not spending time. 
+Story points reward team members for solving problems based on difficulty, not time spent. This keeps
+team members focused on shipping value, not spending time. 
 
 ```
 
