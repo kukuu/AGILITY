@@ -16,7 +16,7 @@ High availability refers to systems and solutions that are durable and which are
 ### Working Architecture
 
 ``
-1. Design for failure
+1. Design for failure. Avoid single points of failure, and have remedy strategies in place..
 
 2. Have Multiple Availability Zones
 
