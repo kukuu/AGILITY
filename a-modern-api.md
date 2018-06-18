@@ -1,4 +1,6 @@
-# How a modern API works - Separation of Concerns (SoC)
+# How a modern API works  
+
+Separation of Concerns (SoC)
 
 Many modern applications separate the backend services from the frontend user interface. In this type of architecture, the backend will expose a web based API that the frontend client consumes. Typically, the backend will handle incoming requests and return a JSON or XML encoded response. The frontend will then be in charge of formatting, styling, and displaying this response to the user. We’ve all heard the term “separation of concerns” and applying it at this scale has many benefits.
 
