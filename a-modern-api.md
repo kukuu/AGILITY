@@ -25,10 +25,10 @@ You will require
 
 In addition to protecting our API routes, we are also going to fine-tune access to specific endpoints. Use SCOPES.
 
-Scopes allow us to grant specific permissions to clients that are authorized to use our API. For our demo, we are going to create two scopes, general and admin. In an actual application, you could further narrow down the scopes by giving read or write permissions and even go as far to protect each individual route with a separate scope. We’ll keep it fairly general here though. Go ahead and create the two scopes now.
+Scopes allow us to grant specific permissions to clients that are authorized to use our API. For our demo, we are going to create two scopes, general and admin. In an actual application, you could further narrow down the scopes by giving read or write permissions and even go as far to protect each individual route with a separate scope. We’ll keep it fairly general here though. 
 
 Once the  scopes in place, the last thing we’ll need to do is authorize our two clients to work with the API we created (GENERAL and ADMIN).
 
-We add the ability to check if the client has permissions to view the endpoint requested. To do this, we’ll create another middleware that will look at the decoded JWT and see if it the token has the correct scope. If it doesn’t we’ll send an appropriate forbidden message, otherwise we’ll send the data. Take a look at our implementation of this functionality below.
+We add the ability to check if the client has permissions to view the endpoint requested. To do this, we’ll create another middleware that will look at the decoded JWT and see if it has the token has the correct scope. If it doesn’t we’ll send an appropriate forbidden message, otherwise we’ll send the data. Take a look at the  implementation of this functionality here - https://github.com/kukuu/-SECURE-API .
 
 This guard middleware will be called on each request and will ensure that the token has the correct scope. If it does, we’ll send the data, otherwise we’ll return a 403 Forbidden status and appropriate message.
