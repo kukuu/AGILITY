@@ -32,6 +32,9 @@ Cross browser testing tools
 These days it is essential to test any website or online application on not just desktop browsers but also tablet and mobile platforms. BrowserStack allows you to start a live session on many devices and browsers directly from your browser.
 Litmus – Emails often don’t appear as expected in email clients and testing all the different clients can mean a lot of wasted time setting up accounts and re-sending the same email. Litmus offers cross client testing for emails and will save you a huge amount of time.
 
+
+### Selenium
+
 ### Test management
 
 #### TestLodge 
