@@ -8,7 +8,7 @@ The API needs to be protected with a digital security. In addition to protecting
 
 For example, If you are challenged with building 4 different clients (3 user facing and an admin) which are linked, rather than building two separate backends for the user facing side and the admin application, you can  build and expose a single API with four endpoints. The user facing app will have access to the 3 endpoints, while the admin app will additionally have access to the 4th endpoint which can potentially be used for moderation, and not  publically accessible. 
 
-## NBuilding with nodeJS
+## Building with nodeJS
 
 You will require
 
