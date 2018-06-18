@@ -6,11 +6,16 @@ The  entire team shares the responsibility of testing. “Quality” is injected
 
 ```
 
-1. Agile testing promotes collaboration. It emphasizes integrated teams, frequent releases, and the ability to adapt to changing business requirements. It involves the entire team throughout the entire development lifecycle.
+1. Agile testing promotes collaboration. It emphasizes integrated teams, frequent releases,
+and the ability to adapt to changing business requirements. It involves the entire team 
+throughout the entire development lifecycle.
 
-2. Agile testing shortens the feedback loop, and shorter feedback loops increase the team’s agility.
+2. Agile testing shortens the feedback loop, and shorter feedback loops increase the team’s
+agility.
 
-3. Agile testing does not eliminate the need for a QA team though. It does not replace manual testing. It means automated and manual testing is no longer only the responsibility of the QA team. QA and development can often pair together to conduct exploratory testing.
+3. Agile testing does not eliminate the need for a QA team though. It does not replace manual testing.
+It means automated and manual testing is no longer only the responsibility of the QA team. 
+QA and development can often pair together to conduct exploratory testing.
 
 
 ```
