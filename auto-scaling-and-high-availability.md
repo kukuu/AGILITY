@@ -2,6 +2,28 @@
 
 Customers demand a lot these days, but they’re willing to reward the enterprises that deliver. Satisfying customers takes an IT infrastructure that is resilient enough to withstand outages and greatly reduce planned and unplanned downtime. Think of it as nonstop IT. It’s what the most successful businesses are beginning to master and it’s putting pressure on the entire industry to up its game.
 
+ 
+ ## KPIs
+ 
+ Achieving these KPIs requires the adoption of Lean Engineering Practices including, but not limited to:
+ 
+ AREST
+ 
+ ```
+Automation - Deployment should happen automatically. Creating and publishing packages are for 
+the dark ages!
+
+Reproducible - Production environment should be the same as the development environment. 
+Issues in production should be easy to reproduce in development. 
+
+Elastic - Easy to scale up or down services based upon demand.
+
+Smooth - Zero downtime while scaling or upgrading the service. Process of re-instating a failed
+build should be trivial.
+
+Traceable - Logging & monitoring should be in place to watch for issues
+```
+
 Applications and processes that are critical to your business need around-the-clock monitoring and care. Excessive unscheduled downtime is not an option. 
 
 ```
