@@ -5,9 +5,38 @@ In today’s fast-paced technological landscape, tomorrow’s products are alrea
 
 Focus must be directed at building high performance engineering teams. One with a quick turn around, and also with a minimum or no down time.
 
+Traits of high performance engineering team includes but not limited to:
+
+```
+1. Meeting deadlines, and hiting targets from planning
+
+2. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
+
+3. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
+
+```
+
 To overcome lengthy production cycles, successful software developers are focusing on efficiency and productivity. Greater efficiency leads to greater productivity, accelerated product life cycles, shorter time to market and, ultimately, an increased bottom line.
 
  Engineering team managers can use many metrics to gauge efficiency and productivity along the way. But of course, the ultimate measure of a software application’s success is whether it meets end users’ needs and improves the organization’s business results.
+ 
+ ## KPIs
+ 
+ Achieving these KPIs requires the adoption of Lean Engineering Practices including, but not limited to:
+ 
+ AREST
+ 
+ ```
+Automation - Deployment should happen automatically. Creating and publishing packages are for the dark ages!
+
+Reproducible - Production environment should be the same as the development environment. Issues in production should be easy to reproduce in development. 
+
+Elastic - Easy to scale up or down services based upon demand.
+
+Smooth - Zero downtime while scaling or upgrading the service. Process of re-instating a failed build should be trivial.
+
+Traceable - Logging & monitoring should be in place to watch for issues
+
 
 ## Tracking the metrics
 
