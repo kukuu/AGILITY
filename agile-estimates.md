@@ -43,6 +43,9 @@ Story points reward team members for solving problems based on difficulty, not t
 
 Teams starting out with story points use an exercise called planning poker. The team will take an item from the backlog, discuss it briefly, and each member will mentally formulate an estimate. Then everyone holds up a card with the number that reflects their estimate. If everyone is in agreement, great! If not, take some time (but not too much time–just couple minutes) to understand the rationale behind different estimates.
 
+The reason to use planning poker is to avoid the influence of the other participants. If a number is spoken, it can sound like a suggestion and influence the other participants' sizing. Planning poker should force people to think independently and propose their numbers simultaneously. This is accomplished by requiring that all participants show their card at the same time.
+
+
 
 ## Estimate smarter, not harder
 
@@ -58,6 +61,39 @@ There are some good arguments against doing task estimation. For some high-perfo
 
 Like everything else in agile, estimation is a practice. You'll get better and better with time.
 
+
+# The Fibonacci sequence in agile
+
+When estimating the relative size of user stories in agile software development the members of the team are supposed to estimate the size of a user story as being 1, 2, 3, 5, 8, 13.
+
+Several commercially available decks use the sequence: 0, ½, 1, 2, 3, 5, 8, 13, 21, 34, 100, and optionally a ? (unsure), an infinity symbol (this task cannot be completed) and a coffee cup (I need a break, and I will make the rest of the team tea). Some organizations[which?] use standard playing cards of Ace, 2, 3, 5, 8 and king. Where king means: "this item is too big or too complicated to estimate". "Throwing a king" ends discussion of the item for the current sprint.
+
+Smartphones allow developers to use mobile apps instead of physical card decks. When teams are not in the same geographical locations, collaborative software can be used as replacement for physical cards.
+
+### Procedure
+
+At the estimation meeting, each estimator is given one deck of the cards. All decks have identical sets of cards in them.
+
+The meeting proceeds as follows:
+
+```
+1. A Moderator, who will not play, chairs the meeting.
+
+2. The Product Owner provides a short overview of one user story to be estimated. The team is given an opportunity to ask questions and discuss to clarify assumptions and risks. A summary of the discussion is recorded, e.g. by the Moderator.
+
+3. Each individual lays a card face down representing their estimate for the story. Units used vary - they can be days duration, ideal days or story points. During discussion, numbers must not be mentioned at all in relation to feature size to avoid anchoring.
+
+4. Everyone calls their cards simultaneously by turning them over.
+
+5. People with high estimates and low estimates are given a soap box to offer their justification for their estimate and then discussion continues.
+
+6. Repeat the estimation process until a consensus is reached. The developer who was likely to own the deliverable has a large portion of the "consensus vote", although the Moderator can negotiate the consensus.
+
+7. To ensure that discussion is structured; the Moderator or the Product Owner may at any point turn over the egg timer and when it runs out all discussion must cease and another round of poker is played. The structure in the conversation is re-introduced by the soap boxes.
+
+```
+
+
 ## Benefits 
 
 Breaking down stories into “right-sized” tasks also has several benefits:
@@ -72,3 +108,4 @@ Breaking down stories into “right-sized” tasks also has several benefits:
 
 
 4. Burn-down charts. Using hours to track our burn-down charts (as opposed to story points) can provide more detail on our sprint progress.
+
