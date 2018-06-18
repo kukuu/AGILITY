@@ -36,7 +36,7 @@ Elastic - Easy to scale up or down services based upon demand.
 Smooth - Zero downtime while scaling or upgrading the service. Process of re-instating a failed build should be trivial.
 
 Traceable - Logging & monitoring should be in place to watch for issues
-
+```
 
 ## Tracking the metrics
 
