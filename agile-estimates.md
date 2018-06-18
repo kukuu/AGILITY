@@ -6,7 +6,7 @@ There's no requirement to work weekends in order to compensate for under-estimat
 
 ## Collaborating with the product manager
 
-In agile development, the product manger is tasked with prioritizing the backlog–the ordered list of work that contains short descriptions of all desired features and fixes for a product. Product owners capture requirements from the business, but they don’t always understand the details of implementation. So good estimation can give the product manager new insight into the level of effort for each work item, which then feeds back into their assessment of each item's relative priority.
+In agile development, the product manager is tasked with prioritizing the backlog–the ordered list of work that contains short descriptions of all desired features and fixes for a product. Product owners capture requirements from the business, but they don’t always understand the details of implementation. So good estimation can give the product manager new insight into the level of effort for each work item, which then feeds back into their assessment of each item's relative priority.
 
 When the engineering team begins its estimation process, questions usually arise about requirements and user stories. And that's good: those questions help the entire team understand the work more fully. For product managers specifically, breaking down work items into granular pieces and estimates via story points helps them prioritize all (and potentially hidden!) areas of work. And once they have estimates from the dev team, it's not uncommon for a product owner to reorder items on the backlog. 
 
