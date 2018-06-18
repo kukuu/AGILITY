@@ -2,7 +2,7 @@
 
 Customers demand a lot these days, but they’re willing to reward the enterprises that deliver. Satisfying customers takes an IT infrastructure that is resilient enough to withstand outages and greatly reduce planned and unplanned downtime. Think of it as nonstop IT. It’s what the most successful businesses are beginning to master and it’s putting pressure on the entire industry to up its game.
 
-Applications and processes that are critical to your business need around-the-clock monitoring and care. Excessive unscheduled downtime is not an option. Learn how to create a nonstop IT infrastructure with SUSE.
+Applications and processes that are critical to your business need around-the-clock monitoring and care. Excessive unscheduled downtime is not an option. 
 
 ```
 
