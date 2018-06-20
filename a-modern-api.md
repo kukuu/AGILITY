@@ -31,6 +31,6 @@ Scopes allow us to grant specific permissions to clients that are authorized to 
 
 Once the  scopes in place, the last thing we’ll need to do is authorize our two clients to work with the API we created (GENERAL and ADMIN).
 
-We add the ability to check if the client has permissions to view the endpoint requested. To do this, we’ll create another middleware that will look at the decoded JWT and see if it has the token has the correct scope. If it doesn’t we’ll send an appropriate forbidden message, otherwise we’ll send the data. Take a look at the  implementation of this functionality here - https://github.com/kukuu/-SECURE-API .
+We add the ability to check if the client has permissions to view the endpoint requested. To do this, we’ll create another middleware that will look at the decoded JWT (JSON Web Token) and see if it has the token has the correct scope. If it doesn’t we’ll send an appropriate forbidden message, otherwise we’ll send the data. Take a look at the  implementation of this functionality here - https://github.com/kukuu/-SECURE-API .
 
 This guard middleware will be called on each request and will ensure that the token has the correct scope. If it does, we’ll send the data, otherwise we’ll return a 403 Forbidden status and appropriate message.
