@@ -22,9 +22,27 @@ To overcome lengthy production cycles, successful software developers are focusi
  
  ## KPIs
  
- Achieving these KPIs requires the adoption of Lean Engineering Practices including, but not limited to:
+ ### Engineering Managers KPI
  
- AREST
+```
+
+1. Meeting Project milestones
+
+2. Stakeholder feedback
+
+3. Development Practice Adherence
+
+4. Developer retention
+
+5. 360 feedback 
+
+4. Achievement of Development Team KPIs
+ 
+ ### Have my KPIs been achieved?
+ 
+ You can measure if your KPIs have been achieved or not against the following markers:
+ 
+ #### AREST
  
  ```
 Automation - Deployment should happen automatically. Creating and publishing packages are for 
@@ -41,7 +59,7 @@ build should be trivial.
 Traceable - Logging & monitoring should be in place to watch for issues
 ```
 
-## Tracking the metrics
+## Tracking the metrics / KPI (of the team) 
 
 Keeping track of certain metrics is an important step in making sure your company’s software engineering team is performing as efficiently and productively as possible. Here are some of the most essential metrics for developers to track:
 
