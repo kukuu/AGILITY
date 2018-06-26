@@ -89,7 +89,7 @@ skills and career goals.  They also have a right to serve as an integral member 
 Self organising ARTs do not fund themselves or define their own mission. That remains a management responsibility,
 as it is an element of implementation of a  strategy.
 
-Much of this responsibility falls to the traditional role of the Dvelopment or Engineering Manager.
+Much of this responsibility falls to the traditional role of the Development or Engineering Manager.
 
 The Development or Engineering Manager exhibits the principles and practices of Lean-Agile servant leadership. 
 Coaching Scrum teams to deliver effectively, at a sustainable pace, and as Advisor
