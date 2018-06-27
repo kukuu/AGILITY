@@ -39,7 +39,7 @@ To overcome lengthy production cycles, successful software developers are focusi
 
 2. Stakeholder feedback
 
-3. Development Practice Adherence
+3. Development Practice Adherence (DPA)
 
 4. Developer retention
 
