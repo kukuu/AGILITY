@@ -3,7 +3,16 @@
  
 In today’s fast-paced technological landscape, tomorrow’s products are already at risk of being “old news.”  
 
-Focus must be directed at building high performance engineering teams. One with a quick turn around, and also with a minimum or no down time.
+Focus must be directed at building high performance engineering teams. One with:
+
+```
+1. A quick turn around 
+
+2. minimum or no down time
+
+3. A good ROI
+
+```
 
 Traits of high performance engineering team includes but not limited to:
 
