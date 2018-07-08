@@ -8,6 +8,8 @@ Is the change associated with the application of digital technology. When planni
 
 Agile management involves the division of a company into small teams of employees, each one acting like a start-up in its own right. The aim is to change the way in which your company runs to meet the ever-changing demands of the global market. The ‘Agile Manifesto,’ highlights key messages behind the system – including self-organisation, collaboration and cross-functionality of teams.
 
+Lean Agile Leadership is established through empowerment:  Building, autonomous, self-organising, cross functional and collaboration.
+
 ### Squads
 
 The individual teams that make up a company in agile management are known as squads. The idea is that each squad has its own defined goal, which they work towards autonomously. Each squad has a ‘product owner’: they prioritise work to be done. However, they don’t tell employees how to work. Squad members also have access to an ‘agile coach’ to keep them up to date and well informed. Example: The 'Shopping  UI Basket', 'Platform Gateway', and 'Platform Core' teams.
