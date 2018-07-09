@@ -45,17 +45,17 @@ High availability refers to systems and solutions that are durable and which are
 1. Design for failure. Avoid single points of failure, and have remedy strategies in place:
 ```
 
-i. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-dff.png 
+i. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-designing-4-failure/1-dff.png
 
-ii. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/2-dff.png
+ii.https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-designing-4-failure/2-dff.png
 
-iii. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/3-dff.png
+iii. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-designing-4-failure/3-dff.png
 
-iv. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/4-dff.png
+iv. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-designing-4-failure/4-dff.png
 
-v. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/5-dff.png
+v. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-designing-4-failure/5-dff.png
 
-vi. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/3-dff.png
+vi. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/1-designing-4-failure/6-dff.png
 
 ```
 2. Have Multiple Availability Zones
