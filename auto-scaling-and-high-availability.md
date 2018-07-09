@@ -42,7 +42,21 @@ High availability refers to systems and solutions that are durable and which are
 ### 5 Best Design Architectural Practices 
 
 ```
-1. Design for failure. Avoid single points of failure, and have remedy strategies in place..
+1. Design for failure. Avoid single points of failure, and have remedy strategies in place:
+
+
+i. https://github.com/kukuu/AGILITY/blob/master/1-dff.png 
+
+ii. https://github.com/kukuu/AGILITY/blob/master/2-dff.png
+
+iii. https://github.com/kukuu/AGILITY/blob/master/3-dff.png
+
+iv. https://github.com/kukuu/AGILITY/blob/master/4-dff.png
+
+v. https://github.com/kukuu/AGILITY/blob/master/5-dff.png
+
+vi. https://github.com/kukuu/AGILITY/blob/master/3-dff.png
+
 
 2. Have Multiple Availability Zones
 
