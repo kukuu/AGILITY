@@ -52,7 +52,7 @@ To overcome lengthy production cycles, successful software developers are focusi
  
  You can measure if your KPIs have been achieved or not against the following markers:
  
- #### AREST
+ #### AREST - Creating a credible and sustainable infrastuctural platform
  
  ```
 Automation - Deployment should happen automatically. Creating and publishing packages are for 
