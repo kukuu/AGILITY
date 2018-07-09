@@ -1,11 +1,15 @@
-# Auto Scaling and High Availability
 
-Customers demand a lot these days, but they’re willing to reward the enterprises that deliver. Satisfying customers takes an IT infrastructure that is resilient enough to withstand outages and greatly reduce planned and unplanned downtime. Think of it as nonstop IT. It’s what the most successful businesses are beginning to master and it’s putting pressure on the entire industry to up its game.
 
+# Architecting for High Availability, Auto Scaling and  & Multi-availability Zones
+
+Amazon Web Services (AWS) provides a platform that is ideally suited for building highly available systems, enabling you to build reliable, affordable, fault-tolerant systems tha operate with minimal amount of human interaction.
+
+
+Customers demand a lot these days, but they’re willing to reward the enterprises that deliver. Satisfying customers takes an IT infrastructure that is resilient enough to withstand outages and greatly reduce planned and unplanned downtime. Think of it as non-stop IT. It’s what the most successful businesses are beginning to master and it’s putting pressure on the entire industry to up its game.
  
- ## KPIs
+ ## KPIs for High Availability
  
- Achieving these KPIs requires the adoption of Lean Engineering Practices including, but not limited to:
+These KPIs provide the basis for building a credible scaleable development infrastructure. Achieving them requires the adoption of Lean Engineering Practices including, but not limited to:
  
  AREST
  
@@ -35,7 +39,7 @@ you need to take a serious look at a serious solution, ‘High Availability’
 
 High availability refers to systems and solutions that are durable and which are likely to operate continuously, without failure for a long time. The term implies that a system has accommodations for failure in the form of redundant components and can recover from software or hardware failure automatically. The more transparent that failover is to users, the higher the availability of the system
 
-### Working Architecture
+### 5 Best Design Architectural Practices 
 
 ```
 1. Design for failure. Avoid single points of failure, and have remedy strategies in place..
