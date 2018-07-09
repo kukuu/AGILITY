@@ -43,7 +43,7 @@ High availability refers to systems and solutions that are durable and which are
 
 ```
 1. Design for failure. Avoid single points of failure, and have remedy strategies in place:
-
+```
 
 i. https://github.com/kukuu/AGILITY/blob/master/1-dff.png 
 
@@ -57,16 +57,25 @@ v. https://github.com/kukuu/AGILITY/blob/master/5-dff.png
 
 vi. https://github.com/kukuu/AGILITY/blob/master/3-dff.png
 
-
+```
 2. Have Multiple Availability Zones
+```
 
+```
 3. Scaling
 
+```
+```
 4. Self Healing 
 
+```
+
+```
 5. Loose coupling
 
 ```
+
+
 
 ## Using a Load Balancer With an Auto Scaling Group
 
