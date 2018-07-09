@@ -60,6 +60,15 @@ vi. https://github.com/kukuu/AGILITY/blob/master/3-dff.png
 ```
 2. Have Multiple Availability Zones
 ```
+i. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/2-architecting-4-multiple-availability-zones/1-az.png 
+
+ii. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/2-architecting-4-multiple-availability-zones/2-az.png
+
+iii. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/2-architecting-4-multiple-availability-zones/3-az.png
+
+iv. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/2-architecting-4-multiple-availability-zones/4-az.png
+
+ v. https://github.com/kukuu/AGILITY/blob/master/AWS-AS/2-architecting-4-multiple-availability-zones/5-az.png
 
 ```
 3. Scaling
