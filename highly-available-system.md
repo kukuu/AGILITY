@@ -5,8 +5,23 @@ Amazon Web Services (AWS) provides a platform that is ideally suited for buildin
 
 ## 5 best practice
 
-```
+
 1. Design for failure
+
+
+i. https://github.com/kukuu/AGILITY/blob/master/1-dff.png 
+
+ii. https://github.com/kukuu/AGILITY/blob/master/2-dff.png
+
+iii. https://github.com/kukuu/AGILITY/blob/master/3-dff.png
+
+iv. https://github.com/kukuu/AGILITY/blob/master/4-dff.png
+
+v. https://github.com/kukuu/AGILITY/blob/master/5-dff.png
+
+vi. https://github.com/kukuu/AGILITY/blob/master/3-dff.png
+
+
 
 2. Multiple Availability Zones
 
@@ -16,6 +31,8 @@ Amazon Web Services (AWS) provides a platform that is ideally suited for buildin
 
 5. Loose Coupling
 
-```
+
+
+
 
 
