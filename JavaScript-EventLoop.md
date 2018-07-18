@@ -65,8 +65,8 @@ But where in memory do these callbacks live – and in what order are they execu
 ```
 JavaScript runtimes contain a message queue which stores a list of messages to be 
 processed and their associated callback functions. These messages are queued in 
-response to external events (such as a mouse being clicked or receiving the r
-esponse to an HTTP request) given a callback function has been provided. 
+response to external events (such as a mouse being clicked or receiving the
+response to an HTTP request) given a callback function has been provided. 
 If, for example a user were to click a button and no callback function 
 was provided – no message would have been enqueued.
 ```
