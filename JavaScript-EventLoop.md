@@ -52,9 +52,9 @@ A slightly different look, and very different behavior:
 
 ## The Event Loop
 
-``
+```
+The decoupling of the caller from the response allows for the JavaScript runtime to do other things while waiting for your asynchronous operation to complete and their callbacks to fire.
 
-The decoupling of the caller from the response allows for the JavaScript runtime to do other things while waiting for your asynchronous operation to complete and their callbacks to fire. 
 ```
 
 
