@@ -193,3 +193,26 @@ In this example, the changeHeaderDeferred function is executed which includes va
 JavaScript’s event-driven interaction model differs from the request-response model many programmers are accustomed to – but as you can see, it’s not rocket science.
 
 With a simple message queue and event loop, JavaScript enables a developer to build their system around a collection of asynchronously-fired callbacks, freeing the runtime to handle concurrent operations while waiting on external events to happen. 
+
+# Why use nodeJS
+
+If you're looking to create real time web apps (chats apps) Node will be the best technology for these type of applications. Ruby and Python can both accommodate these kind of features as well, but Node.js will do it exceptionally well in terms of performance.
+
+If you're looking to build APIs or streaming applications, It's perfect for handling lots of requests that are I/O driven (e.g. operations on database) and scales very nicely - event loops. produces stacking/buffering with Asynchronous calls.
+
+## Speed 
+
+ Node.js is fast. Node.js uses JavaScript in the backend, and that’s enough to understand how fast the codes execute. Moreover, it runs on the Google’s V8 engine, which compiles the JavaScript directly into machine code making it faster than most.
+
+## The ever-growing NPM
+
+Being an open-source technology, node.js has a shared repository of good-to-go tools and modules. The number of modules in the Node Package Manager (NPM) has increased at a considerable pace, just on the verge of overtaking the RoR (Ruby on Rails) gems.
+
+## The event-driven architecture of node.js 
+
+Real-time web apps: Node.js is appropriate for real-time applications, especially chat applications and games. As both the client-side and the server-side are written in JavaScript, the synchronization process is better and quicker. Web socket protocol comes into picture here.
+
+
+## Productivity
+
+The productivity of a web app increases several folds with node.js because a lot of time is saved in between the lines. Merging the front-end and back-end into a single entity makes it efficient. That also implies a lesser number of employees and more profit on your side. PayPal reported 2 times increase in developer productivity after using node.js.
