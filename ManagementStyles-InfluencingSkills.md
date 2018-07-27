@@ -56,7 +56,7 @@ Leaders who are skilled at influencing others recognize and cultivate the power 
 Because leadership so often involves guiding people through risk and change, trust is essential.
 Building and maintaining trust is essential for leading. Without trust, leaders may be able to force people to comply, but they’ll never tap the full commitment, capabilities, and creativity the group can offer. Leveraging these assets is invaluable when tackling tough challenges or making strategic change, so trust is vital.
 
-People look for leaders who can appreciate their vulnerability and inspire them, understand them, support them, and guide them through looming chaos. This requires the leader to demonstrate a broad range of behaviors, some of which might seem contradictory but when used in an appropriate and timely manner, create conditions that foster trust.
+People look for leaders who can appreciate their vulnerability and inspire them, understand them, contribute to their self development, support them, and guide them through looming chaos. This requires the leader to demonstrate a broad range of behaviors, some of which might seem contradictory but when used in an appropriate and timely manner, create conditions that foster trust.
 
 Trust involves a careful balance between pushing people into areas where they’re uncomfortable through challenges, while also listening carefully to their concerns and feedback. 
 
