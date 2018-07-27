@@ -40,7 +40,7 @@ The goal is to influence others, not manipulate them. Effective, ethical leaders
 ## How to achieve
 
 
-### Self promotion - Gravitas
+### Positive Self promotion - Gravitas
 
 In the hands of an astute leader, self-promotion isn’t just a tool to advance one’s own career. It can provide visibility and opportunities for their direct reports, generate team and organizational pride, and make capabilities and ideas more visible across the organization — ultimately enhancing collaboration.
 
