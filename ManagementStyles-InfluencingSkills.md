@@ -35,7 +35,7 @@ Effective leaders don’t just command; they inspire, persuade, and encourage. L
 
 To influence one needs to be  clear about own goals, values, assertive and have a dynamic model to meet the challenges of the technology changing market. This requires an aggregation of a network of skills, a dynamic model and flexible governance.
 
-The goal is to influence others, not manipulate them. Effective, ethical leaders use different approaches in different situations. Leaders need to understand why they are doing something, and be clear about their own values and goals when applying their influence skills. That way, influence comes from a place of authenticity and has the greatest impact.
+The goal is to influence others, not manipulate them. Effective, ethical leaders use different approaches in different situations. Leaders need to understand why they are doing something, and be clear about their own values and goals when applying their influence skills. Influencing then comes from a place of authenticity and has the greatest impact.
 
 ## How to achieve
 
