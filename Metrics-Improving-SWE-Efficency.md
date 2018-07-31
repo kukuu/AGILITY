@@ -48,7 +48,7 @@ To overcome lengthy production cycles, successful software developers are focusi
 4. Achievement of Development Team KPIs
  
  ```
- ### Have my KPIs been achieved?
+ ### Features of a sustainable, resilient platform (High Availability)?
  
  You can measure if your KPIs have been achieved or not against the following markers:
  
