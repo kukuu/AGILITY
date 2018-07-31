@@ -33,7 +33,7 @@ meetings, and interviews that a team member may be involved in.
 
 Dates have an emotional attachment to them. Relative estimation removes the emotional attachment.
 
-Once you agree on the relative effort of each story point value, you can assign points quickly 
+Once you agree on the relative effort (High, Medium, Low) of each story point value, you can assign points quickly 
 without much debate.
 
 Story points reward team members for solving problems based on difficulty, not time spent. This keeps
