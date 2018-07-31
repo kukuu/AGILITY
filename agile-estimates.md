@@ -36,7 +36,7 @@ Dates have an emotional attachment to them. Relative estimation removes the emot
 Once you agree on the relative effort (High, Medium, Low) of each story point value, you can assign points quickly 
 without much debate.
 
-Story points reward team members for solving problems based on difficulty, not time spent. This keeps
+Story points reward team members for solving problems based on difficulty (High, Medium, Low) not time spent. This keeps
 team members focused on shipping value, not spending time. 
 
 ```
