@@ -208,7 +208,7 @@ If you're looking to build APIs or streaming applications, It's perfect for hand
 
 Being an open-source technology, node.js has a shared repository of good-to-go tools and modules. The number of modules in the Node Package Manager (NPM) has increased at a considerable pace, just on the verge of overtaking the RoR (Ruby on Rails) gems.
 
-## The event-driven architecture of node.js 
+## The event-driven architecture of node.js 
 
 Real-time web apps: Node.js is appropriate for real-time applications, especially chat applications and games. As both the client-side and the server-side are written in JavaScript, the synchronization process is better and quicker. Web socket protocol comes into picture here.
 
@@ -230,7 +230,7 @@ At the same time, Node.js is a single-threaded environment, which is often consi
 
 This represents a serious issue. That is why, to avoid it, it is recommended not to use Node.js with computation-heavy systems.
 
-But then with query API languages like GraphQL in the market, which is supported by node.js this will soon be a thing of the past. Queries are passed through and managed at the client side level other than through end points to the server again and again.
+But then with query API languages like GraphQL, and asynchronous side effect middleware like redux-saga in the market, which is supported by node.js this will soon be a thing of the past. Queries are passed through and managed at the client side level other than through end points to the server again and again.
 
 ## Immaturity of tooling
 
