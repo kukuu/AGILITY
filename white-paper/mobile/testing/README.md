@@ -20,7 +20,7 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/iphony.j
 
 iPadPeek lets you see how your website renders when accessed via an iPad. This useful tool has different sizes as well as portrait and landscape orientations.
 
-[link]
+https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/ipadpeek.png
 
 ### W3C mobileOK Checker
 
