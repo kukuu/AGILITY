@@ -14,7 +14,7 @@ Looking for a way to see how your web creations will look on iPhone? Look no fur
 
 iPhoney is not an iPhone simulator but instead is designed for web developers who want to create 320 by 480 (or 480 by 320) websites for use with iPhone. It gives you a canvas on which to test the visual quality of your designs.
 
-[link]
+https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/iphony.jpg
 
 ## iPadPeek
 
