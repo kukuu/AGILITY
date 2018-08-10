@@ -26,7 +26,7 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/ipadpeek
 
 This checker performs various tests on a Web Page to determine its level of mobile-friendliness. The tests are defined in the mobileOK Basic Tests 1.0 specification. A Web Page is mobileOK when it passes all the tests.
 
-[link]
+https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/w3c-mobile-checker.png
 
 
 ### Mobile Friendly Test Tool
