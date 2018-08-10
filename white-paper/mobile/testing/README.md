@@ -33,7 +33,7 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/w3c-mobi
 
 This tool from Google tests whether your website meets the criteria for being mobile friendly. The tool will analyze a given URL and report if the page has a mobile-friendly design.
 
-[link]
+https://github.com/kukuu/AGILITY/blob/master/white-paper/mobile/testing/mobile-friendly-test-tool.png
 
 
 
