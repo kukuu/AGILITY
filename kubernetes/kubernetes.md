@@ -22,16 +22,25 @@ Another use case of running pods is jobs. They can run as cron jobs (start, run 
 
 This is a exposure of pods, replicca sets and controllers on a port through the Kube proxy.
 
+
 ## Tools 
 
-1. Kubeadm 
+1. Kubeadm  - This is an administration tool for setting up and managing Kubernetes clusters. This runs on the Kubernetes host
 
-This is an administration tool for setting up and managing Kubernetes clusters. This runs on the Kubernetes host
+2. Kubectl - This is the command line interface for interracting with Kubernetes clusters
 
-2. Kubectl
+3. Minikube - A utility for setting up single node instances of Kubernetes for testing and development.
 
-This is the command line interface for interracting with Kubernetes clusters
 
-3. Minikube
+Kubectl and Minikube are easily installed with popular packge managers like apt-get (Lynx), Chokolatey (Windows) and Homebrew (mac). 
 
-A utility for setting up single node instances of Kubernetes for testing and development.
+
+## Kubernetes in Production 
+
+There are several ways to run Kubernetes in production environment.
+
+1. Docker EE now has native support for Kubernetes for on premise and cloud deployments.
+
+2. Azure Container Service (AKS) now has a managed Kubernetes platform.
+
+3. You can also build put Kubernetes clusters on PaaS with kubeadm.
