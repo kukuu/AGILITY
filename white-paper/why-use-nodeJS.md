@@ -42,7 +42,7 @@ Although, the core Node.js modules are quite stable and can be considered mature
 
 The fact that the Node.js ecosystem is mostly open source, has its impact as well. While the quality of the core Node.js technology is supervised by Joyent and other major contributors, the rest of the tools might lack the quality and high coding standards set by global organizations.
 
-## Mastering Serer side JavaScript!!
+## Mastering Server side JavaScript!!
 
 Despite a common belief, not all JavaScript developers are Node.js developers as well. Mastering server side JavaScript programming requires a significant amount of effort and a certain background in backend development. Due to such a steep learning curve, the number of Node.js engineers is significantly lower than the total number of JS professionals.
 
