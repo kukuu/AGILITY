@@ -27,3 +27,21 @@ When a certificate is successfully installed on your server, the application pro
 TLS was introduced in 1999 as a new version of SSL and was based on SSL 3.0: Transport Layer Security (TLS) is just a new name for SSL v4 - essentially, we are talking about the same protocol.
 
 It’s worth noting here that SSL and TLS simply refer to the handshake that takes place between a client and a server. The handshake doesn’t actually do any encryption itself, it just agrees on a shared secret and type of encryption that is going to be used.
+
+##  Blockchain
+
+It is a decentralised platform and peer to peer avoiding hacking.
+
+By storing data across its network, the blockchain eliminates the risks that come with data being held centrally.
+
+Its network lacks centralized points of vulnerability that computer hackers can exploit. Today’s internet has security problems that are familiar to everyone. We all rely on the “username/password” system to protect our identity and assets online. Blockchain security methods use encryption technology.
+
+With Blockchain Users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
+
+## 2FA
+
+## SAML
+
+## OAuth
+
+## OAuth 2
