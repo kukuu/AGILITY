@@ -1,4 +1,4 @@
-# Certificates
+# Certificates & Digital Security
 
 Server Certificates -  Are basically used to identify a server. ... Whereas client certificates as the name implies are clearly used to identify a client to a respective user, which means authenticating the client to the server. Both SSL certificate (server) and client certificate encompass the “Issued to” section
 
@@ -37,6 +37,8 @@ By storing data across its network, the blockchain eliminates the risks that com
 Its network lacks centralized points of vulnerability that computer hackers can exploit. Today’s internet has security problems that are familiar to everyone. We all rely on the “username/password” system to protect our identity and assets online. Blockchain security methods use encryption technology.
 
 With Blockchain Users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
+
+## JWT - https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
 
 ## 2FA
 
