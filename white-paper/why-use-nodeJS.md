@@ -12,7 +12,7 @@ If you're looking to build APIs or streaming applications, It's perfect for hand
 
 Being an open-source technology, node.js has a shared repository of good-to-go tools and modules. The number of modules in the Node Package Manager (NPM) has increased at a considerable pace, just on the verge of overtaking the RoR (Ruby on Rails) gems.
 
-## The event-driven architecture of node.js 
+## The event-driven architecture of node.js 
 
 Real-time web apps: Node.js is appropriate for real-time applications, especially chat applications and games. As both the client-side and the server-side are written in JavaScript, the synchronization process is better and quicker. Web socket protocol comes into picture here.
 
