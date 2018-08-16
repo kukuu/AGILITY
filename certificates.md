@@ -38,7 +38,9 @@ Its network lacks centralized points of vulnerability that computer hackers can 
 
 With Blockchain Users to the network have private keys and the network stores public keys for encryption/decryption when called upon.
 
-## JWT - https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
+## JWT 
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
 
 ## 2FA
 
