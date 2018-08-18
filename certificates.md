@@ -40,12 +40,17 @@ With Blockchain Users to the network have private keys and the network stores pu
 
 ## JWT 
 
-https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
+    https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
+
+## OAuth
+
+https://github.com/kukuu/-SECURE-API
+
 
 ## 2FA
 
 ## SAML
 
-## OAuth
+
 
 ## OAuth 2
