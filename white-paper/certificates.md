@@ -44,7 +44,9 @@ https://blockgeeks.com/guides/ethereum/
 
 ## JWT 
 
-https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
+1. https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png 
+
+2. https://github.com/kukuu/node-token-authentication
 
 ## 2FA
 
