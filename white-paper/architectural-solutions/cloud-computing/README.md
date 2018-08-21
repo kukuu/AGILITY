@@ -301,8 +301,30 @@ A very good robust and scalable API Gateway must time out calls that exceed the 
 For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
 
 
-
 ## Architectures:
+
+1. End to end integration - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
+
+2. AWS
+
+	i. Architecting for High Availability & Multi-Availability Zones - https://github.com/kukuu/AGILITY/tree/master/AWS-AS 
+
+	ii. Back end - https://github.com/kukuu/AGILITY/blob/master/aws-backend-app-pipeline.png
+
+	iii. Front end - https://github.com/kukuu/AGILITY/blob/master/aws-web-app-pipeline.png 
+
+
+3. Docker - https://github.com/kukuu/AGILITY/tree/master/docker 
+
+4. Kubernetes - https://github.com/kukuu/AGILITY/tree/master/kubernetes 
+
+5. CI Pipeline - https://github.com/kukuu/AGILITY/blob/master/CI-CDL-CDPL-pipeline.jpg 
+
+6. Microservices - https://github.com/kukuu/AGILITY/blob/master/MICRO-SERVICES-oriented%20Architecture.png 
+
+7. SOA - https://github.com/kukuu/AGILITY/blob/master/SOA-1.png 
+
+8. Test Pyramid (Coverage) - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg 
 
 
 ## Resources
