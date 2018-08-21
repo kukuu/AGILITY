@@ -1,5 +1,5 @@
 
-# Cloud Computing ,Distributed Systems and CI
+# Cloud Computing, Distributed Systems and CI
 
 ## DevOps Cultural Philosophy
 
@@ -329,4 +329,6 @@ For most microservices‑based applications, it makes sense to implement an API 
 
 ## Resources
 
-### https://docs.cloudfoundry.org/concepts/overview.html
+1. AWS Auto scaling - https://aws.amazon.com/autoscaling/
+
+2. Cloud Foundry -  https://docs.cloudfoundry.org/concepts/overview.html
