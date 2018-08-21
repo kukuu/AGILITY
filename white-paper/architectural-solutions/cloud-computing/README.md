@@ -332,6 +332,8 @@ For most microservices‑based applications, it makes sense to implement an API 
 
 1. AWS Auto scaling - https://aws.amazon.com/autoscaling/
 
+2. Elastic Load Ballancers (ALP, Classic and Network - https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html 
+
 2. Cloud Foundry -  https://docs.cloudfoundry.org/concepts/overview.html 
 
 3. Cloud Native - https://container-solutions.com/what-is-cloud-native/
