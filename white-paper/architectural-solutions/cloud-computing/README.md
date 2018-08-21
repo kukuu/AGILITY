@@ -1,5 +1,5 @@
 
-# Cloud Computing, Distributed Systems and CI
+# Cloud Computing ,Distributed Systems and CI
 
 ## DevOps Cultural Philosophy
 
@@ -301,7 +301,8 @@ A very good robust and scalable API Gateway must time out calls that exceed the 
 For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
 
 
-## Architectures:
+
+## Architectures
 
 1. End to end integration - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
 
@@ -324,11 +325,13 @@ For most microservices‑based applications, it makes sense to implement an API 
 
 7. SOA - https://github.com/kukuu/AGILITY/blob/master/SOA-1.png 
 
-8. Test Pyramid (Coverage) - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg 
+8. Test Pyramid (Coverage) - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
 
 
 ## Resources
 
 1. AWS Auto scaling - https://aws.amazon.com/autoscaling/
 
-2. Cloud Foundry -  https://docs.cloudfoundry.org/concepts/overview.html
+2. Cloud Foundry -  https://docs.cloudfoundry.org/concepts/overview.html 
+
+3. Cloud Native - https://container-solutions.com/what-is-cloud-native/
