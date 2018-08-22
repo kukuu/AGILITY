@@ -17,10 +17,6 @@ Continuous integration is a software development practice where developers regul
 
 Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production. It expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When continuous delivery is implemented properly, developers will always have a deployment-ready build artifact that has passed through a standardized test process.
 
-## Microservices
-
-The microservices architecture is a design approach to build a single application as a set of small services. Each service runs in its own process and communicates with other services through a well-defined interface using a lightweight mechanism, typically an HTTP-based application programming interface (API). Microservices are built around business capabilities; each service is scoped to a single purpose. You can use different frameworks or programming languages to write microservices and deploy them independently, as a single service, or as a group of services.
-
 ## Integration Approach
 
 In-house: dev and production
@@ -176,32 +172,37 @@ Achieving CD
 8. Improve continuously
 The most optimum path to achieve these goals is to use microservices architecture
 
-## Micro-services
+## Microservices
 
-Microservices architecture is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
+The microservices architecture is a design approach to build a single application as a set of small services. Each service runs in its own process and communicates with other services through a well-defined interface using a lightweight mechanism, typically an HTTP-based application programming interface (API). Microservices are built around business capabilities; each service is scoped to a single purpose. You can use different frameworks or programming languages to write microservices and deploy them independently, as a single service, or as a group of services.
 
 When you choose to build your application as a set of microservices, you need to decide how your application’s clients will interact with the microservices. With a monolithic application there is just one set of (typically replicated, load‑balanced) endpoints. In a microservices architecture, however, each microservice exposes a set of what are typically fine‑grained endpoints.
 
 Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol. Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels. Examples of asynchronous messaging technologies are Apache Kafka and RabbitMQ.
 
 This pattern has the following benefits:
-Loose coupling since it decouples client from services
 
-Improved availability since the message broker buffers messages until the consumer is able to process them
+1. Loose coupling since it decouples client from services
 
-Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc
+2. Improved availability since the message broker buffers messages until the consumer is able to process them
+
+3. Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc
 
 This pattern has the following drawbacks:
-Additional complexity of message broker, which must be highly available
+
+1. Additional complexity of message broker, which must be highly available
 
 This pattern has the following issues:
 
 i. Request/reply-style communication is more complex
 
-i. Client needs to discover location of message broker
+ii. Client needs to discover location of message broker
 
+```
 Loose coupling::individual deployment:: repeatable deployment can only be achieved by repeatble context ==> containerisation
 Microservices enforce loose coupling, plus it’s easier to develop fast and reliable deployment pipelines if they only have to handle small packages.
+
+```
 
 However, note microservices introduced a new problem: if adding a feature was often going to require adding a new, independently deployed and hosted service then that process had to be fast and not require any specialist knowledge.
 
@@ -221,12 +222,13 @@ Resolution:
 
 3.	The above configuration should be declarative and not require adding dependencies to the project.
 
-4.   Use Containerisation
+4.      Use Containerisation
 
 
 ### Challenges and bottlenecks to Micro-services
 
-Direct Client‑to‑Microservice Communication
+Direct Client‑to‑Microservice Communication:
+
 In theory, a client could make requests to each of the microservices directly. Each microservice would have a public endpoint (https://serviceName.api.company.name). This URL would map to the microservice’s load balancer, which distributes requests across the available instances. To retrieve the product details, the mobile client would make requests to each of the services listed above.
 
 Unfortunately, there are challenges and limitations with this option.
@@ -249,7 +251,8 @@ The API Gateway will often handle a request by invoking multiple microservices a
 
 The API Gateway can also provide each client with a custom API. It typically exposes a coarse‑grained API for mobile clients. Consider, for example, the product details scenario. The API Gateway can provide an endpoint (/productdetails?productid=xxx) that enables a mobile client to retrieve all of the product details with a single request. The API Gateway handles the request by invoking the various services – product info, recommendations, reviews, etc. – and combining the results.
 
-Benefits and Drawbacks of an API Gateway
+### Benefits and Drawbacks of an API Gateway:
+
 Using an API Gateway has both benefits and drawbacks.
 
 Benefit: A major benefit of using an API Gateway is that it encapsulates the internal structure of the application. Rather than having to invoke specific services, clients simply talk to the gateway. The API Gateway provides each kind of client with a specific API. This reduces the number of round trips between the client and application. It also simplifies the client code.
@@ -288,7 +291,7 @@ However, determining the location of an application service is not so easy. Appl
 
 ##### Handling Partial Failures
 
-Another issue you have to address when implementing an API Gateway is the problem of partial failure. This issue arises in all distributed systems whenever one service calls another service that is either responding slowly or is unavailable.
+Another issue you have to address when implementing an API Gateway is the problem of partial failure. You must design for faiure. This issue arises in all distributed systems whenever one service calls another service that is either responding slowly or is unavailable.
 
 The API Gateway should never block indefinitely waiting for a downstream service. However, how it handles the failure depends on the specific scenario and which service is failing. For example, if the recommendation service of the application is unresponsive in the product details scenario, the API Gateway should return the rest of the product details to the client since they are still useful to the user. The recommendations could either be empty or replaced by, for example, a hardwired top ten list.
 
@@ -301,12 +304,11 @@ A very good robust and scalable API Gateway must time out calls that exceed the 
 For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
 
 
-
 ## Architectures
 
 1. End to end integration - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
 
-2. AWS
+2. AWS: 
 
 	i. Architecting for High Availability & Multi-Availability Zones - https://github.com/kukuu/AGILITY/tree/master/AWS-AS 
 
