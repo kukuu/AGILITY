@@ -9,14 +9,6 @@ They strive to communicate frequently, increase efficiencies, and improve the qu
 
 Quality assurance and security teams may also become tightly integrated with these teams. Organizations using a DevOps model, regardless of their organizational structure, have teams that view the entire development and infrastructure lifecycle as part of their responsibilities.
 
-## Continuous Integration
-
-Continuous integration is a software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run. The key goals of continuous integration are to find and address bugs quicker, improve software quality, and reduce the time it takes to validate and release new software updates.
-
-## Continuous delivery
-
-Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production. It expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When continuous delivery is implemented properly, developers will always have a deployment-ready build artifact that has passed through a standardized test process.
-
 ## Integration Approach
 
 In-house: dev and production
@@ -117,13 +109,24 @@ and you want to deploy it over the cloud,  you would choose something like Herok
 which is an example of PaaS.
 
 
-## Containerisation 
-1. https://github.com/kukuu/AGILITY/tree/master/docker
+## Continuous Integration
 
+Continuous integration is a software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run. The key goals of continuous integration are to find and address bugs quicker, improve software quality, and reduce the time it takes to validate and release new software updates.
 
 ## Continuous Delivery (RRASc)
+
+Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production. It expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When continuous delivery is implemented properly, developers will always have a deployment-ready build artifact that has passed through a standardized test process.
+
+Extensibly, it is  the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way.
+
+The model behind this approach is to achieve a platform which is:
+
+```
+
 Reliable :: Repeatable :: Automation :: Source control
-CD is the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way.
+
+```
+
 
 A logical extension of Continuous Integration, It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. Manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
 
@@ -169,6 +172,7 @@ Achieving CD
 
 8. Improve continuously
 The most optimum path to achieve these goals is to use microservices architecture
+
 
 ## Microservices
 
@@ -294,6 +298,8 @@ A very good robust and scalable API Gateway must time out calls that exceed the 
 
 For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
 
+## Containerisation 
+1. https://github.com/kukuu/AGILITY/tree/master/docker
 
 
 ## Architectures
