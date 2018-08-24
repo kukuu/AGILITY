@@ -17,10 +17,6 @@ Continuous integration is a software development practice where developers regul
 
 Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production. It expands upon continuous integration by deploying all code changes to a testing environment and/or a production environment after the build stage. When continuous delivery is implemented properly, developers will always have a deployment-ready build artifact that has passed through a standardized test process.
 
-## Microservices
-
-The microservices architecture is a design approach to build a single application as a set of small services. Each service runs in its own process and communicates with other services through a well-defined interface using a lightweight mechanism, typically an HTTP-based application programming interface (API). Microservices are built around business capabilities; each service is scoped to a single purpose. You can use different frameworks or programming languages to write microservices and deploy them independently, as a single service, or as a group of services.
-
 ## Integration Approach
 
 In-house: dev and production
@@ -176,9 +172,9 @@ Achieving CD
 8. Improve continuously
 The most optimum path to achieve these goals is to use microservices architecture
 
-## Micro-services
+## Microservices
 
-Microservices architecture is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
+The microservices architecture is a design approach to build a single application as a set of small modular services. Each service runs in its own process and communicates with other services through a well-defined interface using a lightweight mechanism, typically an HTTP-based application programming interface (API). Microservices are built around business capabilities; each service is scoped to a single purpose, and supports a busimess goal. You can use different frameworks or programming languages to write microservices and deploy them independently, as a single service, or as a group of services.
 
 When you choose to build your application as a set of microservices, you need to decide how your application’s clients will interact with the microservices. With a monolithic application there is just one set of (typically replicated, load‑balanced) endpoints. In a microservices architecture, however, each microservice exposes a set of what are typically fine‑grained endpoints.
 
@@ -340,5 +336,11 @@ i.  Overview - https://docs.cloudfoundry.org/concepts/overview.html
 
 ii. Pair Programming - https://www.armakuni.com/ak-thinking/ 
 
-3. Cloud Native - https://container-solutions.com/what-is-cloud-native/
+3. Cloud Native 
+
+i. Container Solutions - https://container-solutions.com/what-is-cloud-native/ 
+
+ii. Security Strategies - https://www.twistlock.com/2017/10/02/security-cloud-native-environments/?ads_cmpid=1071572634&ads_adid=54488335919&ads_matchtype=b&ads_network=g&ads_creative=269316971720&utm_term=&ads_targetid=dsa-446131505180&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=EAIaIQobChMIld3mtZqF3QIVqrXtCh16MwdBEAAYAyAAEgLSO_D_BwE
+
+
 
