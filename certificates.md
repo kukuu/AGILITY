@@ -61,3 +61,7 @@ https://github.com/kukuu/worldlabs/tree/master/KF-NFT/Authy-2FA
 
 
 ## OAuth 2
+
+# Resources 
+
+1. Cloud Native Security - https://www.twistlock.com/2017/10/02/security-cloud-native-environments/?ads_cmpid=1071572634&ads_adid=54488335919&ads_matchtype=b&ads_network=g&ads_creative=269316971720&utm_term=&ads_targetid=dsa-446131505180&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=EAIaIQobChMIld3mtZqF3QIVqrXtCh16MwdBEAAYAyAAEgLSO_D_BwE
