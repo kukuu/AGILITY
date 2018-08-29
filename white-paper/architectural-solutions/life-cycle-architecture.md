@@ -50,7 +50,7 @@ Other architectural areas to consider to support development are:
 ● Font icons
 
 
-## Quality Assurance Approach
+## Quality Assurance Approach
 
 ● Testing Environment & Test Coverage, The testing Pyramid Matrix
 
