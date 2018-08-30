@@ -32,7 +32,7 @@ Other architectural areas to consider to support development are:
 
 ● Quality Control
 
-● Source ControL
+● Source Control
 
 ● Client and Server side component rendering
 
