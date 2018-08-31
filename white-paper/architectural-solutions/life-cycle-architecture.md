@@ -95,5 +95,10 @@ Other architectural areas to consider to support development are:
 
 ●  Building a progressive and scalable REACT application - https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/steps-to-build-react-redux-user-app.md
 
-●  Resources - https://github.com/kukuu/worldlabs/blob/master/resources.md
+# Resources
+
+● Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions
+
+● Hooks - https://github.com/kukuu/worldlabs/blob/master/resources.md 
+
 
