@@ -71,7 +71,7 @@ npm start
 
 ●  Reset password
 
-●  Search
+●  Search (Including Tokenization, Steming and Stop Words)
 
 ●  Components inclusion (Add new component)
 
@@ -85,45 +85,3 @@ npm start
 i.https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/life-cycle-architecture.md 
 
 ii. https://github.com/kukuu/worldlabs/blob/master/resources.md 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-
-
-
- 
-
-
