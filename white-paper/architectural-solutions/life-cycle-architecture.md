@@ -30,7 +30,7 @@ Other architectural areas to consider to support development are:
 
 ● Error Handling & Digital Security
 
-● Adding search functionality
+● Adding search functionality (Including Tokenization, Steming and Stop Words)
 
 ● Quality Control
 
