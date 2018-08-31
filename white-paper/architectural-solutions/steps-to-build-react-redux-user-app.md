@@ -71,6 +71,8 @@ npm start
 
 ●  Reset password
 
+●  Search
+
 ●  Components inclusion (Add new component)
 
 ●  Include token into authorization header
@@ -80,7 +82,9 @@ npm start
 
 ## Resources
 
-i.https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/life-cycle-architecture.md  
+i.https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/life-cycle-architecture.md 
+
+ii. https://github.com/kukuu/worldlabs/blob/master/resources.md 
 
 
 
