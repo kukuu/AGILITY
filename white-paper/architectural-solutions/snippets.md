@@ -538,5 +538,8 @@ function mapStateToProps(state) {
 
 export default connect(mapStateToProps)(UserDetail);
 
-
 ```
+
+# Resources
+
+●  Resource - https://github.com/kukuu/worldlabs/blob/master/resources.md
