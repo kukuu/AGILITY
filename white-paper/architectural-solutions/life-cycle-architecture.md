@@ -83,3 +83,13 @@ Other architectural areas to consider to support development are:
 
 
 ##  Integrating Social Media, Email & Campaign Strategies
+
+●  Twitter
+●  LinkedIn
+●  Instagram
+●  Facebook
+
+# Applying
+
+●  Building a progressive and scalable REACT application - 
+
