@@ -22,7 +22,7 @@ Other architectural areas to consider to support development are:
 
 ● Code Framework
 
-● Code Repository (Structure and Development guidelines)
+● Code Repository (Structure and Development guidelines) and Source Control
 
 ● Components overview
 
@@ -33,8 +33,6 @@ Other architectural areas to consider to support development are:
 ● Adding search functionality (Including Tokenization, Steming and Stop Words)
 
 ● Quality Control
-
-● Source Control
 
 ● Client and Server side component rendering
 
