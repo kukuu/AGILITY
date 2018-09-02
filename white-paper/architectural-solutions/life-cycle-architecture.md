@@ -99,7 +99,7 @@ Other architectural areas to consider to support development are:
 
 ● Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions
 
-● Authentocation - https://github.com/kukuu/worldlabs/tree/master/API-authentication-security/client-server 
+● Authentication - https://github.com/kukuu/worldlabs/tree/master/API-authentication-security/client-server 
 
 ● Certificates & Digital Security - https://github.com/kukuu/AGILITY/blob/master/white-paper/certificates.md 
 
