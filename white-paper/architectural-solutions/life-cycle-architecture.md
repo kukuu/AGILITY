@@ -88,6 +88,7 @@ Other architectural areas to consider to support development are:
 ●  LinkedIn
 ●  Instagram
 ●  Facebook
+●   Whats App
 
 # Applying
 
@@ -101,7 +102,7 @@ Other architectural areas to consider to support development are:
 
 ● Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions 
 
-● https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/react-architecture
+● REACT Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/react-architecture
 
 ● Authentication - https://github.com/kukuu/worldlabs/tree/master/API-authentication-security/client-server 
 
