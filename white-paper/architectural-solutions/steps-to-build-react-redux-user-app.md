@@ -85,3 +85,5 @@ npm start
 i.https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/life-cycle-architecture.md 
 
 ii. https://github.com/kukuu/worldlabs/blob/master/resources.md 
+
+iii. https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/react-architecture
