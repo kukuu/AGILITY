@@ -99,7 +99,9 @@ Other architectural areas to consider to support development are:
 
 ● Hooks - https://github.com/kukuu/worldlabs/blob/master/resources.md 
 
-● Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions
+● Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions 
+
+● https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/react-architecture
 
 ● Authentication - https://github.com/kukuu/worldlabs/tree/master/API-authentication-security/client-server 
 
