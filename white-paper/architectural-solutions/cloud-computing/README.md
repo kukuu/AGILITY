@@ -192,9 +192,9 @@ ii. Quick results
 
 iii. Improved availability since the message broker buffers messages until the consumer is able to process them
 
-iii. Lower capital expenses
+iv. Lower capital expenses
 
-iv. Grow market share
+v. Grow market share
 
 Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc.
 
