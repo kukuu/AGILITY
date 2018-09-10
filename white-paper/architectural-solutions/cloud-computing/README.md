@@ -21,13 +21,13 @@ Legacy systems
 
 ## Tools
 
-GIT / GitHub - Probably the most common source management tool available. Used for Source Control Managemen. In addition to its great forking and pull request features, GitHub also has plugins that can connect with Jenkins to facilitate integration and deployment
+GIT / GitHub - Probably the most common source management tool available. Used for Source Control Management. In addition to its great forking and pull request features, GitHub also has plugins that can connect with Jenkins to facilitate integration and deployment.
 
 Ansible - Configuration Management Tool similar to Puppet and Chef.
 
 Docker - It eases configuration management, control issues, and scaling by allowing containers to be moved from one place to another.
 
-Jenkins - As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project. Jenkins can easily distribute work across multiple machines, helping drive builds, tests and deployments across multiple platforms faster
+Jenkins - As an extensible automation server, Jenkins can be used as a simple CI server or turned into the continuous delivery hub for any project. Jenkins can easily distribute work across multiple machines, helping drive builds, tests and deployments across multiple platforms faster.
 
 
 
