@@ -39,15 +39,19 @@ Cloud computing is a model for enabling convenient, on-demand network access to 
 
 Characteristics associated with Cloud Computing services include:
 
-On-demand self-service. The ability for an end user to sign up and receive services without the long delays that have characterized traditional IT normally using thin client like the Browser.
+```
 
-Broad network access. Ability to access the service via standard platforms (desktop, laptop, mobile etc)
+i. On-demand self-service. The ability for an end user to sign up and receive services without the long delays that have characterized traditional IT normally using thin client like the Browser.
 
-Resource pooling. Resources are pooled across multiple customers.
+ii. Broad network access. Ability to access the service via standard platforms (desktop, laptop, mobile etc)
 
-Rapid elasticity. Capability can scale to cope with demand peaks.
+iii. Resource pooling. Resources are pooled across multiple customers.
 
-Measured Service. Billing is metered and delivered as a utility service
+iv. Rapid elasticity. Capability can scale to cope with demand peaks.
+
+v. Measured Service. Billing is metered and delivered as a utility service
+
+```
 
 ### Models
 
