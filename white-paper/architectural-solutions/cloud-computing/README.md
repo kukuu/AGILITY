@@ -388,7 +388,9 @@ ii. Security Strategies - https://www.twistlock.com/2017/10/02/security-cloud-na
 
 7. Unit Test - https://github.com/kukuu/AGILITY/blob/master/unit-test/notes.rtf 
 
-8. ... https://github.com/kukuu/worldlabs/blob/master/resources.md
+8. Architectural Solutions - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions
+
+9. ... https://github.com/kukuu/worldlabs/blob/master/resources.md
 
 
 
