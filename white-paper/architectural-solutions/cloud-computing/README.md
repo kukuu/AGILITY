@@ -182,14 +182,27 @@ When you choose to build your application as a set of microservices, you need to
 
 Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol. Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels. Examples of asynchronous messaging technologies are Apache Kafka and RabbitMQ.
 
+
 This pattern has the following benefits:
-Loose coupling since it decouples client from services
 
-Improved availability since the message broker buffers messages until the consumer is able to process them
+```
+i. Loose coupling since it decouples client from services
 
-Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc
+ii. Quick results
+
+iii. Improved availability since the message broker buffers messages until the consumer is able to process them
+
+iii. Lower capital expenses
+
+iv. Grow market share
+
+Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc.
+
+```
 
 This pattern has the following drawbacks:
+
+```
 Additional complexity of message broker, which must be highly available
 
 This pattern has the following issues:
@@ -197,6 +210,8 @@ This pattern has the following issues:
 i. Request/reply-style communication is more complex
 
 i. Client needs to discover location of message broker
+
+```
 
 Loose coupling::individual deployment:: repeatable deployment can only be achieved by repeatble context ==> containerisation
 Microservices enforce loose coupling, plus it’s easier to develop fast and reliable deployment pipelines if they only have to handle small packages.
