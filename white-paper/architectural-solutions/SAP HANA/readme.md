@@ -56,4 +56,8 @@ SAP HANA offers querry processing environments for:
 
 ## Resources
 
-1. https://github.com/kukuu/AGILITY/blob/master/white-paper/RLJ-architecture.pdf  
+1. RLJ Arcitecture - https://github.com/kukuu/AGILITY/blob/master/white-paper/RLJ-architecture.pdf  
+
+2. SAP UI - https://www.youtube.com/watch?v=aSPR3AtC-rs
+
+3. Microservices and Cloud Platform - https://events.sap.com/teched/en/embed.aspx?sid=22720
