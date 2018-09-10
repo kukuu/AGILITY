@@ -53,9 +53,8 @@ A slightly different look, and very different behavior:
 ## The Event Loop
 
 ```
-The decoupling of the caller from the response allows for the JavaScript runtime to do 
-other things while waiting for your asynchronous operation to complete and their
-callbacks to fire.
+The event Loop is a stack trace that decouples a JavaScript call from its response, allowing for the JavaScript runtime to do 
+other things while waiting for any asynchronous operation to complete and their callbacks to fire.
 
 ```
 
