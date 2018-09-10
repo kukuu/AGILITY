@@ -334,6 +334,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
 
 - https://12factor.net
 
+```
 
 ## Architectures
 
@@ -363,21 +364,33 @@ The twelve-factor methodology can be applied to apps written in any programming 
 
 ## Resources
 
-1. AWS Auto scaling - https://aws.amazon.com/autoscaling/
+1. Microservices vs SOA Architectures
 
-2. Elastic Load Ballancers (ALP, Classic and Network - https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html 
+https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/difference-between-monolithic-and-microservices-architecture-1.png
 
-2. Cloud Foundry 
+2. AWS Auto scaling - https://aws.amazon.com/autoscaling/
 
-i.  Overview - https://docs.cloudfoundry.org/concepts/overview.html 
+3. Continuous Integration, Continuous Delivery and Continuous Deployment and the Vector Pipeline
 
-ii. Pair Programming - https://www.armakuni.com/ak-thinking/ 
+i. https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/continuous-integration-with-team-city.png
 
-3. Cloud Native 
+ii. https://github.com/kukuu/AGILITY/blob/master/white-paper/architectural-solutions/CI-CDL-CDPL-pipeline.jpg
+
+4. Elastic Load Ballancers (ALP, Classic and Network - https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html 
+
+5. Cloud Native
 
 i. Container Solutions - https://container-solutions.com/what-is-cloud-native/ 
 
-ii. Security Strategies - https://www.twistlock.com/2017/10/02/security-cloud-native-environments/?ads_cmpid=1071572634&ads_adid=54488335919&ads_matchtype=b&ads_network=g&ads_creative=269316971720&utm_term=&ads_targetid=dsa-446131505180&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=EAIaIQobChMIld3mtZqF3QIVqrXtCh16MwdBEAAYAyAAEgLSO_D_BwE
+ii. Security Strategies - https://www.twistlock.com/2017/10/02/security-cloud-native-environments/?ads_cmpid=1071572634&ads_adid=54488335919&ads_matchtype=b&ads_network=g&ads_creative=269316971720&utm_term=&ads_targetid=dsa-446131505180&utm_campaign=&utm_source=adwords&utm_medium=ppc&ttv=2&gclid=EAIaIQobChMIld3mtZqF3QIVqrXtCh16MwdBEAAYAyAAEgLSO_D_BwE 
+
+6.Agility -  https://github.com/kukuu/AGILITY 
+
+7. Unit Test - https://github.com/kukuu/AGILITY/blob/master/unit-test/notes.rtf 
+
+8. ... https://github.com/kukuu/worldlabs/blob/master/resources.md
+
+
 
 
 
