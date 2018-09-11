@@ -1,9 +1,11 @@
-# SAP HANA
+# SAP (Sytems Application Products in data processing)
+
+## SAP HANA
 
 SAP HANA is an in memory database and is 100% ACID compliant. 
 
 
-## Why ACID?
+### Why ACID?
 
 Guarantees the reliability of database transactions:
 
@@ -16,7 +18,7 @@ Guarantees the reliability of database transactions:
 4. Durability (Availability/Scalability)
 
 
-## Components
+### Components
 
 1. Database (in memory)
 
@@ -27,7 +29,7 @@ Guarantees the reliability of database transactions:
 4. Cloud services
 
 
-## Database Support
+### Database Support
 
 Supports both structured and non-structured databases, including text and graphs. SAP HANA is nearly ten times faster than traditional databases, simply for these resons. Leverages:
 
@@ -38,14 +40,14 @@ Supports both structured and non-structured databases, including text and graphs
 3. Multi-core processors
 
 
-## Types of applications Support
+### Types of applications Support
 
 1. OLTP - Online Transaction Processing System
 
 2. OLAP - Online Analytical Processing System
 
 
-## Query processing environment
+### Query processing environment
 
 SAP HANA offers querry processing environments for:
 
@@ -58,6 +60,8 @@ SAP HANA offers querry processing environments for:
 
 1. RLJ Arcitecture - https://github.com/kukuu/AGILITY/blob/master/white-paper/RLJ-architecture.pdf  
 
-2. SAP UI - https://www.youtube.com/watch?v=aSPR3AtC-rs
+2. SAP UI - https://www.youtube.com/watch?v=aSPR3AtC-rs 
+
+3. SAP (ASAP, ABAP, DSAT) -https://www.youtube.com/watch?v=hLvxbjf6FOc
 
 3. Microservices and Cloud Platform - https://events.sap.com/teched/en/embed.aspx?sid=22720
