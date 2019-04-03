@@ -12,7 +12,7 @@ Lean Agile Leadership is established through empowerment:  Building, autonomous,
 
 ### Squads
 
-The individual teams that make up a company in agile management are known as squads. The idea is that each squad has its own defined goal, which they work towards autonomously. Each squad has a ‘product owner’: they prioritise work to be done. However, they don’t tell employees how to work. Squad members also have access to an ‘agile coach’ to keep them up to date and well informed. Example: The 'Shopping  UI Basket', 'Platform Gateway', and 'Platform Core' teams.
+The individual teams that make up a company in agile management are known as squads. The idea is that each squad has its own defined goal, which they work towards autonomously. Each squad has a ‘product owner’: they prioritise work to be done. However, they don’t tell employees how to work. Squad members also have access to an ‘agile coach’ to keep them up to date and well informed. Example: The 'Shopping  UI Basket', 'Tapestry' 'Platform Gateway', 'LOOM' and 'Platform Core' teams.
 
 ### Tribes
 
