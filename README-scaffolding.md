@@ -31,43 +31,41 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 6.  Linting
 
-7.  Linting
+7.  Error Handling - Status Codes
 
-8.  Error Handling - Status Codes
+8.  Minifying assets
 
-9.  Minifying assets
+9.  Managing Performance & SEO (PWA / Service Worker / L)
 
-10. Managing Performance & SEO (PWA / Service Worker / L)
+10. Enabling G-Zip on AWS
 
-11. Enabling G-Zip on AWS
+11. Managing Cookies
 
-12. Managing Cookies
+12. Cross Browser Compatibility
 
-13. Cross Browser Compatibility
+13. Fonts
 
-14. Fonts
+14. Error Handling
 
-15. Error Handling
+15. Cache Strategy
 
-16. Cache Strategy
-
-17. Handling asynchronous requests and managing latency (Spinner)
+16. Handling asynchronous requests and managing latency (Spinner)
 
 18. Localising polyfills
 
-19. Code portability
+17. Code portability
 
-20. State Management - REDUX
+18. State Management - REDUX
 
-21. Local Storage
+19. Local Storage
 
-22. Micro-services
+20. Micro-services
 
-23. API
+21. API
 
-24. Handling Client Queries - Graph Queries
+22. Handling Client Queries - Graph Queries
 
-25. Module Bundler - Webpack
+23. Module Bundler - Webpack
 ```
 
 A Module bundler, Webpack bundles a bunch of modules with require statements.
