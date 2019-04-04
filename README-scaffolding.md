@@ -19,9 +19,9 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 ## Front end
 
 ```
-1.  Programming Framework - REACT, GATSBY (REACT, GraphQL, Webpack)
+1.  Programming Framework 
 
-2.  Development environment - Storybook
+2.  Development environment 
 
 3.  CI / CD, Automated testing Pipeline 
 
@@ -31,48 +31,46 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 6.  Linting
 
-7.  Module Bundler - Webpack
+7.  Linting
 
-8.  Linting
+8.  Error Handling - Status Codes
 
-9.  Error Handling - Status Codes
+9.  Minifying assets
 
-10. Minifying assets
+10. Managing Performance & SEO (PWA / Service Worker / L)
 
-11. Managing Performance & SEO (PWA / Service Worker / L)
+11. Enabling G-Zip on AWS
 
-12. Enabling G-Zip on AWS
+12. Managing Cookies
 
-13. Managing Cookies
+13. Cross Browser Compatibility
 
-14. Cross Browser Compatibility
+14. Fonts
 
-15. Fonts
+15. Error Handling
 
-16. Error Handling
+16. Cache Strategy
 
-17. Cache Strategy
+17. Handling asynchronous requests and managing latency (Spinner)
 
-18. Handling asynchronous requests and managing latency (Spinner)
+18. Localising polyfills
 
-19. Localising polyfills
+19. Code portability
 
-20. Code portability
+20. State Management - REDUX
 
-21. State Management - REDUX
+21. Local Storage
 
-22. Local Storage
+22. Micro-services
 
-23. Micro-services
+23. API
 
-24. API
+24. Handling Client Queries - Graph Queries
 
-25. Handling Client Queries - Graph Queries
-
-26. Webpack
+25. Module Bundler - Webpack
 ```
 
-A Module bundler, Webpack bundles a bunch of modules with require statements
+A Module bundler, Webpack bundles a bunch of modules with require statements.
 
 Bundlers such as Browserify and Webpack are steadily taking over from Gulp and Grunt, and there is very little room left for both stream-based tasks. The majority of the work which you were previously doing with Gulp is now handled by Webpack — bundling and optimization for JavaScript, CSS and images; code splitting; targeted bundles for different environments (see isomorphic apps).
 
@@ -80,9 +78,9 @@ As a build tool Webpack puts all of your assets, including Javascript, images, f
 with a URL pointing to a CDN.
 
 
- When to use  Webpack:
-
-If you're building a complex Front End application with many non-code static assets such as CSS, images, fonts, etc, then yes, Webpack will give you great benefits.
+ When to use  Webpack: 
+ 
+ If you're building a complex Front End application with many non-code static assets such as CSS, images, fonts, etc, then yes, Webpack will give you great benefits.
 
 If your application is fairly small, and you don't have many static assets and you only need to build one Javascript file to serve to the client, then Webpack might be more overhead than you need.
 
@@ -155,14 +153,3 @@ API / Services / End point
 9.  Reporting back - Service Desk
 
 ```
-
-
-
-
-
-
-
-
-
-
-
