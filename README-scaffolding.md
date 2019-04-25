@@ -35,7 +35,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 8.  Minifying assets
 
-9.  Managing Performance & SEO (PWA / Service Worker / L)
+9.  Managing Performance & SEO (PWA / Service Worker / Notification)
 
 10. Enabling G-Zip on AWS
 
