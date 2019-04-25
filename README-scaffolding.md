@@ -45,7 +45,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 13. Fonts
 
-14. Digital Security
+14. Digital Security - Code, Infrastructure (DevSecOps)
 
 15. Cache Strategy
 
