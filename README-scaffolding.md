@@ -118,14 +118,16 @@ API / Services / End point
 
 ```
 
-## SEO
+## SEO / Performance
 
 ```
-1.  Google Analytics
+1. SSR and Static Site Generators - GatsbyJS (REACT, GraphQL, Helmet, Plugins)
 
-2.  Universal JavaScript (Server Side Rendering)
+2. Google Analytics
 
-3.  Lighthouse
+3.  Universal JavaScript (Server Side Rendering)
+
+4.  Lighthouse
 ```
 
 
