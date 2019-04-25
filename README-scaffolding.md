@@ -14,6 +14,8 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 4.  Collaboration 
 
+5. KISS
+
 ```
 
 ## Front end
@@ -151,5 +153,14 @@ API / Services / End point
 8.  Deployment: AWS / AZURE 
 
 9.  Reporting back - Service Desk
+
+```
+
+## DevSecOps
+
+```
+1. Micro-services
+2. SOA
+3. TOGAF
 
 ```
