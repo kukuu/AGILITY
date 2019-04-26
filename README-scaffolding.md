@@ -3,6 +3,51 @@
 
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0. 
 
+ ## Digital Delivery
+
+```
+ Web App
+ 
+ Mobile Web
+ 
+ Mobile Apps
+ 
+ Digital Platforms
+ 
+ Architecting for High Availability / Fault tolerant (Design for failure, Multiple Availability zones, Scaling, Self Healing, Loose Coupling)
+ 
+ Cloud Computing (AWS / AZURE)
+ 
+ Identity Management
+ 
+ Security Architectures
+ 
+ Disaster RecoverY
+ 
+ Capacity planning
+ 
+ Performance Management
+ 
+ SOA 
+ 
+ Microservices
+ 
+ Integration
+ 
+ Implementation 
+ 
+ Non Functional Requirements
+ 
+ Reporting
+ 
+ Finances
+ 
+ Implementation of Agile delivery practices.
+ 
+ Risk Management
+ 
+ ```
+
 ## UX
 
 ```
