@@ -34,7 +34,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  Integration
  
- Implementation 
+ Implementation & evolving systems (in which all knowledge workers operate)
  
  Non Functional Requirements
  
@@ -45,6 +45,8 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  Implementation of Agile delivery practices.
  
  Risk Management
+ 
+ Stakeholder Management
  
  ```
 
