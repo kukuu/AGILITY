@@ -22,13 +22,15 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  Security Architectures
  
- Disaster RecoverY
+ Disaster Recovery
  
  Capacity planning
  
  Performance Management
  
  SOA 
+ 
+ Hosting
  
  Microservices
  
@@ -104,17 +106,20 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 17. Code portability
 
-18. State Management - REDUX
+18. State Management 
 
 19. Local Storage
 
 20. Micro-services
 
-21. API
+21. API & Securing APIs
 
 22. Handling Client Queries - Graph Queries
 
 23. Module Bundler - Webpack
+
+24. Security in Coding (DevSecOps)
+ 
 ```
 
 A Module bundler, Webpack bundles a bunch of modules with require statements.
