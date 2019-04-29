@@ -50,6 +50,8 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  Stakeholder Management
  
+ Infrastructure as Code
+ 
  ```
 
 ## UX
