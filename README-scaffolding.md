@@ -1,5 +1,5 @@
 
-# Scaffolding Blue Print
+#  Platform Blue Print (Scaffolding)
 
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0. 
 
