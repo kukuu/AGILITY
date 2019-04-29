@@ -65,6 +65,10 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 5. KISS
 
+6. Customer engagement / AB/MV Testing
+
+7. User experience
+
 ```
 
 ## Front end
