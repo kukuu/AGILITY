@@ -210,13 +210,31 @@ API / Services / End point
 
 9.  Reporting back - Service Desk
 
+10. Infrastructure as code
+
+11. Containerisation (Docker Kubernetes)
+
+12. Prometheus
+
+13. SNYK
+
 ```
 
-## DevSecOps
+## Architecture & API
 
 ```
 1. Micro-services
+
 2. SOA
-3. TOGAF
+
+3. APIs
+
+4. TOGAF
+
+5. SWAGGER
+
+6. GraphQL
+
+7. Fastify
 
 ```
