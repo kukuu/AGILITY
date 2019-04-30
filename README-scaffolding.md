@@ -96,7 +96,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 10. Enabling G-Zip on AWS
 
-11. Managing Cookies
+11. Managing Cookies & Sessions
 
 12. Cross Browser Compatibility
 
@@ -108,23 +108,23 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 16. Handling asynchronous requests and managing latency (Spinner)
 
-18. Localising polyfills
+18. Localising polyfill and third party libraries
 
-17. Code portability
+17. Code re-usability
 
 18. State Management 
 
 19. Local Storage
 
-20. Micro-services
+20. Micro-services and Componentization
 
-21. API & Securing APIs
+21. REST / RESTful API & Security
 
 22. Handling Client Queries - Graph Queries
 
 23. Module Bundler - Webpack
 
-24. Security in Coding (DevSecOps)
+24. Security in Coding (DevSecOps - SNYK)
  
 ```
 
