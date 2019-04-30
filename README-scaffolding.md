@@ -80,7 +80,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 2.  Source Control / Development environment 
 
-3.  CI / CD, Automated testing Pipeline (Reliable, Repeatable, Automated, Elastic, Source Control) 
+3.  CI / CD  Pipeline (Reliable, Repeatable, Automation, Elastic, Source Control) 
 
 4.  Development platform
 
