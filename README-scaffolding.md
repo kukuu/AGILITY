@@ -78,9 +78,9 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 ```
 1.  Programming Framework 
 
-2.  Development environment 
+2.  Source Control / Development environment 
 
-3.  CI / CD, Automated testing Pipeline 
+3.  CI / CD, Automated testing Pipeline (Reliable, Repeatable, Automated, Elastic, Source Control) 
 
 4.  Development platform
 
