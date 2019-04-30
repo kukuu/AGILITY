@@ -57,7 +57,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 ## UX
 
 ```
-1.  Design Framework : Responsive Design, Mobile First
+1.  Design Framework : Extensible, Responsive Design, Mobile First, Bottom to top
 
 2.  Grids & Layout (Bootstrap, Material UI etc)
 
@@ -65,7 +65,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 4.  Collaboration 
 
-5. KISS
+5.  KISS
 
 6. Customer engagement / AB/MV Testing
 
