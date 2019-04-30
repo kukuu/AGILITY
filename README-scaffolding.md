@@ -102,7 +102,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 13. Fonts
 
-14. Digital Security - Code, Infrastructure (DevSecOps)
+14. Digital Security - JWT, 2FA,OAuth, Infrastructure (DevSecOps)
 
 15. Cache Strategy
 
@@ -219,6 +219,10 @@ API / Services / End point
 12. Prometheus
 
 13. SNYK
+
+14. Server Security (SSL, TLS) & Monitoring (KIBANA, Prometheus)
+
+15. Deploymnet Servers  (Jenkins, Tomcat)
 
 ```
 
