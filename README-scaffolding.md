@@ -14,7 +14,8 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  Digital Platforms
  
- Architecting for High Availability / Fault tolerant (Design for failure, Multiple Availability zones, Scaling, Self Healing, Loose Coupling)
+ Architecting for High Availability / Fault tolerant (Design for failure, Multiple Availability zones, 
+ Scaling, Self Healing, Loose Coupling)
  
  Cloud Computing (AWS / AZURE)
  
@@ -84,7 +85,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 4.  Development platform
 
-5.  CSS - BEM, SASS, 
+5.  CSS - BEM, SASS, CSSModules, Style Components, PostCSS
 
 6.  Linting
 
