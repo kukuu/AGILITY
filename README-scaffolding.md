@@ -179,6 +179,28 @@ API / Services / End point
 
 ```
 
+## Continuous Integration
+
+```
+
+Jenkins
+
+TeamCity
+
+Travis CI
+
+Go CD
+
+Bamboo
+
+GitLab CI
+
+CircleCI
+
+Codeship
+
+```
+
 ## SEO / Performance
 
 ```
