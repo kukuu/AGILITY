@@ -136,6 +136,8 @@ Error Handling
 
 API / Services / End point
 
+Middlewares
+
 ```
 
 ## Continuous Integration
