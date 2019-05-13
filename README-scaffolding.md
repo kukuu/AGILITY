@@ -164,14 +164,14 @@ Codeship
 
 ```
 
-## SEO / Performance
+## SEO, Performance & Tools 
 
 ```
-1. SSR and Static Site Generators - GatsbyJS (REACT, GraphQL, Helmet, Plugins)
+1. SSR / Universal JavaScript (Server Side Rendering)
 
-2. Google Analytics
+2. Static Site Generators - GatsbyJS (REACT, GraphQL, Helmet, Plugins)
 
-3.  Universal JavaScript (Server Side Rendering)
+3. Google Analytics
 
 4.  Lighthouse
 ```
