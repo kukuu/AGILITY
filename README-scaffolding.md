@@ -219,6 +219,8 @@ Codeship
 
 2. SOA
 
+4. Integration - Cloud and Proprietory
+
 3. APIs
 
 4. TOGAF
