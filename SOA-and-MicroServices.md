@@ -12,6 +12,10 @@ Enterprise Service Bus (ESB) is a style of the integration architecture that 
 
 So, SOA is an architectural pattern in which application components provide services to other components. Autonomous units of business functionality: each service provides a business function that is independent of other services.
 
+### Architecture
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/SOA-1.png
+
 ## Microservices Architecture
 
 Microservices is a software architecture pattern in which complex applications are composed of small, independent processes communicating with each other using language-agnostic APIs. 
