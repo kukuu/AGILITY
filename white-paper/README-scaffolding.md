@@ -248,4 +248,12 @@ Codeship
 
 4. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
 
-5. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md
+5. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md 
+
+6. AWS Web Pipeline - https://github.com/kukuu/AGILITY/blob/master/aws-web-app-pipeline.png 
+
+7. CI, Continuous Delivery and Continuous Deployment Pipelines - https://github.com/kukuu/AGILITY/blob/master/CI-CDL-CDPL-pipeline.jpg 
+
+8. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
+
+9. SOA vs Microservices - https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
