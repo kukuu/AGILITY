@@ -240,7 +240,7 @@ Codeship
 
 ## Further reading
 
-1. Software Development Life Cycle -- https://github.com/kukuu/AGILITY/blob/master/swdlc.md
+1. Software Development Life Cycle - https://github.com/kukuu/AGILITY/blob/master/swdlc.md
 
 2. Choosing a Technology stack - https://github.com/kukuu/AGILITY/tree/master/white-paper/tech-stack
 
