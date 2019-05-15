@@ -34,7 +34,7 @@ Most of the web applications are built with Bootstrap as the framework for HTML 
 When it comes to JavaScript, components are a field of fierce competition of front-end frameworks, the most used are Angular and React. Both are well-known for their high performance and flexibility, and both have huge armies of supporters and contributors. Moreover, both of them work equally well regardless of the tools used on the back end.
 
 
-## Server-side or Back-end?
+## Server-side
 
 The server-side components aren’t visible to the users, but it powers the client-side, just as a power station generates electricity for your home. The most challenges lie majorly in the choice of the server-side technology for developing your web application. As server-side programming languages, they are used to create the logic of websites and applications. Frameworks for programming languages offer lots of tools for milder and faster coding. All back-end tech stacks hold the following main parts:
 
@@ -125,7 +125,7 @@ Time to Market depends on the technology stack you select for your web applicati
 
 ### Out of the box solutions
 
-It is also known as Off-the-Shelfreferser to software that can be installed ready-made for the general public. One of the positives of the mentioned software is ready to be installed.
+It is also known as Off-the-Shelf/COTS (Commercial of the Shelf) to software that can be installed ready-made for the general public. One of the positives of the mentioned software is ready to be installed.
 Third Party Integration –  Ensure the tech stack you selected enables a great number of third-party integration as it helps you to add the functions that you need in your web application without reinventing the wheel.
 
 ### Availability of developers 
@@ -153,7 +153,7 @@ It’s not that much necessary to say turning your idea into a real-life web app
 Web developers are highly professionals who are rather well-paid. However, their salaries depend on the technologies they work with. Simultaneously, your expenses will be different depending on the tech stack. You should remember that more advanced the technology is the higher the developer salary will be.
 
 
-####App Maintenance cost
+#### App Maintenance cost
 
 Developing the web application is just like one side of the coin; maintaining it is the other. To diminish maintenance costs, you should opt for free open-source technologies.
 
@@ -175,21 +175,6 @@ Scale out or horizontally – allowing it to handle increased volumes of a reque
 Always ensure the web application is developed on the safety principles in order to avoid threats, minimize critical areas. It is needed to select software technologies that have safety and security instructions in order to create a  highly secure, protected web product.
 
 
-## Technology Stacks Behind Successful Web Projects
-
-Airbnb, the world’s most well-known hospitality service that helps millions of people find rental apartments and short-term lodging.
-airbnb
-
-Instagram, a mainstream social networking application, is built with Python.
-instagram
-
-Facebook is the world’s biggest social network with almost 2 billion active monthly users.
-facebook
-
-Shopify helps entrepreneurs power their online stores
-shopify
-
-
 ## Critical Advice
 
 Pick a Technology Stack According to Your Project
@@ -202,5 +187,6 @@ Always be genuine and take all the pros and cons into account. The wrong selecti
 ### Bottom Line
 
 Determining the software technologies based on the requirements of the future products is the underlying concept. It is not a good idea to defer to time-tested tools, even if powerful successful organizations have applied them. You want to find the right tech partner or company for great product delivery in order not to break down the budget with the false choice.
+
 
 
