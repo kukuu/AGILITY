@@ -1,8 +1,12 @@
 # Functional and NFR (Non functional requirements)
 
-NFRs are the requirements defined to cover the operational aspects of a product or an app while Functional requirement (FR) focus on the behavioral aspects.
+## Functional
+
+Functional requirement (FR) focus on the behavioral aspects.
 
 ## NFR 
+
+NFRs are the requirements defined to cover the operational aspects of a product or an app.
 
 ```
 Efficiency 
