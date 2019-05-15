@@ -21,7 +21,7 @@
 
 ### One Tier Architecture
 
- A one tier architecture has all the layers such as Presentation, Business, Data Access layers in a single software package. Applications which handles all the three tiers such as MP3 player, MS Office are come under one tier application. The data is stored in the local system or a shared drive.
+ A one tier architecture has all the layers such as Presentation, Business, Data Access layers in a single software package. Applications which handles all the three tiers such as MP3 player, MS Office come under one tier application. The data is stored in the local system or a shared drive.
 
 
 ### Three Tier Architecture
