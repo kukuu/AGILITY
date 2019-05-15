@@ -65,25 +65,36 @@ Release
 
 FUNCTIONAL DESIGN DOCUMENT
 
-A functional design document describes a software product's capabilities, appearance, and functions it needs to ultimately perform. Design documents are also referred to as functional specifications or functional specifications documents (FSDs), or functional requirements specifications.
+A functional design document describes a software product's capabilities, appearance, 
+and functions it needs to ultimately perform. Design documents are also referred to as
+functional specifications or functional specifications documents (FSDs), or functional
+requirements specifications.
 
 
 HIGH-LEVEL DESIGN DOCUMENT?
 
-A high-level design document (HLDD) describes the architecture used in the development of a particular software product. It usually includes a diagram that depicts the envisioned structure of the software system. Since this is a high-level document, non-technical language is often used.
+A high-level design document (HLDD) describes the architecture used in the development 
+of a particular software product. It usually includes a diagram that depicts the envisioned
+structure of the software system. Since this is a high-level document, non-technical language
+is often used.
 
 
 SOFTWARE DESIGN DOCUMENT
 
 Composition: data, architecture, interface, procedural
 
-The software design document (SDD) typically describes a software product's "data" design, "architecture" design, "interface" design, and "procedural" design. The content and organization of an SDD is specified by the IEEE 1016 standard.
+The software design document (SDD) typically describes a software product's "data" design, 
+"architecture" design, "interface" design, and "procedural" design. The content and organization
+of an SDD is specified by the IEEE 1016 standard.
 
 
 DIFFERENCE BETWEEEN ARCHITECTURE & DESIGN
 
-Typically, the design follows the architecture phase in a (new) system development process. And while the architecture is rather "logical", the design is "physical", going down into the detail of the implementation technology.
+Typically, the design follows the architecture phase in a (new) system development process.
+And while the architecture is rather "logical", the design is "physical", going down into the
+detail of the implementation technology.
 
-Functional requirement will describe a particular behaviour of function of the system when certain conditions are met, for example: “Send email when a new customer signs up” or “Open a new account”.
+Functional requirement will describe a particular behaviour of function of the system when certain
+conditions are met, for example: “Send email when a new customer signs up” or “Open a new account”.
 
 ```
