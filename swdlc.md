@@ -46,13 +46,15 @@ These are general questions that get answered during a requirements gathering ph
 
 2. The possibility of incorporating the requirements in the system to be development is also studied.
 
-3. Finally, a Requirement Specification document is created which serves the purpose of guideline for the next phase of the model. 
+3. Finally, a Requirement Specification document is created which serves the purpose of guideline for 
+the next phase of the model. 
 
-4. The testing team follows the Software Testing Life Cycle and starts the Test Planning phase after the requirements analysis is completed.
+4. The testing team follows the Software Testing Life Cycle and starts the Test Planning phase after 
+the requirements analysis is completed.
 
 ```
 
-## Design:  
+## Design  
 
 In this phase the system and software design is prepared from the requirement specifications which were studied in the first phase. System Design helps in specifying hardware and system requirements and also helps in defining overall system architecture. The system design specifications serve as input for the next phase of the model.
 
@@ -66,7 +68,7 @@ Implementation / Coding:  On receiving system design documents, the work is divi
 
 Testing:  After the code is developed it is tested against the requirements to make sure that the product is actually solving the needs addressed and gathered during the requirements phase. During this phase all types of functional testing like unit testing, integration testing, system testing, acceptance testing are done as well as non-functional testing are also done.
 
-## Deployment: 
+## Deployment 
 
 After successful testing the product is delivered / deployed to the customer for their use.
 
