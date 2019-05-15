@@ -237,3 +237,15 @@ Codeship
 7. Fastify
 
 ```
+
+## Further reading
+
+1. Choosing a Technology stack - https://github.com/kukuu/AGILITY/tree/master/white-paper/tech-stack
+
+2. Software Sedign Specifications (SDD) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SDD.md 
+
+3. Statement of Work (SoW) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SoW.md
+
+4. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
+
+5. Indexes for measuring code quality - 
