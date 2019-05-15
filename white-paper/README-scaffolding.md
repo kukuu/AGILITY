@@ -244,22 +244,52 @@ Codeship
 
 2. Choosing a Technology stack - https://github.com/kukuu/AGILITY/tree/master/white-paper/tech-stack
 
-3. Software Sedign Specifications (SDD) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SDD.md 
+3. CI 
 
-4. Statement of Work (SoW) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SoW.md
+- Team  City :  https://github.com/kukuu/AGILITY/blob/master/continuous-integration-with-team-city.png
 
-5. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
+-  CI, Continuous Delivery and Continuous Deployment Pipelines - https://github.com/kukuu/AGILITY/blob/master/CI-CDL-CDPL-pipeline.jpg
 
-6. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md 
+4. Software Design Specifications (SDD) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SDD.md 
 
-7. AWS Web Pipeline - https://github.com/kukuu/AGILITY/blob/master/aws-web-app-pipeline.png 
+5. Statement of Work (SoW) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SoW.md
 
-8. CI, Continuous Delivery and Continuous Deployment Pipelines - https://github.com/kukuu/AGILITY/blob/master/CI-CDL-CDPL-pipeline.jpg 
+6. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
 
-9. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
+7. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md 
 
-10. SOA vs Microservices - https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
+8. AWS 
 
-11. The Test Pyramid and Coverage - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg 
+- Web Pipeline :  https://github.com/kukuu/AGILITY/blob/master/aws-web-app-pipeline.png 
 
-12. Certificates & Digital Security - https://github.com/kukuu/AGILITY/blob/master/certificates.md
+- Back end pipeline : https://github.com/kukuu/AGILITY/blob/master/white-paper/aws-backend-app-pipeline.png
+
+9. Containerisation 
+
+- Docker API : https://github.com/kukuu/digitalTransformationStrategies/blob/master/Docker-API.png
+
+- Orchestration with Kubernetes Cluster - https://github.com/kukuu/AGILITY/blob/master/white-paper/kubernetes/1.png 
+
+10. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
+
+11. SOA vs Microservices 
+
+- A microservice model : https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png
+
+- Microservices Gateway : https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+
+- SOA with Enterprise Service Bus (ESB) -  https://github.com/kukuu/AGILITY/blob/master/white-paper/SOA.png 
+
+12. The Test Pyramid and Coverage - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg 
+
+13. Certificates & Digital Security 
+-  SSL & TLS : https://github.com/kukuu/AGILITY/blob/master/certificates.md 
+
+- JWT - https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
+
+14. Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png 
+
+15. The ISO 7 Layer model - https://github.com/kukuu/digitalTransformationStrategies/blob/master/7-osi-Layers-ii.jpg
+
+16. The DevOps feedback loop - https://github.com/kukuu/digitalTransformationStrategies/blob/master/DevOps_feedback-diagram.png
+
