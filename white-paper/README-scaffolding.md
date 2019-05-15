@@ -248,4 +248,4 @@ Codeship
 
 4. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
 
-5. Indexes for measuring code quality - 
+5. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md
