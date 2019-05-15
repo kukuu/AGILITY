@@ -4,7 +4,7 @@
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Sof†ware Design Documen†). 
 
 
- ## Softwared Arcchitecture
+ ## Softwared Architecture
  
  Software architecture refers to the high level structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 
