@@ -240,22 +240,26 @@ Codeship
 
 ## Further reading
 
-1. Choosing a Technology stack - https://github.com/kukuu/AGILITY/tree/master/white-paper/tech-stack
+1. Software Development Life Cycle -- https://github.com/kukuu/AGILITY/blob/master/swdlc.md
 
-2. Software Sedign Specifications (SDD) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SDD.md 
+2. Choosing a Technology stack - https://github.com/kukuu/AGILITY/tree/master/white-paper/tech-stack
 
-3. Statement of Work (SoW) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SoW.md
+3. Software Sedign Specifications (SDD) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SDD.md 
 
-4. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
+4. Statement of Work (SoW) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SoW.md
 
-5. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md 
+5. Functional and Non-functional (NFR) requirements - https://github.com/kukuu/AGILITY/blob/master/white-paper/F-NFR.md 
 
-6. AWS Web Pipeline - https://github.com/kukuu/AGILITY/blob/master/aws-web-app-pipeline.png 
+6. Indexes for measuring code quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/code-quality.md 
 
-7. CI, Continuous Delivery and Continuous Deployment Pipelines - https://github.com/kukuu/AGILITY/blob/master/CI-CDL-CDPL-pipeline.jpg 
+7. AWS Web Pipeline - https://github.com/kukuu/AGILITY/blob/master/aws-web-app-pipeline.png 
 
-8. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
+8. CI, Continuous Delivery and Continuous Deployment Pipelines - https://github.com/kukuu/AGILITY/blob/master/CI-CDL-CDPL-pipeline.jpg 
 
-9. SOA vs Microservices - https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
+9. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
 
-10. The Test Pyramid and Coverage - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
+10. SOA vs Microservices - https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
+
+11. The Test Pyramid and Coverage - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg 
+
+12. Certificates & Digital Security - https://github.com/kukuu/AGILITY/blob/master/certificates.md
