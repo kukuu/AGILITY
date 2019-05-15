@@ -34,7 +34,7 @@ Layers reside on the same machine where the tiers can reside on different machin
  In 3 Layer we have distinct namespaces and classes for the various layes i.e. we’re only talking about logical organization of code and passing objects between layers is easy as all assemblies will run under same application in single machine.
 
 
-## Transitons
+## Transitions
 
  Tier becomes a Layer if it could be physically separated from the Layers it consumes. N-Tier Architecture is a physical structuring, while a N-Layer Architecture is a logical structuring.
 
