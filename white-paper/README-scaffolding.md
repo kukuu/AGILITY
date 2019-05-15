@@ -274,9 +274,11 @@ Codeship
 
 11. SOA vs Microservices 
 
+- Microservices Gateway : https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+
 - A microservice model : https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png
 
-- Microservices Gateway : https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+- Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png 
 
 - SOA with Enterprise Service Bus (ESB) -  https://github.com/kukuu/AGILITY/blob/master/white-paper/SOA.png 
 
@@ -287,9 +289,7 @@ Codeship
 
 - JWT - https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
 
-14. Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png 
+14. The ISO 7 Layer model - https://github.com/kukuu/digitalTransformationStrategies/blob/master/7-osi-Layers-ii.jpg
 
-15. The ISO 7 Layer model - https://github.com/kukuu/digitalTransformationStrategies/blob/master/7-osi-Layers-ii.jpg
-
-16. The DevOps feedback loop - https://github.com/kukuu/digitalTransformationStrategies/blob/master/DevOps_feedback-diagram.png
+15. The DevOps feedback loop - https://github.com/kukuu/digitalTransformationStrategies/blob/master/DevOps_feedback-diagram.png
 
