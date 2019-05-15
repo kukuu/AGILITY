@@ -272,9 +272,7 @@ Codeship
 
 10. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
 
-11. SOA vs Microservices 
-
-- Microservices Gateway : https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+11. SOA vs Microservices  -  https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
 - A microservice model : https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png
 
