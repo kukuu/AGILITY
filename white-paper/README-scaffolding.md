@@ -1,5 +1,5 @@
 
-#  Platform Blue Print (Scaffolding) - SPRINT 0
+#  Platform Blue Print (Scaffolding) - SPRINT 0 / Discovery
 
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Sof†ware Design Documen†). 
 
@@ -242,7 +242,7 @@ Codeship
 
 1. Software Development Life Cycle - https://github.com/kukuu/AGILITY/blob/master/swdlc.md
 
-2. Architecture - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions
+2. Architecture - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md
 
 3. Choosing a Technology stack - https://github.com/kukuu/AGILITY/tree/master/white-paper/tech-stack
 
