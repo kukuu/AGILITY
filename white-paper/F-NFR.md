@@ -2,7 +2,20 @@
 
 NFRs are the requirements defined to cover the operational aspects of a product or an app while Functional requirement (FR) focus on the behavioral aspects.
 
-## NFR -  efficiency, portability, security, reliability, usability
+## NFR 
+
+```
+Efficiency 
+
+Portability 
+
+security 
+
+Reliability 
+
+Usability
+
+```
 
 For each of them a metric should be associated, and an acceptability level. In order to verify them, one should check if the contraints are satisfied & if the level of satisfation of the properties is greater than the acceptability level (with respect to the given metrics).
 
