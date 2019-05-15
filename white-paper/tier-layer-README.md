@@ -1,15 +1,15 @@
 
 # TIER , Layer Architectures with  Monoliths & Microservice
 
+ 1. Layers reside on the same machine
+ 
+ 2. Tiers can reside on different machines.
+ 
+ 3. A monolithic application is simply deployed on a set of identical servers behind a load balancer.
 
-Layers reside on the same machine where the tiers can reside on different machines.
+ 4. In contrast, a microservice application typically consists of a large number of services.
 
- 1. A monolithic application is simply deployed on a set of identical servers behind a load balancer.
-
- 2. In contrast, a microservice application typically consists of a large number of services.
-
- 3. In a monolith, the user interface and data acccess are combined in  a single program from a single platform
-
+ 5. In a monolith, the user interface and data acccess are combined in  a single program from a single platform,
 
 
 ## n-Tier
