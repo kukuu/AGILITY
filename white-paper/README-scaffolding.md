@@ -257,3 +257,5 @@ Codeship
 8. PWA - https://github.com/kukuu/AGILITY/blob/master/ProgressiveWebApp.md 
 
 9. SOA vs Microservices - https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
+
+10. The Test Pyramid and Coverage - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
