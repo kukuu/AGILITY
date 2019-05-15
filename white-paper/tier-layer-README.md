@@ -46,3 +46,7 @@
 
  However in 3 tier architecture, the Database Access Layer (DAL), Business Logic Layer (BLL) and User Interface Layer (UIL) reside as 3 different projects. But each of the projects can be deployed at the different server or at the different machines and distributed functionality is explored.
  
+ ### SOA & Microservices
+ 
+ https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
+ 
