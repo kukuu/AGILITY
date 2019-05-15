@@ -27,4 +27,6 @@ Microservices must be independently deployable, whereas SOA services are often i
 ### Architecture  
 API Gateway  - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png 
 
+Model - https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png
+
 
