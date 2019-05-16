@@ -295,3 +295,5 @@ Codeship
 
 17. The DevOps feedback loop - https://github.com/kukuu/digitalTransformationStrategies/blob/master/DevOps_feedback-diagram.png
 
+18. Web Services - https://github.com/kukuu/Apps-WebServices/blob/master/README.md
+
