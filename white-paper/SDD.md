@@ -50,12 +50,20 @@ As described above, deadlines for completion and expected deliverables.
 
 For example, the milestones section in your design document template might look like:
 
-Facade Application showing screen and with temporary transitions and example images/text
-Communication Protocol: application connects to network/server
-Functional Milestone 1: …
-Alpha Application (with full functionality)
-Stability
-Release
+```
+1. Facade Application showing screen, and with temporary transitions and example images/text
+
+2. Communication Protocol: application connects to network/server
+
+3. Functional Milestone 
+
+i. Alpha Application (with full functionality)
+
+ii. Stability
+
+iii. Release
+
+```
 
 
 
