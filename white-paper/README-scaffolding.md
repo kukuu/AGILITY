@@ -297,3 +297,5 @@ Codeship
 
 18. Web Services - https://github.com/kukuu/Apps-WebServices/blob/master/README.md
 
+19. Severless vs Containers - https://github.com/kukuu/AGILITY/blob/master/white-paper/severlessComputing-vs-containers/README-severless-computing-vs-containers.md
+
