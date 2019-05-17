@@ -23,35 +23,53 @@ Serverless applications are broken up into functions, and hosted by a third-part
 ```
 1. Physical machines
 
-'Serverless' computing actually runs on servers, but it is up to the serverless vendor to provision server space as it is needed by the application; no specific machines are assigned for a given function or application. On the other hand, each container lives on one machine at a time and uses the operating system of that machine, though they can be moved easily to a different machine if desired.
+'Serverless' computing actually runs on servers, but it is up to the serverless vendor to provision
+server space as it is needed by the application; no specific machines are assigned for a given 
+function or application. On the other hand, each container lives on one machine at a time and uses 
+the operating system of that machine, though they can be moved easily to a different machine if desired.
 
 2. Scalability
 
 In a container-based architecture, the number of containers deployed is determined by the developer in advance. In contrast, in a serverless architecture, the backend inherently and automatically scales to meet demand.
 
-To continue the shipping container metaphor, a shipping company could try to forecast an increase in demand for a certain product and ship more containers to the destination to meet that demand, but it could not snap its fingers and produce more containers full of goods if demand were to exceed expectations.
+To continue the shipping container metaphor, a shipping company could try to forecast an increase in demand
+for a certain product and ship more containers to the destination to meet that demand, but it could not snap
+its fingers and produce more containers full of goods if demand were to exceed expectations.
 
-Serverless architecture is a way to do exactly that. When it comes to computing power, serverless computing is like a water supply in a modern home: by turning on the tap, consumers can acquire and use as much water as they need at any time, and they only pay for what they use. This is far more scalable than attempting to buy water one bucket, or one shipping container, at a time.
+Serverless architecture is a way to do exactly that. When it comes to computing power, serverless computing is
+like a water supply in a modern home: by turning on the tap, consumers can acquire and use as much water as 
+they need at any time, and they only pay for what they use. This is far more scalable than attempting to buy 
+water one bucket, or one shipping container, at a time.
 
 3. Cost
 
-Containers are constantly running, and therefore cloud providers have to charge for the server space even if no one is using the application at the time.
+Containers are constantly running, and therefore cloud providers have to charge for the server space even if 
+no one is using the application at the time.
 
-There are no continued expenses in a serverless architecture because application code does not run unless it is called. Instead, developers are only charged for the server capacity that their application does in fact use.
+There are no continued expenses in a serverless architecture because application code does not run unless it
+is called. Instead, developers are only charged for the server capacity that their application does in fact use.
 
 4. Maintenance
 
-Containers are hosted in the cloud, but cloud providers do not update or maintain them. Developers have to manage and update each container they deploy.
+Containers are hosted in the cloud, but cloud providers do not update or maintain them. Developers have to 
+manage and update each container they deploy.
 
-From a developer's perspective, a serverless architecture has no backend to manage. The vendor takes care of all management and software updates for the servers that run the code.
+From a developer's perspective, a serverless architecture has no backend to manage. The vendor takes care of 
+all management and software updates for the servers that run the code.
 
 5. Time of deployment
 
-Containers take longer to set up initially than serverless functions because it is necessary to configure system settings, libraries, and so on. Once configured, containers take only a few seconds to deploy. But because serverless functions are smaller than container microservices and do not come bundled with system dependencies, they only take milliseconds to deploy. Serverless applications can be live as soon as the code is uploaded.
+Containers take longer to set up initially than serverless functions because it is necessary to configure
+system settings, libraries, and so on. Once configured, containers take only a few seconds to deploy. 
+But because serverless functions are smaller than container microservices and do not come bundled with 
+system dependencies, they only take milliseconds to deploy. Serverless applications can be live as soon 
+as the code is uploaded.
 
 6. Testing
 
-It is difficult to test serverless web applications because the backend environment is hard to replicate on a local environment. In contrast, containers run the same no matter where they are deployed, making it relatively simple to test a container-based application before deploying it to production.
+It is difficult to test serverless web applications because the backend environment is hard to replicate 
+on a local environment. In contrast, containers run the same no matter where they are deployed, making it 
+relatively simple to test a container-based application before deploying it to production.
 
 ```
 
@@ -61,7 +79,7 @@ Both are cloud-based, and both greatly reduce infrastructure overhead – server
 
 ## What are microservices?
 
-Microservices are segments of an application. Each segment is a microservice performs one service, and multiple integrated microservices combine to make up the application. Although the name seems to imply that microservices are tiny, they do not have to be.
+Microservices are segments of an application. Each segment is a microservice, performs one service, and multiple integrated microservices combine to make up the application. Although the name seems to imply that microservices are tiny, they do not have to be.
 
 One of the advantages of building an application as a collection of microservices is that developers can update one microservice at a time instead of updating the entire application when they need to make changes. Building an application as a collection of functions, as in a serverless architecture, offers the same benefit but at a more granular level.
 
