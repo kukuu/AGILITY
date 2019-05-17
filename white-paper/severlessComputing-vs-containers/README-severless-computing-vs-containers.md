@@ -97,3 +97,9 @@ Developers who choose a serverless architecture will be able to release and iter
 Containers give developers more control over the environment the application runs in (although this also comes with more maintenance) and the languages and libraries used. Because of this, containers are extremely useful for migrating legacy applications to the cloud, since it is possible to more closely replicate the application's original running environment.
 
 And finally, it is possible to use a hybrid architecture, with some serverless functions and some functions deployed in containers. For instance, if an application function requires more memory than allotted by the serverless vendor, if a function is too large, or if certain functions but not others need to be long-running, a hybrid architecture enables developers to reap the benefits of serverless while still using containers for the functions serverless cannot support.
+
+## Architecture
+
+1. https://github.com/kukuu/AGILITY/blob/master/white-paper/severlessComputing-vs-containers/1-diagram.svg 
+
+2. https://github.com/kukuu/AGILITY/blob/master/white-paper/severlessComputing-vs-containers/2-diagram.svg
