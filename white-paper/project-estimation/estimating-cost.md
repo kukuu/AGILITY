@@ -8,11 +8,15 @@ To take a basic scenario, we take the total number of story points we got from s
 and divide that by our teams anticipated velocity. (NB velocity is normally expressed as a range,
 but for simplicity, we’ll use a single number here.) We work in two week iterations so our 
 velocity will be reflected by how much we can complete in a two week cycle with the available
-capacity of the team. If our story points totaled 120 and we anticipate completing 20 points per
+capacity of the team. 
+
+If our story points totaled 120 and we anticipate completing 20 points per
 iteration, the total development duration would be 12 weeks or 6 iterations. We add to that a
 sprint 0 of 2 weeks and a release preparation sprint of two weeks. In total, our project length
 is 16 weeks. There are techniques we can use that would help build an appropriate risk buffer 
-into our planning, which we’ll discuss later. But in short, we use the buffer to manage the
+into our planning, which we’ll discuss later. 
+
+But in short, we use the buffer to manage the
 risk of uncertainty and to come to a minimum agreement of expected story points to be delivered.
 The outcome might be a range of 90 to 150 story points delivered, 90 being the minimum that
 would be acceptable to create a viable product.
