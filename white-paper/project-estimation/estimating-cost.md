@@ -26,7 +26,7 @@ would be acceptable to create a viable product.
 
 When it comes to software, understanding duration and cost are key in making strategic business decisions and this is true whether you’re creating a startup, realizing a new business opportunity, or enabling your business to perform better. The timing, return on investment and benefit delivered can make, shake or break your business. You’ll be asking yourself: What do we get for our money? Can we predict our costs? What will it cost to create the product we want? When can we launch? Will we get a quality product for our investment? Will it grow with our business? Will it deliver business value?
 
-So, how do you go about estimating the size, duration, and cost of a project? Let’s explore Agile project estimation and software development costs, and how we do it at Toptal.
+So, how do you go about estimating the size, duration, and cost of a project? Let’s explore Agile project estimation and software development costs.
 
 ``` 
 
@@ -73,28 +73,27 @@ i. Fixed price work packages
 
 The whole project is broken down into logical ‘mini’ releases which contribute to the full 
 product outcome. Each release is a work package that is priced accordingly. As a work package
- is completed, future work packages are re-estimated based on what we have learned from the 
- previous one. This avoids unnecessary contingency and allows for a level of re-prioritization 
- and new/revised features to be defined by the customer.
+is completed, future work packages are re-estimated based on what we have learned from the 
+previous one. This avoids unnecessary contingency and allows for a level of re-prioritization 
+and new/revised features to be defined by the customer.
 
 
 ii. Early termination
 
  This allows the customer to seek to terminate the project early if enough of the product has
-  been delivered and there is no further ROI to be achieved by retaining a project team 
-  that will only continue to deliver marginal gains. This clause is typically allowed at any 
-  time and is valid as 
-  long as the project team and customer have maintained a strong, trusting and close working 
-  collaborative relationship. The benefit for the customer is that the project will finish early,
-   having delivered all the valuable features necessary to make the product viable. In return, 
-   the supplier is paid 20 percent of the remaining contract value and offsets the risk
-    of retaining staff.
+ been delivered and there is no further ROI to be achieved by retaining a project team 
+ that will only continue to deliver marginal gains. This clause is typically allowed at any 
+ time and is valid as long as the project team and customer have maintained a strong, trusting 
+ and close working collaborative relationship. The benefit for the customer is that the project 
+ will finish early, having delivered all the valuable features necessary to make the product viable.
+ In return, the supplier is paid 20 percent of the remaining contract value and offsets the risk
+ of retaining staff.
 
  iii. Additional work 
 
  Through the life of a project, more features may be identified that would not be achievable 
  under the existing fixed price contract. For this scenario, either additional newly priced work
-  packages can be added to the end of the project or revert to time and materials.
+ packages can be added to the end of the project or revert to time and materials.
 
  iv. Ranged estimates
 
@@ -104,12 +103,12 @@ ii. Early termination
  a. A range of duration allows for an estimate to say that the project or work package will 
  take 12 to 16 weeks for a given set of scope. However, adding duration adds cost as you keep 
  project team members for longer, or it means they can’t be released to work on other
-  development projects. 
+ development projects. 
 
  Agilie practice prefers to range features across a range of story points (matching 
  features across storypoints), keeping the scope as the variable but promising to deliver
-  a minimum level of value to the customer within the fixed time frame of the work package 
-  or overall project.
+ a minimum level of value to the customer within the fixed time frame of the work package 
+ or overall project.
 
 ``` 
 
