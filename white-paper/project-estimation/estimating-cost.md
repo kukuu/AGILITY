@@ -47,43 +47,69 @@ iv. Of course, many customers and organizations seek to fix all three components
 
 ```
 
-i. Cost is a product of time and people (team members). Add more time, and you add cost for employing people for longer. 
+i. Cost is a product of time and people (team members). Add more time, and you add cost for
+ employing people for longer. 
 
-ii. Add more team members, and you increase the cost to deliver the same business value. The things we really want to avoid. This is why Agile principles believe in fixing time and team members and allowing the scope to be the variable component.
+ii. Add more team members, and you increase the cost to deliver the same business value. 
+The things we really want to avoid. This is why Agile principles believe in fixing time and 
+team members and allowing the scope to be the variable component.
 
 
 ```
 
 Which sounds better and increases stakeholder confidence, fixed cost or variable cost?
 
-Of course, it’s important that a product delivers on its promises and the needs of its customers. It’s no good spending an exact amount of time and an exact amount of money if, in the end, you have a product that nobody wants or can use effectively.
+Of course, it’s important that a product delivers on its promises and the needs of its customers. 
+It’s no good spending an exact amount of time and an exact amount of money if, in the end, you 
+have a product that nobody wants or can use effectively.
 
 
 
-## So Agile contracts focus on the following costing mechanisms
+## Agile contracts focus on the following costing mechanisms
 
 ```
 
 i. Fixed price work packages 
 
-The whole project is broken down into logical ‘mini’ releases which contribute to the full product outcome. Each release is a work package that is priced accordingly. As a work package is completed, future work packages are re-estimated based on what we have learned from the previous one. This avoids unnecessary contingency and allows for a level of re-prioritization and new/revised features to be defined by the customer.
+The whole project is broken down into logical ‘mini’ releases which contribute to the full 
+product outcome. Each release is a work package that is priced accordingly. As a work package
+ is completed, future work packages are re-estimated based on what we have learned from the 
+ previous one. This avoids unnecessary contingency and allows for a level of re-prioritization 
+ and new/revised features to be defined by the customer.
 
 
 ii. Early termination
 
- This allows the customer to seek to terminate the project early if enough of the product has been delivered and there is no further ROI to be achieved by retaining a project team that will only continue to deliver marginal gains. This clause is typically allowed at any time and is valid as long as the project team and customer have maintained a strong, trusting and close working collaborative relationship. The benefit for the customer is that the project will finish early, having delivered all the valuable features necessary to make the product viable. In return, the supplier is paid 20 percent of the remaining contract value and offsets the risk of retaining staff.
+ This allows the customer to seek to terminate the project early if enough of the product has
+  been delivered and there is no further ROI to be achieved by retaining a project team 
+  that will only continue to deliver marginal gains. This clause is typically allowed at any 
+  time and is valid as 
+  long as the project team and customer have maintained a strong, trusting and close working 
+  collaborative relationship. The benefit for the customer is that the project will finish early,
+   having delivered all the valuable features necessary to make the product viable. In return, 
+   the supplier is paid 20 percent of the remaining contract value and offsets the risk
+    of retaining staff.
 
  iii. Additional work 
 
- Through the life of a project, more features may be identified that would not be achievable under the existing fixed price contract. For this scenario, either additional newly priced work packages can be added to the end of the project or revert to time and materials.
+ Through the life of a project, more features may be identified that would not be achievable 
+ under the existing fixed price contract. For this scenario, either additional newly priced work
+  packages can be added to the end of the project or revert to time and materials.
 
  iv. Ranged estimates
 
- There are two ways that estimates can be ranged in an Agile project contract: a range of duration or a range of features. 
+ There are two ways that estimates can be ranged in an Agile project contract: a range of 
+ duration or a range of features. 
 
- a. A range of duration allows for an estimate to say that the project or work package will take 12 to 16 weeks for a given set of scope. However, adding duration adds cost as you keep project team members for longer, or it means they can’t be released to work on other development projects. 
+ a. A range of duration allows for an estimate to say that the project or work package will 
+ take 12 to 16 weeks for a given set of scope. However, adding duration adds cost as you keep 
+ project team members for longer, or it means they can’t be released to work on other
+  development projects. 
 
- Agilie practice prefers to range features across a range of story points (matching features across storypoints), keeping the scope as the variable but promising to deliver a minimum level of value to the customer within the fixed time frame of the work package or overall project.
+ Agilie practice prefers to range features across a range of story points (matching 
+ features across storypoints), keeping the scope as the variable but promising to deliver
+  a minimum level of value to the customer within the fixed time frame of the work package 
+  or overall project.
 
 ``` 
 
@@ -104,5 +130,5 @@ tbc
 
 2. https://github.com/kukuu/AGILITY/blob/master/white-paper/project-estimation/2-writing-good-sw.png
 
-3.https://github.com/kukuu/AGILITY/blob/master/white-paper/project-estimation/3-estimation.png
+3. https://github.com/kukuu/AGILITY/blob/master/white-paper/project-estimation/3-estimation.png
 
