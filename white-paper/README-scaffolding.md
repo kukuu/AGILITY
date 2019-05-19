@@ -299,3 +299,5 @@ Codeship
 
 19. Severless vs Containers - https://github.com/kukuu/AGILITY/blob/master/white-paper/severlessComputing-vs-containers/README-severless-computing-vs-containers.md
 
+20. Software Development Cost estimation - https://github.com/kukuu/AGILITY/blob/master/white-paper/project-estimation/estimating-cost.md
+
