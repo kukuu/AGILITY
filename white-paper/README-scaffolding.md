@@ -4,9 +4,16 @@
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Software Design Document). 
 
 
- ## Softwared Architecture
+ ## Softwared Architecture & Standards
  
  Software architecture refers to the high level structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
+ 
+ Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture.
+ 
+ 1. Major architectures - 'On it's way!'
+ 
+ 2. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md
+ 
 
  ## Digital Delivery
 
@@ -169,7 +176,7 @@ Codeship
 
 ```
 
-## SEO, Performance & Tools 
+## SEO, Performance, Caching  & Tools 
 
 ```
 1. SSR / Universal JavaScript (Server Side Rendering)
@@ -178,7 +185,14 @@ Codeship
 
 3. Google Analytics
 
-4.  Lighthouse
+4. Lighthouse
+
+5. PWA (Service Worker)
+
+6. Memcache
+
+7. Service Worker
+
 ```
 
 
@@ -217,24 +231,28 @@ Codeship
 
 ```
 
-## Architecture & API
+## APIs &Tools
 
 ```
-1. Micro-services
 
-2. SOA
+1. SWAGGER
 
-4. Integration - Cloud and Proprietory
+2. Axios
 
-3. APIs
+3. Fetch
 
-4. TOGAF
+4. Postman
 
-5. SWAGGER
-
-6. GraphQL
+5. GraphQL
 
 7. Fastify
+
+```
+
+## Static Site Generators
+
+```
+1. Gatsby
 
 ```
 
