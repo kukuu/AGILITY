@@ -7,14 +7,24 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  ## Softwared Architecture & Standards
  
  Software architecture refers to the high level structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
+
+The architecture  is a blend of technical decisions and architectural patterns, and considered the root of a software project, to ensure its scalability, security, quality, cost effectiveness and longevity.
+
+The architecture is made so the code structure can satisfy every software prerequisite that is being developed while exemplifying transversal attributes such as performance, quality, scalability, maintainability, manageability, and usability.
+
+In order to start testing the design against requirements and assumptions, don't try to get it all right in the first attempt. Iteratively add details to the design over different tries, to ensure that you get the big decision right first, and then focus on the details later. A common setback is to dive into the details too quickly to evaluate your architecture effectively.
  
- Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture.
+You can use multiple patterns in a single system to optimize each section of code with the best architecture.
  
- 1. Major architectures - https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.md
+ 1. Principles of Software Architecture -  https://github.com/kukuu/AGILITY/blob/master/white-paper/principles-of-sw-architecture.png
  
- 2. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
+ 2. Architecture Design Decisions -  https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture-main.jpg
  
- 3. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS
+ 3. Major architectures - https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.md
+ 
+ 4. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
+ 
+ 5. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS
  
 
  ## Digital Delivery
