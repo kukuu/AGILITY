@@ -1,7 +1,9 @@
 
 # Software Architecture
 
- Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture. 
+ Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture.
+ 
+ https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.png
  
 
 ## Layered (n-tier) architecture
