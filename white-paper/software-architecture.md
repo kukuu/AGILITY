@@ -1,9 +1,7 @@
 
 # Software Architecture
 
- Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture.
- 
- https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.png
+ Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture. 
  
 
 ## Layered (n-tier) architecture
@@ -129,5 +127,42 @@ The microkernel architecture pattern (aka plug-in architecture pattern) is a nat
 
 The architecture has a core set of operations that are used again and again in different patterns that depend upon the data and the task at hand.
 
-https://github.com/kukuu/AGILITY/blob/master/white-paper/mikrokernel-architecture.png
+
+## Event-driven architecture
+
+Many programs spend most of their time waiting for something to happen. Sometimes there’s data that needs processing, and other times there isn’t. Common within network operations, and human driven.
+
+The event-driven architecture helps manage this by building a central unit that accepts all data and then delegates it to the separate modules that handle the particular type. This handoff is said to generate an “event,” and it is delegated to the code assigned to that type. Functional programming. 
+
+Programming a web page with JavaScript involves writing the small modules that react to events like mouse clicks or keystrokes. The browser itself orchestrates all of the input and makes sure that only the right code sees the right events. Many different types of events are common in the browser, but the modules interact only with the events that concern them. This is very different from the layered architecture where all data will typically pass through all layers. 
+
+### Benefits
+
+i.   Are easily adaptable to complex, often chaotic environments
+
+ii.  Scale easily
+
+iii. Are easily extendable when new event types appear
+
+
+### Caveats
+
+i.  Testing can be complex if the modules can affect each other. While individual modules can be tested independently, the interactions between them can only be tested in a fully functioning system.
+
+ii.  Error handling can be difficult to structure, especially when several modules must handle the same events.
+When modules fail, the central unit must have a backup plan.
+
+iii. Messaging overhead can slow down processing speed, especially when the central unit must buffer messages that arrive in bursts.
+
+iv.  Developing a systemwide data structure for events can be complex when the events have very different needs.
+
+v. Maintaining a transaction-based mechanism for consistency is difficult because the modules are so decoupled and independent.
+
+### Best for:
+
+i.  Asynchronous systems with asynchronous data flow
+
+ii.  Applications where the individual data blocks interact with only a few of the many modules
+
+iii. User interfaces
 
