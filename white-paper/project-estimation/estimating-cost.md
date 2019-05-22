@@ -35,10 +35,10 @@ functionality that serves your business or customers best? More often than not, 
 or scope will change, which is why we hear about ‘scope creep,’ the outcome of desired needs
 being identified through the lifecycle of a project and being determined as necessary or compulsory
 
-ii. When cost becomes a variable we lose control over the return on investment (ROI) that we’re seeking
-to achieve. Increased cost is often a product of unidentified risks or changing requirements, which means
-we have to add team members to do more work in the same time frame or keep team members longer. 
-Neither is desirable.
+ii. When cost becomes a variable we lose control over the return on investment (ROI) that we’re 
+seekingto achieve. Increased cost is often a product of unidentified risks or changing requirements,
+which meanswe have to add team members to do more work in the same time frame or keep team members 
+longer. Neither is desirable.
 
 
 iii. When time is a variable, we lose control over the position in our market. Perhaps we miss an 
