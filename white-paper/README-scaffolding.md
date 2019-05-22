@@ -10,7 +10,7 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture.
  
- 1. Major architectures - 'On it's way!'
+ 1. Major architectures - https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.md
  
  2. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
  
