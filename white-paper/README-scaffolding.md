@@ -12,7 +12,9 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  1. Major architectures - 'On it's way!'
  
- 2. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md
+ 2. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
+ 
+ 3. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS
  
 
  ## Digital Delivery
