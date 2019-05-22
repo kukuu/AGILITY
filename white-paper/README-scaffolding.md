@@ -22,6 +22,8 @@ You can use multiple patterns in a single system to optimize each section of cod
  
  3. Major architectures - https://github.com/kukuu/AGILITY/blob/master/white-paper/software-architecture.md
  
+ 4. What makes a good software - https://github.com/kukuu/AGILITY/blob/master/white-paper/what-makes-a-good-software.png
+ 
  4. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
  
  5. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS
