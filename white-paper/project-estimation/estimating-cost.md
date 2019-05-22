@@ -30,15 +30,26 @@ So, how do you go about estimating the size, duration, and cost of a project? Le
 
 ``` 
 
-i. How do you know that the functionality you fix at the outset of a project really is the functionality that serves your business or customers best? More often than not, functionality or scope will change, which is why we hear about ‘scope creep,’ the outcome of desired needs being identified through the lifecycle of a project and being determined as necessary or compulsory
+i. How do you know that the functionality you fix at the outset of a project really is the 
+functionality that serves your business or customers best? More often than not, functionality
+or scope will change, which is why we hear about ‘scope creep,’ the outcome of desired needs
+being identified through the lifecycle of a project and being determined as necessary or compulsory
 
-ii. When cost becomes a variable we lose control over the return on investment (ROI) that we’re seeking to achieve. Increased cost is often a product of unidentified risks or changing requirements, which means we have to add team members to do more work in the same time frame or keep team members longer. Neither is desirable.
+ii. When cost becomes a variable we lose control over the return on investment (ROI) that we’re seeking
+to achieve. Increased cost is often a product of unidentified risks or changing requirements, which means
+we have to add team members to do more work in the same time frame or keep team members longer. 
+Neither is desirable.
 
 
-iii. When time is a variable, we lose control over the position in our market. Perhaps we miss an important industry date or our competitors get their product out before us, thus losing any competitive advantage our project may have had.
+iii. When time is a variable, we lose control over the position in our market. Perhaps we miss an 
+important industry date or our competitors get their product out before us, thus losing any competitive
+advantage our project may have had.
 
 
-iv. Of course, many customers and organizations seek to fix all three components of this ‘magic triangle’. Unfortunately, it’s nigh on impossible to realistically achieve. There are too many elements that conspire to unsettle this ideal, which ultimately end in products that don’t meet a need, take too long to benefit its customers or cost too much to realize business value.
+iv. Of course, many customers and organizations seek to fix all three components of this ‘magic triangle’.
+Unfortunately, it’s nigh on impossible to realistically achieve. There are too many elements that conspire 
+to unsettle this ideal, which ultimately end in products that don’t meet a need, take too long to benefit 
+its customers or cost too much to realize business value.
 
 
 ```
