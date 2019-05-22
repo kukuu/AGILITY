@@ -12,6 +12,8 @@ The architecture  is a blend of technical decisions and architectural patterns, 
 
 The architecture is made so the code structure can satisfy every software prerequisite that is being developed while exemplifying transversal attributes such as performance, quality, scalability, maintainability, manageability, and usability.
 
+Failure of attributes may result in productivity loss for users, damaged customer relations, revenue loss, cost overruns due to redesign, and missed market windows. Therefore, a software architect must focus on the initial issues in the development process during the architectural design phase, to avoid poor performance.
+
 In order to start testing the design against requirements and assumptions, don't try to get it all right in the first attempt. Iteratively add details to the design over different tries, to ensure that you get the big decision right first, and then focus on the details later. A common setback is to dive into the details too quickly to evaluate your architecture effectively.
  
 You can use multiple patterns in a single system to optimize each section of code with the best architecture.
