@@ -129,3 +129,5 @@ The microkernel architecture pattern (aka plug-in architecture pattern) is a nat
 
 The architecture has a core set of operations that are used again and again in different patterns that depend upon the data and the task at hand.
 
+https://github.com/kukuu/AGILITY/blob/master/white-paper/mikrokernel-architecture.png
+
