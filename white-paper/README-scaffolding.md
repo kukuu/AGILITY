@@ -30,6 +30,36 @@ You can use multiple patterns in a single system to optimize each section of cod
  
  5. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS
  
+ ### Adaptable Design
+ 
+Adaptable designs are on trend to enhance viability. Developers prefer using flexible designs because they make use of free linking, whose impact on viability is imperative. By using pluggable designs, developers are able to offer extensibility even in the post-deployment period. You can use service-oriented architecture (SOA) and different strategies in service orientation to provide interoperability with other programming frameworks.
+
+
+ ### Points to consider during Software Architecture Development
+ 
+A software architect must:
+
+1. Define the solution clearly.
+
+2. What he expects to create based on the concerns of the different groups of people/stakeholders who will interface with his software. He should consider the following: 
+
+```
+
+i.  The concerns of the end users, including right and instinctive behavior, reliability, performance, security, availability, and usability.
+
+ii.  The concerns of the system administrator, including intuitive behavior, observing, and administrative tools.
+
+iii. The concerns of the marketer, including cost, positioning relative to other software, time for marketing and competitive features.
+
+iv.  The concerns of the customer, which incorporate: cost, schedule, and stability.
+
+v.   The concerns of the developer, including project requirements and a steady yet basic design approach.
+
+vi. The concerns of the project manager include budget, schedule, and consistency, as it identifies with following the task, and the most effective use of the available resources.
+
+vii. The concerns of the maintainer, which include the simplicity of making modifications, and a consistent and complete design approach that is well documented.
+
+```
 
  ## Digital Delivery
 
