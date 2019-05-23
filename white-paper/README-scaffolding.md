@@ -90,6 +90,34 @@ https://github.com/kukuu/AGILITY/blob/master/white-paper/togaf.jpg
 
 ### The Discovery phase
 
+
+The primary focus should be on user research, not technical design, but that you should be gathering all the information you need to make sure you know what you need to learn and test in an alpha, and can make sure that any proposals resulting from the discovery are informed by a solid understanding of the surrounding technology landscape and how it’s changing.  That means knowing what data held elsewhere you’re likely to depend on, which systems will be expecting data from you, what interfaces with other systems you’ll need to test, and so on.
+
+#### Skillset
+
+Discovery should also be telling you about other capabilities that are likely to be needed, including the delivery team who will work on the alpha.
+
+When working on discovery for another organisation it will often be necessary for the architect to gauge the skills of the team currently available. As you understand the technology context you will need to get a sense of whether the skills that exist in the organisation are the ones needed for alpha (and to an extent beyond) in order to advise on training and recruitment that might be needed.
+
+Most of the exploration of particular solutions should be left for the alpha phase, but early prototyping is a very good thing and it’s often a good idea to begin exploring what you’re learning during discovery with throwaway code and experimentation with new tools.
+
+
+#### The organisational structure
+
+An architect in discovery should try to make sure that everything is easier to understand for future teams, whether a team doing something based on that discovery or anyone else revisiting the same organisation, systems or services.
+
+Any previous common technology decisions the organisation has already made (e.g. preferred databases or programming languages) has to be understood, so you can take an informed position on how that will work for your service, can push back if there are significant advantages to taking a different approach, and know who to talk to in order to make sure you can take advantage of common platforms as you get a better understanding of what your service needs to do.
+
+
+#### Understanding Legacy Systems
+
+It’s important to understand legacy systems that other services  relate to in order to determine what your options are.
+
+
+Could you replace those other systems cleanly? Would a one-off copy of the data from the old system to a new one do the job? Will you need to maintain data in the old system, and if so are there real-time APIs that will let you do that, or will there need to be batch (or manual) reconciliation?
+
+It’s also important to remember that often the challenge with accessing and understanding those systems isn’t technical, but contractual and that your team will need access to the right commercial and legal expertise to handle that.
+
 https://technology.blog.gov.uk/2016/02/08/the-role-of-an-architect-in-discovery/ 
 
 
