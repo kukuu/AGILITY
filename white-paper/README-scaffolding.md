@@ -87,6 +87,11 @@ Technology
 
 https://github.com/kukuu/AGILITY/blob/master/white-paper/togaf.jpg
 
+
+### The Discovery phase
+
+https://technology.blog.gov.uk/2016/02/08/the-role-of-an-architect-in-discovery/ 
+
 ## Digital Delivery
 
 ```
