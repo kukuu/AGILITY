@@ -45,19 +45,25 @@ A software architect must:
 
 ```
 
-i.  The concerns of the end users, including right and instinctive behavior, reliability, performance, security, availability, and usability.
+i.  The concerns of the end users, including right and instinctive behavior, reliability,
+performance, security, availability, and usability.
 
-ii.  The concerns of the system administrator, including intuitive behavior, observing, and administrative tools.
+ii.  The concerns of the system administrator, including intuitive behavior, observing, 
+and administrative tools.
 
-iii. The concerns of the marketer, including cost, positioning relative to other software, time for marketing and competitive features.
+iii. The concerns of the marketer, including cost, positioning relative to other software, 
+time for marketing and competitive features.
 
 iv.  The concerns of the customer, which incorporate: cost, schedule, and stability.
 
-v.   The concerns of the developer, including project requirements and a steady yet basic design approach.
+v.   The concerns of the developer, including project requirements and a steady yet basic
+design approach.
 
-vi. The concerns of the project manager include budget, schedule, and consistency, as it identifies with following the task, and the most effective use of the available resources.
+vi. The concerns of the project manager include budget, schedule, and consistency, as it 
+identifies with following the task, and the most effective use of the available resources.
 
-vii. The concerns of the maintainer, which include the simplicity of making modifications, and a consistent and complete design approach that is well documented.
+vii. The concerns of the maintainer, which include the simplicity of making modifications,
+and a consistent and complete design approach that is well documented.
 
 ```
 
@@ -342,6 +348,7 @@ Codeship
 
 13. SOA vs Microservices  -  https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
+- Architectural differences : https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png
 - A microservice model : https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png
 
 - Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png 
