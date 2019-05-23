@@ -67,7 +67,27 @@ and a consistent and complete design approach that is well documented.
 
 ```
 
- ## Digital Delivery
+
+### TOGAF
+
+The Open Group Architecture Framework (TOGAF) is a framework for enterprise architecture that provides an approach for planning, design, implementing, and governing an enterprise information technology architecture.
+
+TOGAF is a high level approach to design, and relies heavily on modularization, standardization, and already existing, proven technologies and products.It is typically modeled at four levels (Domain): 
+
+```
+Business 
+
+Application 
+
+Data 
+
+Technology
+
+```
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/togaf.jpg
+
+## Digital Delivery
 
 ```
  Web App
@@ -375,4 +395,6 @@ Codeship
 21. Project Management - https://github.com/kukuu/AGILITY/blob/master/white-paper/ProjectManagement.md
 
 22. Negotiations - https://github.com/kukuu/AGILITY/blob/master/negotiation-skills.md
+
+23. Positivity - https://github.com/kukuu/AGILITY/blob/master/weakness.md
 
