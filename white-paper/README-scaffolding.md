@@ -372,3 +372,7 @@ Codeship
 
 20. Software Development Cost estimation - https://github.com/kukuu/AGILITY/blob/master/white-paper/project-estimation/estimating-cost.md
 
+21. Project Management - https://github.com/kukuu/AGILITY/blob/master/white-paper/ProjectManagement.md
+
+22. Negotiations - https://github.com/kukuu/AGILITY/blob/master/negotiation-skills.md
+
