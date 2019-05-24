@@ -131,7 +131,7 @@ x. Capped collections
     insertion order and, once the specified size has been reached, behaves like a circular queue. 
 
 
-## SQL and no-SQL : Differences, Pros and Cons and Use Cases
+## SQL and no-SQL : Differences, Pros and Cons 
 
 
 1. SQL databases are primarily called as Relational Databases (RDBMS); whereas NoSQL database are primarily called as non-relational or distributed database. ... 
@@ -164,7 +164,7 @@ Most banking institutions have a SQL-type database system
 
 
 
-## USE CASES of using NoSQL
+## USE Cases
 
 1. Relational databases like MySQL, PostgreSQL and SQLite3 represent and store data in tables and rows. They're based on a branch of algebraic set theory known as relational algebra. Meanwhile, non-relational databases like MongoDB represent data in collections of JSON documents.
 
@@ -183,7 +183,7 @@ Most banking institutions have a SQL-type database system
 That explains the soaring popularity of NoSQL database systems that sprang up alongside major Internet companies such as Google, Yahoo and Amazon. Each had challenges in dealing with huge quantities of data in real-time, something that conventional RDBMS solutions could not cope with.
 
 
-## Which is better for Analysis - SQL or NoSQL?
+## Which is better for Analysis
 
 
 This depends on a lot of factors, for example the type of data one is analyzing, how much data one has and how quickly you need it. For example, for applications such as user behavior analysis, relational DB is best.
@@ -197,7 +197,7 @@ When it comes to size of data, PostGres MySQL usually gives a good performance f
 On the other hand, relational databases, one can use SQL to query them. SQL as a language is well-known among data analysts and engineers and is also easy to learn than most programming languages.
 
 
-## Is NoSQL faster than SQL?
+## Which is faster?
 
 1. NoSQL seems to work better on both unstructured and unrelated data. The better solutions are the crossover databases that have elements of both NoSQL and SQL. RDBMSs that use SQL are schema–oriented which means the structure of the data should be known in advance to ensure that the data adheres to the schema.
 
@@ -219,8 +219,11 @@ A query statement directly refers to the document you are fetching.
 ## Resources:
 
 https://www.youtube.com/watch?v=OrNUnlB4AmQ (1)
+
 https://www.youtube.com/watch?v=2ajlfURobd8 (2)
+
 https://www.youtube.com/watch?v=h1hLeGMdBv4
+
 http://www.learn-with-video-tutorials.com
 
 
