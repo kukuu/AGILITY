@@ -62,34 +62,34 @@ MongoDB  is a cross-platform document-oriented  NoSQL database. Classified as a 
 
 Some of the features include:
 
-```
 
 i. Document-oriented
 
     Instead of taking a business subject and breaking it up into multiple relational structures, 
     MongoDB can store the business subject in the minimal number of documents. For example, instead 
-    of storing title and author information in two distinct relational structures, title, author, and 
-    other title-related information can all be stored in a single document called Book, which is much 
-    more intuitive and usually easier to work with.[5]
+    of storing title and author information in two distinct relational structures, title, author, 
+    and other title-related information can all be stored in a single document called Book, which 
+    is much more intuitive and usually easier to work with.[5]
 
 ii. Ad hoc queries
 
-    MongoDB supports search by field, range queries, regular expression searches. Queries can return specific
-    fields of documents and also include user-defined JavaScript functions.
+    MongoDB supports search by field, range queries, regular expression searches. Queries can return
+    specific fields of documents and also include user-defined JavaScript functions.
 
 iii. Indexing
 
-    Any field in a MongoDB document can be indexed (indices in MongoDB are conceptually similar to those 
-    in RDBMSes). Secondary indices are also available.
+    Any field in a MongoDB document can be indexed (indices in MongoDB are conceptually similar 
+    to those in RDBMSes). Secondary indices are also available.
 
 iv. Replication
 
-    MongoDB provides high availability with replica sets. A replica set consists of two or more copies of the data. 
-    Each replica set member may act in the role of primary or secondary replica at any time. The primary replica 
-    performs all writes and reads by default. Secondary replicas maintain a copy of the data on the primary 
-    using built-in replication. When a primary replica fails, the replica set automatically conducts an election
-    process to determine which secondary should become the primary. Secondaries can also perform read operations,
-    but the data is eventually consistent by default.
+    MongoDB provides high availability with replica sets. A replica set consists of two or more copies of 
+    the data. 
+    Each replica set member may act in the role of primary or secondary replica at any time. The primary
+    replica performs all writes and reads by default. Secondary replicas maintain a copy of the data on 
+    the primary using built-in replication. When a primary replica fails, the replica set automatically 
+    conducts an election process to determine which secondary should become the primary. Secondaries can 
+    also perform read operations, but the data is eventually consistent by default.
 
 vi  Load balancing
 
