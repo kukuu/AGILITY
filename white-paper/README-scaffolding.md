@@ -432,3 +432,5 @@ Codeship
 
 23. Positivity - https://github.com/kukuu/AGILITY/blob/master/weakness.md
 
+23. SQL and NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
+
