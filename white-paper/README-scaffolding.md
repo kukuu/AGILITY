@@ -1,8 +1,28 @@
 
-#  Platform Blue Print (Scaffolding) - SPRINT 0 / Discovery
+#  Platform Blue Print - Scaffolding / Discovery 
 
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Software Design Document). 
 
+
+## SPRINT 0
+
+The main goal of a Sprint Zero is to deliver some usable value that can be built upon by the next team. Sprint Zeros are required to: 
+
+1. Create the project's skeleton, including research spikes.
+
+2. Get some quality items on the Product Backlog
+
+3. A list of all prioritized features/stories with estimates
+
+4. A release plan that assigns each feature/story to an iteration/sprint
+
+5. A high-level application architecture, i.e. how the features will likely be implemented
+
+6. Provide a minimal environment that enables the writing of quality code
+
+7. Write a piece of real code, no matter how small.
+
+8. Agree on a definition of done and rebuild confidence with the customer.
 
  ## Softwared Architecture & Standards
  
