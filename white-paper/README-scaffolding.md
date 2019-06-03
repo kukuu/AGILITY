@@ -434,3 +434,5 @@ Codeship
 
 23. SQL and NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
 
+24. Solution Architecture :  Pre sales activities - https://github.com/kukuu/AGILITY/blob/master/white-paper/SolutionArchitectPresalesActivites.md
+
