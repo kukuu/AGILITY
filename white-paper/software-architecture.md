@@ -4,7 +4,7 @@
  Remember that you can use multiple patterns in a single system to optimize each section of code with the best architecture. 
  
 
-## Layered (n-tier) architecture
+## 1. Layered (n-tier) architecture
 
 This approach is probably the most common because it is usually built around the database, and many applications in business naturally lend themselves to storing information in tables.
  
@@ -61,7 +61,7 @@ iii. Teams with inexperienced developers who don’t understand other architectu
 iv.  Applications requiring strict maintainability and testability standards
  
  
-## Microservices architecture
+## 2. Microservices architecture
 
  https://github.com/kukuu/Microservice-NodeJS 
 
@@ -96,7 +96,7 @@ iii. Rapidly developing new businesses and web applications
 iv.   Development teams that are spread out, often across the globe
 
 
-## Space-based architecture (Cloud)
+## 3. Space-based architecture (Cloud)
 
 The space-based architecture is designed to avoid functional collapse under high load by splitting up both the processing and the storage between multiple servers. 
 
@@ -121,14 +121,14 @@ i.  High-volume data like click streams and user logs
 ii. Low-value data that can be lost occasionally without big consequences—in other words, not bank transactions
 Social networks.
 
-## Microkernel architecture 
+## 4. Microkernel (Plug-in) architecture 
 
 The microkernel architecture pattern (aka plug-in architecture pattern) is a natural pattern for implementing product-based applications. A product-based application is one that is packaged and made available for download in versions as a typical third-party product.
 
 The architecture has a core set of operations that are used again and again in different patterns that depend upon the data and the task at hand.
 
 
-## Event-driven architecture
+## 5. Event-driven / Composition architecture
 
 Many programs spend most of their time waiting for something to happen. Sometimes there’s data that needs processing, and other times there isn’t. Common within network operations, and human driven.
 
