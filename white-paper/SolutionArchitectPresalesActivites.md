@@ -1,8 +1,8 @@
-# Solution Architect - Pre sales activites
+# Solution Architect 
 
+
+## Pre sales activites
 Most but not all case studies are looking for you to demonstrate your business acumen more than your technical one. For example will the CFO really care that you have recommended Sun E10k instead of the HP equivalent. What they are much more interested in is how that benefits the business and never forget this, them personally.
-
-
 
 ## Foundation
 
