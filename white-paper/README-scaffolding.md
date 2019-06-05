@@ -46,9 +46,29 @@ You can use multiple patterns in a single system to optimize each section of cod
  
  4. What makes a good software - https://github.com/kukuu/AGILITY/blob/master/white-paper/what-makes-a-good-software.png
  
- 4. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
+ 5. The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md 
  
- 5. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS
+ 6. Monolith - https://github.com/kukuu/AGILITY/blob/master/white-paper/monolith.jpg 
+ 
+ 7. microservice model : https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png 
+ 
+ 8. SOA with Enterprise Service Bus (ESB) -  https://github.com/kukuu/AGILITY/blob/master/white-paper/SOA.png 
+ 
+ 9. In perspective : Monolith vs Microservice - https://github.com/kukuu/AGILITY/blob/master/white-paper/monolithic_vs_microservices.jpg 
+ 
+ 10. SOA vs Microservices  
+ 
+ i.  https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
+
+ii.  https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png
+
+11.  Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png 
+ 
+12. Microservice Applications:
+
+   i. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS 
+   ii. NodeJS/NGINX/Docker - https://github.com/kukuu/microservices-nodejs-docker-nginx
+ 
  
  ### Adaptable Design
  
