@@ -1,5 +1,5 @@
 
-# Cloud Computing, Distributed Systems and CI
+# Cloud Computing, Distributed Systems,  CI & API Gateway
 
 ## DevOps Cultural Philosophy
 
