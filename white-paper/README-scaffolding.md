@@ -476,5 +476,5 @@ Codeship
 
 24. Solution Architecture :  Pre sales activities - https://github.com/kukuu/AGILITY/blob/master/white-paper/SolutionArchitectPresalesActivites.md
 
-25. Cloud Computing - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/cloud-computing
+25. Cloud Computing  & API Gateway - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/cloud-computing
 
