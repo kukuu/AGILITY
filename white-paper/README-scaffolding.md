@@ -82,7 +82,7 @@ A software architect must:
 
 1. Define the solution clearly.
 
-2. What he expects to create based on the concerns of the different groups of people/stakeholders who will interface with his software. He should consider the following: 
+2. Manage internal and external stakeholders who will interface with his software. Consider the following: 
 
 ```
 
