@@ -46,7 +46,8 @@ iii. Swiftness of Execution: Because of encryption and decryption by two separat
 
 ```
 
-RSA - Rivest-Shamir-Adleman encryption algorithm is one of the most powerful forms of encryption in the world
+RSA - Rivest-Shamir-Adleman encryption algorithm is one of the most powerful forms of 
+encryption in the world
 
 Diffie-Hellman
 
