@@ -8,15 +8,17 @@ The patterns and best practices mentioned here should be discussed, mitigated an
 
 The main goal of a Sprint Zero is to deliver some usable value that can be built upon by the next team. Sprint Zeros are required to: 
 
-1. Create the project's skeleton, including research spikes.
+1. Security and Encryption - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md 
 
-2. Get some quality items on the Product Backlog
+2. Create the project's skeleton, including research spikes.
 
-3. A list of all prioritized features/stories with estimates
+3. Get some quality items on the Product Backlog
 
-4. A release plan that assigns each feature/story to an iteration/sprint
+4. A list of all prioritized features/stories with estimates
 
-5. A high-level application architecture, i.e. how the features will likely be implemented
+5. A release plan that assigns each feature/story to an iteration/sprint
+
+6. A high-level application architecture, i.e. how the features will likely be implemented
 
 6. Provide a minimal environment that enables the writing of quality code
 
