@@ -1,9 +1,5 @@
 # Security and Encryption
 
-
-
-Cloud app security: How not to fail  - https://techbeacon.com/app-dev-testing/cloud-app-security-how-not-fail
-
 Symmetric encryption uses a single key that needs to be shared among the people who need to receive the message while asymmetrical encryption uses a pair of public key and a private key to encrypt and decrypt messages when communicating. Asymmetric encryption takes relatively more time than the symmetric encryption.
 
 ## Symmetric Encryption
