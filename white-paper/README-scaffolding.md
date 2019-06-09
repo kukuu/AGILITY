@@ -1,7 +1,9 @@
 
 #  Platform Blue Print - Scaffolding / Discovery 
 
-The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Software Design Document). 
+The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Software Design Document).
+
+Digital Transformation - https://github.com/kukuu/digitalTransformationStrategies 
 
 
 ## SPRINT 0
