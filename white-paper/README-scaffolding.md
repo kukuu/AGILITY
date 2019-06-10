@@ -483,4 +483,6 @@ Codeship
 
 25. Cloud Computing  & API Gateway - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/cloud-computing
 
-26. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+26. Metrics for measuring  KPI - https://github.com/kukuu/AGILITY/blob/master/Metrics-Improving-SWE-Efficency.md
+
+27. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
