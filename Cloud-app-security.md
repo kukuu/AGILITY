@@ -44,7 +44,7 @@ Make sure you have clear requirements for encryption in flight and that the leve
 
 That said, as a developer you still must deal with the extra resources and latency associated with encrypting the data. Again, do your risk/benefit analysis before moving forward with encryption at rest.
 
-##. Enforcing IAM
+## Enforcing IAM
 
 As with encryption, you need to focus on IAM as a business driver as well as a security technology. Software engineers who deploy IAM must focus on the core business processes, as well as the details of the security process. 
 
