@@ -3,6 +3,8 @@
 
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Software Design Document).
 
+AGILITY - https://github.com/kukuu/AGILITY/blob/master/README.md 
+
 Digital Transformation - https://github.com/kukuu/digitalTransformationStrategies/blob/master/README.md
 
 
