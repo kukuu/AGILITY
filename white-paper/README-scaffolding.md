@@ -10,7 +10,7 @@ Digital Transformation - https://github.com/kukuu/digitalTransformationStrategie
 
 The main goal of a Sprint Zero is to deliver some usable value that can be built upon by the next team. Sprint Zeros are required to: 
 
-1. Security and Encryption - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md 
+1. Security and Encryption -  https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md 
 
 2. Create the project's skeleton, including research spikes.
 
@@ -485,4 +485,6 @@ Codeship
 
 26. Metrics for measuring  KPI - https://github.com/kukuu/AGILITY/blob/master/Metrics-Improving-SWE-Efficency.md
 
-27. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+27. Cloud Security - https://github.com/kukuu/AGILITY/blob/master/Cloud-app-security.md
+
+28. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
