@@ -483,3 +483,4 @@ Codeship
 
 25. Cloud Computing  & API Gateway - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/cloud-computing
 
+26. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
