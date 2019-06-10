@@ -487,4 +487,6 @@ Codeship
 
 27. Cloud Security - https://github.com/kukuu/AGILITY/blob/master/Cloud-app-security.md
 
-28. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+28. Agile benefits - https://github.com/kukuu/AGILITY/blob/master/benefits-of-agile.md
+
+29. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
