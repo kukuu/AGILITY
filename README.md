@@ -1,7 +1,23 @@
 
 # Digital Transformation 
 
-Is the change associated with the application of digital technology. When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. Practices used in transformation include methodologies like Agile (SCRUM, KANBAN) , XP, Waterfall,  Continuous Delivery, Continuous Deployment, Micro-services, Containerization, Big Data Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development,IoT, and Mobility Management.
+Is the change associated with the application of digital technology. When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies. Practices used in transformation include methodologies like Agile (SCRUM, KANBAN) , XP, Waterfall,  Continuous Delivery, Continuous Deployment, Micro-services, Containerization, Severless Computing, IaaS, PaaS, Headerless CMS, Hybrid CMS, Big Data, Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development,IoT, and Mobility Management, AGILE.
+
+``` 
+The CADMA Syndrome
+
+C - Create a Vision
+
+A - Analyse the market
+
+D - Design the experience
+
+M - Measure the impact
+
+A - Adjust the infrastructure.
+
+
+```
 
 
 ## Agile management
