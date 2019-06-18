@@ -5,7 +5,9 @@
  
  2. Tiers can reside on different machines.
  
- 3. A monolithic application is simply deployed on a set of identical servers behind a load balancer. In a monolith, the user interface and data acccess are combined in  a single program from a single platform,
+ 3. A monolithic application is simply deployed on a set of identical servers behind a load balancer. In a monolith, the user interface and data acccess are combined in  a single program from a single platform.
+ 
+ https://github.com/kukuu/AGILITY/blob/master/white-paper/monolith.jpg
 
  4. In contrast, a microservice application typically consists of a large number of services.
 
