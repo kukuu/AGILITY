@@ -15,7 +15,7 @@ Digital transformation is more than technology. It is a mindset shift. It is the
 - https://github.com/kukuu/digitalTransformationStrategies/blob/master/README.md 
 
 
-### Strategy
+### The CADMA Strategy
 
 1. Create a vision.
 
