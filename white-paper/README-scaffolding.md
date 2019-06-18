@@ -493,4 +493,6 @@ Codeship
 
 29. Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
 
-30. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+30. Integration testing - https://github.com/kukuu/AGILITY/blob/master/white-paper/integration-testing.md
+
+31. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
