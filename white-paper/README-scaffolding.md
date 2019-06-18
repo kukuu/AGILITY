@@ -12,6 +12,8 @@ Lean Agile Leadership is established through empowerment: Building, autonomous, 
 
 - https://github.com/kukuu/AGILITY/blob/master/README.md 
 
+- https://github.com/kukuu/AGILITY/blob/master/benefits-of-agile.md
+
 ## Digital Transformation 
 
 Digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
@@ -539,10 +541,8 @@ Codeship
 
 27. Cloud Security - https://github.com/kukuu/AGILITY/blob/master/Cloud-app-security.md
 
-28. Agile benefits - https://github.com/kukuu/AGILITY/blob/master/benefits-of-agile.md
+28. Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
 
-29. Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
+29. Integration testing - https://github.com/kukuu/AGILITY/blob/master/white-paper/integration-testing.md
 
-30. Integration testing - https://github.com/kukuu/AGILITY/blob/master/white-paper/integration-testing.md
-
-31. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+30. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
