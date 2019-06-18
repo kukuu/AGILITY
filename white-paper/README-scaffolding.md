@@ -3,9 +3,55 @@
 
 The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Software Design Document).
 
-AGILITY - https://github.com/kukuu/AGILITY/blob/master/README.md 
 
-Digital Transformation - https://github.com/kukuu/digitalTransformationStrategies/blob/master/README.md
+## AGILITY 
+
+- https://github.com/kukuu/AGILITY/blob/master/README.md 
+
+## Digital Transformation 
+
+Digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
+
+- https://github.com/kukuu/digitalTransformationStrategies/blob/master/README.md 
+
+
+### Strategy
+
+1. Create a vision.
+
+2. Analyze market.
+
+3. Design the experience.
+
+4. Measure impact 
+
+5. Adjust infrastructure.
+
+### The Framework
+
+DSF can be built around the following. The exact structure will vary depending on the specific needs of the business:
+
+	1. Understand the Corporate Strategy and business domain
+
+	2. Assess current state of IT Strategy and understanding  existing systems and processes
+
+	3. Define Initiatives 
+
+	4. Develop a Strategy Roadmap
+
+		i. Objective setting and measures of success (What you want to achieve - 
+			digitally and as a wider business)
+
+		ii. Opportunity Analysis - What you could be doing and potential rewards
+
+		iii. Barrier analysis - What’s stopping you doing this? How we can get around this
+
+		iv. Customer profiling and needs analysis - How you could serve your audiences better
+
+	     v. Stakeholder engagement and Market Analysis.
+
+	5. Communicate  strategy
+
 
 
 ## SPRINT 0
