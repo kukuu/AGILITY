@@ -14,7 +14,7 @@ The first step of design thinking is to understand the problem you’re trying t
 
 You won’t be able to talk to all of your customers in person, so get familiar with video conferencing software like Join.me that will let you talk to anyone from around the world
 
-Tools
+#### Tools
 
 i. Join.me
 
@@ -31,7 +31,7 @@ You can create a to-do list and share.
 
 During this stage, you’re ready to start generating ideas. You understand your users and their needs. Armed with this information, you can explore creative ways to solve the problem.
 
-Tools
+#### Tools
 
 i. Freehand
 
@@ -56,7 +56,7 @@ Focus Booster works with the Pomodoro Technique, breaking up work into 25-minute
 Now you’ve had some solid brainstorming time and you’re ready to meet one of your ideas IRL. In the prototyping stage, you’ll produce scaled-down versions of the product so you can see how it works in real life.
 
 
-Tools
+#### Tools
 
 i. InVision 
 
@@ -73,6 +73,9 @@ Craft is a suite of plugins to let you design with real data in mind. Want to ma
 ### Test
 
 In the final phase of design thinking, you’ll test the complete product to ensure it solves the problem you defined. This will involve user testing and usability studies, often leading you to redefine one or more problems based on the new insights you gather.
+
+
+#### Tools 
 
 i. Ethnio 
 
