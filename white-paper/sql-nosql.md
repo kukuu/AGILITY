@@ -37,7 +37,49 @@ viii. Internationalisation, Text Search
 
 A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. They are increasingly used in big data and real-time web applications. 
 
-NoSQL systems are distributed, non-relational databases designed for large-scale data storage and for massively-parallel, high-performance data processing across a large number of commodity servers. They arose out of a need for agility, performance, and scale, and can support a wide set of use cases, including exploratory and predictive analytics in real-time (social media use case). They arose out of a need for agility, performance, and scale, and can support a wide set of :
+NoSQL systems are distributed, non-relational databases designed for large-scale data storage and for massively-parallel, high-performance data processing across a large number of commodity servers. They arose out of a need for agility, performance, and scale, and can support a wide set of use cases, including exploratory and predictive analytics in real-time (social media use case). 
+
+A NoSQL  database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. They have been triggered by the needs of Web 2.0 . NoSQL databases are increasingly used in big data and real-time web applications.
+
+### Motivations for this approach include: 
+
+1. Simplicity of design, simpler "horizontal" scaling to clusters of machines (which is a problem for relational databases).
+
+2. Finer control over availability and limiting the Object-relational impedance mismatch. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL. 
+
+The particular suitability of a given NoSQL database depends on the problem it must solve. Sometimes the data structures used by NoSQL databases are also viewed as "more flexible" than relational database tables.
+
+#### Gotchas
+
+1. Many NoSQL stores compromise consistency (in the sense of the CAP theorem) in favor of availability, partition tolerance, and speed. 
+
+2. Barriers to the greater adoption of NoSQL stores include the use of low-level query languages (instead of SQL, for instance the lack of ability to perform ad-hoc joins across tables).
+
+3. Lack of standardized interfaces.
+
+4. Most NoSQL stores lack true ACID (Atomicity, Consistency, Isolation and Durablity) transactions, although a few databases have made them central to their designs.
+
+ACID is a set of properties of database transactions intended to guarantee validity even in the event of errors, power failures, etc.  For a reliable database all these four attributes should be achieved
+
+5. Eventual Consistency 
+
+Instead, most NoSQL databases offer a concept of "eventual consistency" in which database changes are propagated to all nodes "eventually" (typically within milliseconds) so queries for data might not return updated data immediately or might result in reading data that is not accurate, a problem known as stale reads.
+
+
+6. Lost Writes
+
+Additionally, some NoSQL systems may exhibit lost writes and other forms of data loss. Some NoSQL systems provide concepts such as write-ahead logging to avoid data loss.
+
+
+### The Challenge
+
+For distributed transaction processing across multiple databases, data consistency is an even bigger challenge that is difficult for both NoSQL and relational databases. Relational databases "do not allow referential integrity constraints to span databases". Few systems maintain both ACID transactions and X/Open XA standards for distributed transaction processing.
+
+Referential Integrity
+```
+Referential integrity refers to the accuracy and consistency of data within a relationship. In relationships, data is linked between two or more tables. So, referential integrity requires that, whenever a foreign key value is used it must reference a valid, existing primary key in the parent table
+
+```
 
  Examples: 
 
