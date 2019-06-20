@@ -7,6 +7,7 @@ The best hybrid CMS solutions provide full content management capabilities, a st
 A good hybrid CMS understands that not only should it help you manage content, but it should provide a mechanism to import or aggregate content from other repositories and apply some structure to it, so you can then make it available to your customer channels.  This is where big Data comes in. MongoDB supports big data. It is AGILE and supports dymanic schema on the fly, and also distributed processing.
 
 Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md 
+
 NoSQL- https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
 
 Even if most organizations will have more than one content management system or content repository, a hybrid CMS is a good core foundation to start building that consistent, seamless customer experience.
