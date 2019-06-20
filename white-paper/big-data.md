@@ -85,7 +85,7 @@ The advantages of Big Data Tools include:
 ### Data Sorage 
 
 
-NoSQL - https://github.com/kukuu/AGILITY/edit/master/white-paper/sql-nosql.md
+NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
 
 
 1. MongoDB
