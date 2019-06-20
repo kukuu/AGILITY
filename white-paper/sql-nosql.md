@@ -41,6 +41,20 @@ NoSQL systems are distributed, non-relational databases designed for large-scale
 
 A NoSQL  database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. They have been triggered by the needs of Web 2.0 . NoSQL databases are increasingly used in big data and real-time web applications.
 
+
+ Examples: 
+
+```
+
+1. MongoDB
+
+2. Casandra
+
+3. CoucDB
+
+```
+
+
 ### Motivations for this approach include: 
 
 1. Simplicity of design, simpler "horizontal" scaling to clusters of machines (which is a problem for relational databases).
@@ -69,29 +83,6 @@ Instead, most NoSQL databases offer a concept of "eventual consistency" in which
 6. Lost Writes
 
 Additionally, some NoSQL systems may exhibit lost writes and other forms of data loss. Some NoSQL systems provide concepts such as write-ahead logging to avoid data loss.
-
-
-### The Challenge
-
-For distributed transaction processing across multiple databases, data consistency is an even bigger challenge that is difficult for both NoSQL and relational databases. Relational databases "do not allow referential integrity constraints to span databases". Few systems maintain both ACID transactions and X/Open XA standards for distributed transaction processing.
-
-Referential Integrity
-```
-Referential integrity refers to the accuracy and consistency of data within a relationship. In relationships, data is linked between two or more tables. So, referential integrity requires that, whenever a foreign key value is used it must reference a valid, existing primary key in the parent table
-
-```
-
- Examples: 
-
-```
-
-1. MongoDB
-
-2. Casandra
-
-3. CoucDB
-
-```
 
 
 
@@ -257,7 +248,15 @@ One single main benefit it has over MySQL is its ability to handle large unstruc
 
 A query statement directly refers to the document you are fetching.
 
+## The Challenge
 
+For distributed transaction processing across multiple databases, data consistency is an even bigger challenge that is difficult for both NoSQL and relational databases. Relational databases "do not allow referential integrity constraints to span databases". Few systems maintain both ACID transactions and X/Open XA standards for distributed transaction processing.
+
+Referential Integrity
+```
+Referential integrity refers to the accuracy and consistency of data within a relationship. In relationships, data is linked between two or more tables. So, referential integrity requires that, whenever a foreign key value is used it must reference a valid, existing primary key in the parent table
+
+```
 ## Resources:
 
 https://www.youtube.com/watch?v=OrNUnlB4AmQ (1)
