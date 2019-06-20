@@ -545,6 +545,8 @@ Codeship
 
 29. Integration testing - https://github.com/kukuu/AGILITY/blob/master/white-paper/integration-testing.md
 
-30. Design Thinking - https://github.com/kukuu/AGILITY/blob/master/design-thinking.md
+30. Design Thinking - https://github.com/kukuu/AGILITY/blob/master/design-thinking.md 
 
-31. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+31. Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
+
+32. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
