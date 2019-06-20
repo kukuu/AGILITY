@@ -1,10 +1,10 @@
 # Design thinking  
 
-Design thinking is a non-linear, iterative process which seeks to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test.
+Design thinking is a non-linear, iterative process which seeks to understand users, challenge assumptions, re-define problems and create innovative solutions to prototype and test.
 
 A design mindset is not problem-focused, it's solution focused and action oriented towards creating a preferred future.
 
-DT has a human-centered core. It encourages organizations to focus on the people they're creating fo, which leads to better products, services, and internal processes. It turns creativity and data into growth.
+DT has a human-centered core. It encourages organizations to focus on the people they're creating for, which leads to better products, services, and internal processes. It turns creativity and data into growth.
 
 ## Process of Design Thinking
 
