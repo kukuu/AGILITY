@@ -2,9 +2,9 @@
 
 Server Certificates -  Are basically used to identify a server. ... Whereas client certificates as the name implies are clearly used to identify a client to a respective user, which means authenticating the client to the server. Both SSL certificate (server) and client certificate encompass the “Issued to” section
 
-PKI - A public key infrastructure (PKI) is a set of rules, policies, and procedures needed to create, manage, distribute, use, store, and revoke digital certificates and manage public-key encryption. ... In a Microsoft PKI, a registration authority is usually called a subordinate CA.
+PKI - A public key infrastructure (PKI) is a set of rules, policies, and procedures needed to create, manage, distribute, use, store, and revoke digital certificates and manage public-key encryption. In a Microsoft PKI, a registration authority is usually called a subordinate CA.
 
-A secure server certificate (not to be confused with a personal certificate) -  Is a digital certificate issued to a Web server by a trusted certification service known as a Certificate Authority (CA). ... transactions between the server and client are encrypted.
+A secure server certificate (not to be confused with a personal certificate) -  Is a digital certificate issued to a Web server by a trusted certification service known as a Certificate Authority (CA). Transactions between the server and client are encrypted.
 
 
 ## SSL
@@ -27,6 +27,10 @@ When a certificate is successfully installed on your server, the application pro
 TLS was introduced in 1999 as a new version of SSL and was based on SSL 3.0: Transport Layer Security (TLS) is just a new name for SSL v4 - essentially, we are talking about the same protocol.
 
 It’s worth noting here that SSL and TLS simply refer to the handshake that takes place between a client and a server. The handshake doesn’t actually do any encryption itself, it just agrees on a shared secret and type of encryption that is going to be used.
+
+## Encryption
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md 
 
 ##  Blockchain
 
