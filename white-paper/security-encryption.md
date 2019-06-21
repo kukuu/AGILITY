@@ -59,4 +59,10 @@ DSA
 
 ```
 
-Working with Cloud Security - https://github.com/kukuu/AGILITY/blob/master/Cloud-app-security.md
+## Working with Cloud Security 
+
+- https://github.com/kukuu/AGILITY/blob/master/Cloud-app-security.md 
+
+## Certificates & Digital Security
+
+- https://github.com/kukuu/AGILITY/blob/master/certificates.md
