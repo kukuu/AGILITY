@@ -14,7 +14,7 @@ The biggest challenge to big data is storing and processing the data at a specif
 3. Leverage benefits of Big Data by analysing patterns, trends and predicting something 
 useful out of it
 
-4. Use the results to iprove customer experience and bring profit to business
+4. Use the results to improve customer experience and bring profit to business
 
 
 
