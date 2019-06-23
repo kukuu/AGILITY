@@ -82,7 +82,7 @@ The advantages of Big Data Tools include:
 
 
 
-### Data Sorage 
+#### Data Sorage 
 
 
 NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
@@ -99,7 +99,7 @@ NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
 
 
 
-### Data Management
+#### Data Management
 
 1. Talend
 
@@ -112,7 +112,7 @@ NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
 
 
 
-### Data Cleaning
+#### Data Cleaning
 
 
 1. Microsoft Excel 
@@ -121,7 +121,7 @@ NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md
 
 
 
-### Data Mining
+#### Data Mining
 
 This is the process of discovering insights in to a Database.
 
@@ -131,7 +131,7 @@ This is the process of discovering insights in to a Database.
 2. Rpidmminer
 
 
-### Data Visualisation
+#### Data Visualisation
 
 These are tools for conveying complex data insights in a pictorial way, making it easy to understand and evaluate.
 
@@ -143,13 +143,13 @@ These are tools for conveying complex data insights in a pictorial way, making i
 3. Plotly
 
 
-### Data Reporting
+#### Data Reporting
 
 
 1. Power BI
 
 
-### Data Ingestion
+#### Data Ingestion
 
 This is the process of getting the data into Hadoop.
 
@@ -161,7 +161,7 @@ This is the process of getting the data into Hadoop.
 3. Apache Storm
 
 
-### Data Analysis
+#### Data Analysis
 
 This involves asking questions and finding the answers in data.
 
@@ -176,7 +176,7 @@ This involves asking questions and finding the answers in data.
 
 
 
-### Data Acquisition
+#### Data Acquisition
 
 This is for acquiring data.
 
