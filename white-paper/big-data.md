@@ -20,7 +20,7 @@ useful out of it
 
 ## Challenges
 
-The challenges for Big Data is enshrined in it's 3V model
+The challenges for Big Data is enshrined in it's 3V model: VOLUME, VELOCITY and VARIETY.
 
 
 1. Volume 
