@@ -124,7 +124,7 @@ ii.  https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-
  
 12. Microservice Applications:
 
-   i. NodeJS micro-service - https://github.com/kukuu/Microservice-NodeJS 
+   i. NodeJS, Express, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS 
    
    ii. NodeJS/NGINX/Docker - https://github.com/kukuu/microservices-nodejs-docker-nginx
  
