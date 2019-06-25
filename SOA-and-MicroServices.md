@@ -7,7 +7,7 @@ There are 2 main roles in SOA, a service provider and a service consumer.
 
 A software agent may play both roles. The Consumer Layer is the point where consumers (human users, other services or third parties) interact with the SOA and Provider Layer consists of all the services defined within the SOA. 
 
-## Enterprise Service Bus
+#### Enterprise Service Bus
 
 Enterprise Service Bus (ESB) is a style of the integration architecture that allows communication via a common communication bus that consists of a variety of point-to-point connections between providers and consumers . In addition to above, the data storage is shared within all services in SOA.
 
