@@ -2,4 +2,26 @@
 
 A question software engineers find hard to explain:
 
+# REST API & RESTful Web Services Explained
+
+A question software engineers find hard to explain:
+
+https://www.youtube.com/watch?v=LooL6_chvN4 
+
+Answering your question:
+
+1. Explain Acronym
+
+i. What is  Aa RESOURCE (PROTOCOL/HOST/RESOURCE)?
+
+ii. What is REPRESENTATION?
+
+ii. What is STATE?
+
+iii. Types of Protocols?
+
+2. Explain the API Architecture from point of view of URL. 
+
+3. How is it achieved (Endpoint/METHOD/PARAMETERS)
+
 https://www.youtube.com/watch?v=LooL6_chvN4
