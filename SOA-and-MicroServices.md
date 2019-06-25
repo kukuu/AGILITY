@@ -5,12 +5,14 @@ A Service Oriented Architecture is a software architecture pattern, which appl
 
 There are 2 main roles in SOA, a service provider and a service consumer. 
 
-A software agent may play both roles. The Consumer Layer is the point where consumers (human users, other services or third parties) interact with the SOA and Provider Layer consists of all the services defined within the SOA. The following figure shows a quick view of an SOA architecture.
+A software agent may play both roles. The Consumer Layer is the point where consumers (human users, other services or third parties) interact with the SOA and Provider Layer consists of all the services defined within the SOA. 
+
+## Enterprise Service Bus
 
 Enterprise Service Bus (ESB) is a style of the integration architecture that allows communication via a common communication bus that consists of a variety of point-to-point connections between providers and consumers . In addition to above, the data storage is shared within all services in SOA.
 
 
-So, SOA is an architectural pattern in which application components provide services to other components. Autonomous units of business functionality: each service provides a business function that is independent of other services.
+So, SOA is an architectural pattern in which application components provide services to other components via a network. Autonomous units of business functionality: each service provides a business function that is independent of other services.
 
 ### Architecture
 
