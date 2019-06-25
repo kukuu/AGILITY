@@ -8,7 +8,7 @@ Answering your question:
 
 1. Explain Acronym
 
-i. What is  Aa RESOURCE (PROTOCOL/HOST/RESOURCE)?
+i. What is  a RESOURCE (PROTOCOL/HOST/RESOURCE)?
 
 ii. What is REPRESENTATION?
 
@@ -18,6 +18,6 @@ iii. Types of Protocols?
 
 2. Explain the API Architecture from point of view of URL. 
 
-3. How is it achieved (Endpoint/METHOD/PARAMETERS)
+3. How is it achieved (ENDPOINT/METHOD/PARAMETERS)
 
 https://www.youtube.com/watch?v=LooL6_chvN4
