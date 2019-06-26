@@ -128,7 +128,7 @@ ii.  https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-
    
    ii. NodeJS/NGINX/Docker - https://github.com/kukuu/microservices-nodejs-docker-nginx 
    
-   iii. NodeJS, MongoDB, Notification (Cinema micro-service) - https://github.com/kukuu/cinema-microservice
+   iii. NodeJS, MongoDB, Docker Swarm, Notification - https://github.com/kukuu/cinema-microservice
  
  
  ### Adaptable Design
