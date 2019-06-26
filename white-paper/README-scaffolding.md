@@ -12,7 +12,9 @@ Lean Agile Leadership is established through empowerment: Building, autonomous, 
 
 - https://github.com/kukuu/AGILITY/blob/master/README.md 
 
-- https://github.com/kukuu/AGILITY/blob/master/benefits-of-agile.md
+- https://github.com/kukuu/AGILITY/blob/master/benefits-of-agile.md 
+
+- Best Practices - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/cloud-computing
 
 ## Digital Transformation 
 
