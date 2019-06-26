@@ -67,6 +67,6 @@ DSA
 
 - https://github.com/kukuu/AGILITY/blob/master/certificates.md 
 
-## 9 Security Tips to Keep Express from Getting Pwned
+## Security Tips to Keep Express from Getting Pwned
 
 - https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/?utm_source=nodeweekly&utm_medium=email
