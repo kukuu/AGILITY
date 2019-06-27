@@ -235,7 +235,7 @@ Burn up chart shows how much work has been completed, and the total amount of wo
 
 ## ES5/ES6 
 
-Features
+Features:
 
 Template strings
 
