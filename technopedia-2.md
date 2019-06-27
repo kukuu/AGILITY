@@ -1,5 +1,22 @@
 # Technopedia
 
+## Difference between a data warehouse and a data lake
+
+The main difference between a data warehouse vs. data lake vs. relational database system is that a relational database is used to store and organize structured data from a single source, such as a transactional system, while data warehouses are built to hold structured data from multiple sources.
+
+## Data lake
+
+The biggest advantage of data lakes is flexibility. By allowing the data to remain in its native format, a far greater—and timelier—stream of data is available for analysis. Some of the benefits of a data lake include: Ability to derive value from unlimited types of data.
+
+## Hadoop data lake
+
+A Hadoop data lake is a data management platform comprising one or more Hadoop clusters. It is used principally to process and store nonrelational data, such as log files, internet clickstream records, sensor data, JSON objects, images and social media posts.
+
+## Big data and Data Lake
+
+ Perhaps the greatest difference between data lakes and data warehouses is the varying structure of raw vs. processed data.
+
+ Raw data is data that has not yet been processed for a purpose. Much associated with Data Lake. Because of this, data lakes typically require much larger storage capacity than data warehouses.
 
 ## Benefits of REACT
 
@@ -42,8 +59,6 @@ Because ReactJS helps to prevent updating of DOM, it means that the apps will be
 
 ## What are the 5 Scrum ceremonies?
 
-
-
 Scrum suggests three roles: The team, ScrumMaster, and product owner; 
 
 four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting, and sprint retrospective meeting; 
@@ -66,7 +81,6 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 6. Respect People
 
 7. Optimize the WWole 
-
 
 
 
