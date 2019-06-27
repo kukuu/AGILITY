@@ -87,7 +87,7 @@ The advantages of Big Data Tools include:
 
 NoSQL - https://github.com/kukuu/AGILITY/blob/master/white-paper/sql-nosql.md 
 
-Hybrid CMS (Headless CMS)
+Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md 
 
 
 1. MongoDB
