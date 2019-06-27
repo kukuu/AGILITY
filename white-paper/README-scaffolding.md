@@ -553,6 +553,8 @@ Codeship
 
 31. Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
 
-32. REST API explained - https://github.com/kukuu/AGILITY/blob/master/restAPI/rest-api-expained.md
+32. REST API explained - https://github.com/kukuu/AGILITY/blob/master/restAPI/rest-api-expained.md 
 
-33. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+33. Technopedia - https://github.com/kukuu/AGILITY/blob/master/technopedia-2.md
+
+34. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
