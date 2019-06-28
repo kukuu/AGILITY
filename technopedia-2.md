@@ -80,7 +80,7 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 6. Respect People
 
-7. Optimize the WWole 
+7. Optimize the Whole 
 
 
 
@@ -99,7 +99,7 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 6. Race conditions
 
-2. What design patterns are used in the new code? Any anti-patterns (in loops etc)
+7. What design patterns are used in the new code? Any anti-patterns (in loops etc)
 
 
 ## Attributes of a good leader
@@ -131,28 +131,6 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 ## ECS and ECR
 
 Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with Amazon Elastic Container Service (ECS), simplifying your development to production workflow.
-
-
-## How to motivate your team
-
-1. Pay your people what they are worth
-
-2. Provide them with a pleasant place to work
-
-3. Offer opportunities for self-development
-
-4. Foster collaboration within the team
-
-5. Encourage happiness
-
-6. Don't punish failure. Help to optimise the process. Training, reconiliation, self development
-
-7. Set clear goals
-
-8. Don't micromanage
-
-9. Avoid useless meetings
-
 
 
 ## Tracking the metrics / KPI (of the team)
@@ -235,7 +213,7 @@ Burn up chart shows how much work has been completed, and the total amount of wo
 
 ## ES5/ES6 
 
-Features:
+Features: 
 
 Template strings
 
@@ -256,3 +234,100 @@ Generator functions
 Classes 
 
 module imports
+
+## REACT Life Cycle states
+
+Lifecycle methods (with the exception of constructor) are hard to reason about. They add complexity to your app. Don’t use them unless you must.
+
+1. Mounting
+
+constructor:
+
+The first thing that gets called is your component constructor, if your component is a class component. This does not apply to functional components.
+
+Most Common Use Case For Constructor: Setting up state, creating refs and method binding.
+
+2. getDerivedStateFromProps 
+
+When mounting, getDerivedStateFromProps is the last method called before rendering.
+
+
+3. render
+
+Rendering does all the work. It returns the JSX of your actual component. When working with React, you’ll spend most of your time here.
+
+Most Common Use Case For Render: Returning component JSX.
+
+4. componentDidMount
+
+After we’ve rendered our component for the first time, this method is called.
+
+If you need to load data, here’s where you do it. Don’t try to load data in the constructor.
+
+Most Common Use Case for componentDidMount: Starting AJAX calls to load in data for your component.
+
+5. getDerivedStateFromProps
+
+If you need to update your state based on a prop changing, you can do it here by returning a new state object.
+
+Here’s some examples:
+
+i. resetting a video or audio element when the source changes
+ii. refreshing a UI element with updates from the server
+iii. closing an accordion element when the contents change
+
+
+Note: Even with the above cases, there’s usually a better way to do it. But getDerivedStateFromProps will have your back when worst comes to worst.
+
+6. shouldComponentUpdate
+
+Typical React dogma says that when a component receives new props, or new state, it should update.
+
+But our component is a little bit anxious and is going to ask permission first.
+
+Here’s what we get — a shouldComponentUpdate method, called with nextProps as the first argument, and nextState is the second.
+
+shouldComponentUpdate should always return a boolean. If you’re worried about wasted renders, (i.e Age authentication) shouldComponentUpdate is an awesome place to improve performance.
+
+
+7. getSnapshotBeforeUpdate
+
+
+Note it’s called between render and the updated component actually being propagated to the DOM. It exists as a last-chance-look at your component with its previous props and state.
+
+You should either return null or a value from getSnapshotBeforeUpdate.
+
+Most Common Use Case: Taking a look at some attribute of the current DOM, and passing that value on to componentDidUpdate.
+
+8. componentDidUpdate
+
+Now, our changes have been committed to the DOM.
+
+In componentDidUpdate, we have access to three things: the previous props, the previous state, and whatever value we returned from getSnapshotBeforeUpdate.
+
+Most Common Use Case for componentDidUpdate: Reacting  to committed changes to the DOM.
+
+9. componentWillUnmount
+
+Your component is going to go away. Maybe forever. It’s very sad.
+
+Before it goes, it asks if you have any last-minute requests.
+
+Here you can cancel any outgoing network requests, or remove all event listeners associated with the component.
+
+
+10. getDerivedStateFromError
+
+i.e Something broke. Not in your component itself, but one of its descendants.
+
+11. ComponentDidCatch
+
+It is triggered when an error occurs in a child component.
+
+The difference is rather than updating state in response to an error, we can now perform any side effects, like logging the error.
+
+
+12. Note that componentDidCatch only works for errors in the render/lifecycle methods. If your app throws an error in a click handler, it will not be caught.
+
+Most Common Use Case for componentDidCatch: Catching and logging errors.
+
