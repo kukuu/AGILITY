@@ -1,5 +1,11 @@
 # Resources
 
+## How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger
+https://www.freecodecamp.org/news/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9/
+
+## 9 Security Tips to Keep Express from Getting Pwned
+https://nodesource.com/blog/nine-security-tips-to-keep-express-from-getting-pwned/?utm_source=nodeweekly&utm_medium=email
+
 ## 3 ways to prep microservices applications for big data
 https://searchmicroservices.techtarget.com/tip/3-ways-to-prep-microservices-applications-for-big-data
 
@@ -120,3 +126,21 @@ https://www.youtube.com/watch?v=2ajlfURobd8 (Lesson 2)
 
 ## DevTest 
 https://techbeacon.com/app-dev-testing/devtest-done-right-how-automation-builds-strong-development-testing-teams
+
+## How We Ditched Redux for MobX
+https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
+
+## An in-depth guide to server rendering with React and React Router
+https://www.freecodecamp.org/news/server-rendering-with-react-and-react-router-e0b7ba37653f/
+
+## Configuring Redux in a Universal React App with React Router
+https://ranjithnair.github.io/2018/03/12/Universal-Redux.html
+
+## Getting started with Redux and GraphQL
+https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3b25c56
+
+## CRUD App with Hooks
+https://taniarascia.github.io/react-hooks/
+
+## Git & GitHub Tutorial for Beginners
+https://www.youtube.com/watch?v=fQLK8Ib_SKk
