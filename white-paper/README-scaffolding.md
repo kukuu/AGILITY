@@ -557,4 +557,6 @@ Codeship
 
 33. Technopedia - https://github.com/kukuu/AGILITY/blob/master/technopedia-2.md
 
-34. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+34. Resources - https://github.com/kukuu/AGILITY/blob/master/resources.md
+
+35. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
