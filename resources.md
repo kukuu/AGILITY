@@ -134,9 +134,6 @@ https://medium.com/feedzaitech/javascript-and-react-unit-tests-basics-324e93dfc6
 ## How We Ditched Redux for MobX
 https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
 
-## An in-depth guide to server rendering with React and React Router
-https://www.freecodecamp.org/news/server-rendering-with-react-and-react-router-e0b7ba37653f/
-
 ## Configuring Redux in a Universal React App with React Router
 https://ranjithnair.github.io/2018/03/12/Universal-Redux.html
 
