@@ -336,7 +336,7 @@ Most Common Use Case for componentDidCatch: Catching and logging errors.
 
 OutSystems is a low-code platform for the development of enterprise web and mobile applications, which run in the cloud, on-premises or in hybrid environments. The current version is 11, for both the paid and unpaid versions - developers are permitted personal cloud environments to use the platform without charge.
 
-## JavaScript Design Patterns 
+## JavaScript Design Patterns - https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
 
 Developermust  strive to write maintainable, readable, and reusable code. Code structuring becomes more important as applications become larger. Design patterns prove crucial to solving this challenge - providing an organization structure for common issues in a particular circumstance.
 
@@ -404,3 +404,22 @@ Finding use cases for Singletons is difficult for most who have not yet used it 
 In AngularJS, Singletons are prevalent, the most notable being services, factories, and providers. Since they maintain state and provides resource accessing, creating two instances defeats the point of a shared service/factory/provider.
 
 Race conditions occur in multi-threaded applications when more than one thread tries to access the same resource. Singletons are susceptible to race conditions, such that if no instance were initialized first, two threads could then create two objects instead of returning and instance. This defeats the purpose of a singleton. Therefore, developers must be privy to synchronization when implementing singletons in multithreaded applications.
+
+## Unit Tests 
+
+Unit tests don't work in current mainstream languages anyway because the status quo pervasively includes use of globally accessible mutable state, platform dependence, and violation of encapsulation.
+
+1. It's the usual cost/benefit analysis that may restrain Developers from writing Unit Tests.
+
+2. Cost: You need to spend time developing and maintaining the tests, and put resources into actually running them.
+
+3. Benefits are well known (mostly cheaper maintenance/refactoring with less bugs).
+
+
+If it's a throw away quick hack you know will never be re-used, unit tests might not make sense. 
+
+### In practice:
+
+
+Use TDD if you are implementing an isolated library-like module. If you’re not implementing an isolated library-like module, it’s best to implement first and then conduct the tests. The important thing is to make sure you don’t implement too much without writing any tests. Ideally you should implement incrementally, and at the end of each step, do the unit tests.
+Write unit tests daily. Do not code for days, or worse weeks, and leave unit tests to the end. By that time, you will have lost most of the context. Writing unit tests is inherently dull; it’s a daunting task to write them for a week’s worth of code.

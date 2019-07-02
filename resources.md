@@ -127,6 +127,10 @@ https://www.youtube.com/watch?v=2ajlfURobd8 (Lesson 2)
 ## DevTest 
 https://techbeacon.com/app-dev-testing/devtest-done-right-how-automation-builds-strong-development-testing-teams
 
+## Good $ Maintainable Unit Tests
+https://medium.com/feedzaitech/javascript-and-react-unit-tests-basics-324e93dfc64c
+
+
 ## How We Ditched Redux for MobX
 https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
 
@@ -141,6 +145,10 @@ https://medium.com/@childsmaidment/getting-started-with-redux-and-graphql-8384b3
 
 ## CRUD App with Hooks
 https://taniarascia.github.io/react-hooks/
+
+
+## How To Fetch Data From An API With React Hooks
+https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
 
 ## Git & GitHub Tutorial for Beginners
 https://www.youtube.com/watch?v=fQLK8Ib_SKk
