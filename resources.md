@@ -131,8 +131,16 @@ https://techbeacon.com/app-dev-testing/devtest-done-right-how-automation-builds-
 https://medium.com/feedzaitech/javascript-and-react-unit-tests-basics-324e93dfc64c
 
 
+## Testing with Enzyme & JEST
+
+1. https://www.youtube.com/watch?v=D9DdY2WmM-s
+2. https://www.youtube.com/watch?v=b3VJVwQzw_Q&frags=wn
+3. https://www.youtube.com/watch?v=QzznzOlkgGw
+4. https://www.youtube.com/watch?v=52-QICDljww
+
 ## How We Ditched Redux for MobX
 https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b
+
 
 ## Configuring Redux in a Universal React App with React Router
 https://ranjithnair.github.io/2018/03/12/Universal-Redux.html
