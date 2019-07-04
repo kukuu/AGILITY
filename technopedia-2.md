@@ -499,3 +499,161 @@ Managers using the transactional leadership style receive certain tasks to perfo
 ### The Transformational Leader
 
 The transformational leadership style depends on high levels of communication from management to meet goals. Leaders motivate employees and enhance productivity and efficiency through communication and high visibility and empowerment. This style of leadership requires the involvement of management to meet goals. Leaders focus on the big picture within an organization and delegate smaller tasks to the team to accomplish goals.
+
+## Continuous Delivery (RRASc)
+
+Reliable :: Repeatable :: Automation :: Source control
+CD is the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way.
+
+A logical extension of Continuous Integration, It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. Manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
+
+The ultimate goal of continuous delivery is to minimise the iteration time of the code-test-deliver-measure experimentation cycle. Increasing deliverable throughput in this way is the key to not only more feature work being delivered but higher quality code as well. This might seem counter-intuitive at first but code is fixed and polished through that same cycle and less time spent on deployment is more time spent on designing quality code. - https://github.com/kukuu/AGILITY 
+
+
+## Achieving CD
+
+1. The process for releasing/deploying software MUST be repeatable and reliable. 
+
+2. Automate everything!
+
+3. If somethings difficult or painful, do it more often.
+
+4. Keep everything in source control
+
+5. Done means “released”.
+
+6. Build quality in! 
+
+7. Everybody has responsibility for the release process
+
+8. Improve continuously
+
+## Micro-services
+
+Microservices architecture is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
+
+When you choose to build your application as a set of microservices, you need to decide how your application’s clients will interact with the microservices. With a monolithic application there is just one set of (typically replicated, load‑balanced) endpoints. In a microservices architecture, however, each microservice exposes a set of what are typically fine‑grained endpoints.
+
+Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol. Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels. Examples of asynchronous messaging technologies are Apache Kafka and RabbitMQ.
+
+## Benefits of Micro-services:
+
+1. Loose coupling since it decouples client from services
+
+2. Improved availability since the message broker buffers messages until the consumer is able to process them
+
+3. Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc
+
+## Micro-services drawbacks:
+
+i. Additional complexity of message broker, which must be highly available
+
+ii. Request/reply-style communication is more complex
+
+iii. Client needs to discover location of message broker
+
+## Seeting up a  microservice team
+
+1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
+	is Developing services should not   require knowledge of the infrastructure and changing 
+	infrastructure should not require detailed knowledge of the services running on it. 
+	If we need to change the hostname or port a service runs on it should require no changes
+	to the service itself.
+
+2.	All project configuration—from build process to health monitoring—must be contained within the 
+	project repository. Anything else introduces hidden dependencies for deployment that threaten
+	to break the pipeline and require specialist knowledge to debug.
+
+3.	The above configuration should be declarative and not require adding dependencies to the project.
+
+4.   Use Containerisation
+
+## Implementing a Gateway
+
+It makes sense,  to build the API Gateway on a platform that supports asynchronous, nonblocking I/O. There are a variety of different technologies that can be used to implement a scalable API Gateway.
+
+On the JVM you can use one of the NIO‑based frameworks such Netty, Vertx, Spring Reactor, or JBoss Undertow. 
+
+One popular non‑JVM option is Node.js, which is a platform built on Chrome’s JavaScript engine. 
+
+Another option is to use NGINX Plus. NGINX Plus offers a mature, scalable, high‑performance web server and reverse proxy that is easily deployed, configured, and programmed. NGINX Plus can manage authentication, access control, load balancing requests, caching responses, and provides application‑aware health checks and monitoring.
+
+
+Writing API composition code using the traditional asynchronous callback approach quickly leads you to callback hell. The code will be tangled, difficult to understand, and error‑prone. A much better approach is to write API Gateway code in a declarative style using a reactive approach. Examples of reactive abstractions include Future in Scala, CompletableFuture in Java 8, and Promise in JavaScript. There is also Reactive Extensions (also called Rx or ReactiveX), which was originally developed by Microsoft for the .NET platform. Netflix created RxJava for the JVM specifically to use in their API Gateway. There is also RxJS for JavaScript, which runs in both the browser and Node.js. Using a reactive approach will enable you to write simple yet efficient API Gateway code.
+
+
+## Handling Partial Failures in API Gateways
+
+
+Another issue you have to address when implementing an API Gateway is the problem of partial failure. This issue arises in all distributed systems whenever one service calls another service that is either responding slowly or is unavailable.
+
+The API Gateway should never block indefinitely waiting for a downstream service. However, how it handles the failure depends on the specific scenario and which service is failing. For example, if the recommendation service of the application is unresponsive in the product details scenario, the API Gateway should return the rest of the product details to the client since they are still useful to the user. The recommendations could either be empty or replaced by, for example, a hardwired top ten list.
+
+If, however, the product information service is unresponsive then API Gateway should return an error to the client.
+
+The API Gateway could also return cached data if that was available. The data can be cached by the API Gateway itself or be stored in an external cache such as Redis or Memcached. By returning either default data or cached data, the API Gateway ensures that system failures do not impact the user experience.
+
+A very good robust and scalable API Gateway must time out calls that exceed the specified threshold. It implements a circuit breaker pattern, which stops the client from waiting needlessly for an unresponsive service, can be added to the model's implementation. If the error rate for a service exceeds a specified threshold, it could trip a circuit breaker and all requests will fail immediately for a specified period of time. The module should define a fallback action when a request fails, such as reading from a cache or returning a default value.
+
+For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
+
+## Containerisation
+
+Source code of any program cannot fully describe the function of that program without the context it will be compiled and run in. Most unexpected behaviour during deployment comes from build environments being different than expected. To make deployment repeatable, we need to make a program’s context repeatable. That’s where Docker and Kubernetes comes in.
+
+Docker essentially allows you to specify a “source code” for a program’s context that can then be “compiled” to an image and run as a container. This means that once we have tested an image we can have high confidence that it will perform equally well in every environment it is deployed to.
+
+Additionally, Docker allows you to specify deploy configurations made up of multiple containers all linked in a private network and DNS that allows services that depend strongly on each other to be deployed and scaled together.
+
+To be fully context-agnostic, deployment should be able to happen to any host on the network on whatever port the host happens to have free. This presents a challenge: how do services link up when their network locations are fluid? You need a reverse proxy (like nginx) and a way to keep its configuration up to date in a changing service landscape. You will need a Consul to store and manage service states.
+
+## Deployment steps for Docker Container:
+
+1.	Build Docker image.
+
+2.	Test that image in isolation.
+
+3.	Push that image to the in-house image registry.
+
+4.	Pull all images you need to deploy linked.
+
+5.	Deploy them to a test environment.
+
+6.	Run automated tests against the container system.
+
+7.	Upload service configuration to Consul API (if changed).
+
+8.	Deploy the containers to all hosts, tagged with the offline colour.
+
+9.	Wait until they are all responding and passing automated checks.
+
+10.	Flip environment alias to point at the offline colour.
+
+11.	The new build is now online.
+
+## Docker configuration infrastructure code
+
+[coming soon]
+
+
+## Web Services
+
+A web service is a collection of open protocols and standards used for exchanging data between applications or systems over the internet and uses a standardized XML messaging system. XML is used to encode all communications to a web service. For example, a client invokes a web service by sending an XML message, then waits for a corresponding XML response.
+
+As all communication is in XML, web services are not tied to any one operating system or programming language - Java can talk with Perl; Windows applications can talk with Unix applications.
+
+Web services are self-contained, modular, distributed, dynamic applications. These applications can be local, distributed, or web-based. Web services are built on top of open standards such as TCP/IP, HTTP, Java, HTML, and XML.
+
+## Differences between SOA and Micro-services
+
+The core difference between SOA and microservices lies in the size and scope. Microservices must be independently deployable, whereas SOA services are often implemented in deployment monoliths. Classic SOA is more platform driven, so microservices offer more choices in all dimensions.
+
+Features of SOA:
+
+1. Boundaries are explicit
+
+2. Services are autonomous
+
+3. Services share schema and contract, not class
+
+4. Service compatibility is based on policy
