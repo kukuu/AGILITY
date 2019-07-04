@@ -351,12 +351,12 @@ iv. Singleton
 
 ### Module Design Pattern
 
-JavaScript modules are the most prevalently used design patterns for keeping particular pieces of code independent of other components. This provides loose coupling to support well-structured code.
+JavaScript modules are the most prevalently used design patterns for keeping particular pieces of code independent of other components, and consistent. This provides loose coupling to support well-structured code.
 
 
 For those that are familiar with object-oriented languages, modules are JavaScript "classes". One of the many advantages of classes is encapsulation - protecting states and behaviors from being accessed from other classes. The module pattern allows for public and private (plus the lesser-know protected and privileged) access levels.
 
-Modules should be Immediately-Invoked-Function-Expressions (IIFE) to allow for private scopes - that is, a closure that protect variables and methods (however, it will return an object instead of a function). This is what it looks like:
+Modules should be Immediately-Invoked-Function-Expressions (IIFE) to allow for private scopes - that is, a closure that protect variables and methods.
 
 #### Revealing Module Pattern
 
@@ -432,3 +432,36 @@ SonarQube (formerly Sonar) is an open-source platform developed by SonarSource f
 ## DroneDeploy 
 
 Is the leading cloud software platform worldwide for drone mapping and 3D modeling. The DroneDeploy mobile app allows you to fly your drone to make interactive maps and models. ... It works with many DJI drones such as Phantom 3, Phantom 4, Inspire 1 and 2, Mavic Pro, Matrice 100, 200 and 600 models.3 Mar 2019
+
+
+## Traits of good Line Management & Essential Management  skills
+
+Qualities of good line management:
+1. Communicate well, be clear on vision to meet the needs of  both their employees  and bosses.
+2. Emotional stability 
+3. Enthusiasm 
+4. Self assurance 
+5. The understanding by a manager that members of a team strive to reach  their own personal  goals, as well as their teams.
+6. Finding time for team members to discuss their strength and work on their weaknesses. 
+7. Empathy allows one to identify gaps.
+8. When you  work in a team it gives you sense of belonging.
+
+
+Essential Management  skills:
+
+1. Planning
+2. Communication 
+3. Decision making 
+4. Delegation
+5. Problem solving
+6. Motivation - https://github.com/kukuu/AGILITY/blob/master/motivation.md
+7. Demo strait g appropriate style of Management - https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
+
+
+## Five Essential Project Management Skills
+
+Communication. One of the most important skills for project managers is great communication. ...
+Time Management. The ability to manage time and prioritize tasks is an essential characteristic of efficient project managers. ...
+Organizational Awareness. ...
+Problem Solving. ...
+Leadership.
