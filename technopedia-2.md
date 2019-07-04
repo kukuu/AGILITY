@@ -465,3 +465,37 @@ Time Management. The ability to manage time and prioritize tasks is an essential
 Organizational Awareness. ...
 Problem Solving. ...
 Leadership.
+
+## Influencing
+
+Effective leaders don’t just command; they inspire, persuade, and encourage. Leaders tap the knowledge and skills of a group, point individuals toward a common goal, and draw out a commitment to achieve results.
+
+To influence one needs to be clear about own goals, values, assertive and have a dynamic model to meet the challenges of the technology changing market. This requires an aggregation of a network of skills, a dynamic model and flexible governance.
+
+The goal is to influence others, not manipulate them. Effective, ethical leaders use different approaches in different situations. Leaders need to understand why they are doing something, and be clear about their own values and goals when applying their influence skills. Influencing then comes from a place of authenticity and has the greatest impact.
+
+## Management Styles
+
+Different types of leadership styles exist in work environments. The culture and goals of an organization determine which leadership style fits the firm best, while personality differences often dictate which is most often used. Some companies offer several leadership styles within the organization, dependent upon the necessary tasks to complete and departmental needs.
+
+### The Laissez-Faire Leader
+
+A laissez-faire leader lacks direct supervision of employees and fails to provide regular feedback to those under his supervision. 
+
+### The Autocrat
+
+The autocratic leadership style allows managers to make decisions alone without the input of others. This leadership style benefits employees who require close supervision. Creative employees who thrive in group functions detest this leadership style.
+
+### The Participative Leader
+
+Often called the democratic leadership style, participative leadership values the input of team members and peers, but the responsibility of making the final decision rests with the participative leader.
+
+Participative leadership boosts employee morale because employees make contributions to the decision-making process. It causes them to feel as if their opinions matter. 
+
+### The Transactional Leader
+
+Managers using the transactional leadership style receive certain tasks to perform and provide rewards or punishments to team members based on performance results. Managers and team members set predetermined goals together, and employees agree to follow the direction and leadership of the manager to accomplish those goals. The manager possesses power to review results and train or correct employees when team members fail to meet goals. Employees receive rewards, such as bonuses, when they accomplish goals.
+
+### The Transformational Leader
+
+The transformational leadership style depends on high levels of communication from management to meet goals. Leaders motivate employees and enhance productivity and efficiency through communication and high visibility and empowerment. This style of leadership requires the involvement of management to meet goals. Leaders focus on the big picture within an organization and delegate smaller tasks to the team to accomplish goals.
