@@ -213,6 +213,10 @@ The outstanding work (or backlog) is often on the vertical axis, with time along
 
 Burn up chart shows how much work has been completed, and the total amount of work.
 
+## Technical debt
+
+Technical debt (also known as design debt or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
+
 ## ES5/ES6 
 
 Features: 
