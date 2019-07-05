@@ -243,7 +243,7 @@ module imports
 
 ## REACT Life Cycle states
 
-Lifecycle methods (with the exception of constructor) are hard to reason about. They add complexity to your app. Don’t use them unless you must.
+Lifecycle methods (with the exception of constructor) are hard to reason about. They are used to free up resources, and  add complexity to your app. Don’t use them unless you must.
 
 1. Mounting
 
