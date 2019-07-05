@@ -184,7 +184,7 @@ The Leader:
 
 The team:
 
-1. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas
+1. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas. When you combine knowledge, energy and skills of a team which is motivated, evry goal is achievable.
 
 2. Everybody is working toward the same goals.
 
