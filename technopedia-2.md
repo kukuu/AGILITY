@@ -272,7 +272,7 @@ If you need to load data, here’s where you do it. Don’t try to load data in 
 
 Most Common Use Case for componentDidMount: Starting AJAX calls to load in data for your component.
 
-5. getDerivedStateFromProps
+5. getDerivedStateFromProps (2 extended). 
 
 If you need to update your state based on a prop changing, you can do it here by returning a new state object.
 
