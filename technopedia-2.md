@@ -89,17 +89,19 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 1. Does the code follow SOLID principles
 
-2. Formatting: Where are the spaces and line breaks? Are they using tabs or spaces? How are the curly braces laid out?
+2. What design patterns are used in the new code? Any anti-patterns (in loops etc)
 
-3. Style: Are the variables/parameters declared as final? Are method variables defined close to the code where they’re used or at the start of the method?
+3. Formatting: Where are the spaces and line breaks? Are they using tabs or spaces? How are the curly braces laid out?
 
-4. Naming: Do the field/constant/variable/param/class names conform to standards? Are the names overly short?
+4. Style: Are the variables/parameters declared as final? Are method variables defined close to the code where they’re used or at the start of the method?
 
-5. Test coverage: Is there a test for this code?
+5. Naming: Do the field/constant/variable/param/class names conform to standards? Are the names overly short?
 
-6. Race conditions
+6. Test coverage: Is there a test for this code?
 
-7. What design patterns are used in the new code? Any anti-patterns (in loops etc)
+7. Race conditions
+
+
 
 
 ## Attributes of a good leader
