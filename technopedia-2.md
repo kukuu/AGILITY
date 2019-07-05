@@ -40,7 +40,7 @@ Because ReactJS helps to prevent updating of DOM, it means that the apps will be
 
 8. It’s the V in the MVC – the view part
 
-9. Great Developer Tools
+9. Great Developer Tools, and documentation. Used by a greated community of developers.
 
  React Developer Tools, available for Chrome and Firefox, is a browser extension for React. It allows you to inspect the React component hierarchies in the virtual DOM. 
 
