@@ -157,3 +157,42 @@ https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
 
 ## Git & GitHub Tutorial for Beginners
 https://www.youtube.com/watch?v=fQLK8Ib_SKk
+
+
+## RxJS: A Simple Introduction
+https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67
+
+## How to integrate React Hooks into your project without changing your Redux code
+https://medium.com/free-code-camp/how-to-integrate-react-hooks-into-your-project-without-changing-your-redux-code-974e6f70f0b0
+
+## Reducing boilerplate in Redux with Redux-Starter-Kit
+https://medium.com/@jeromefranco/reducing-boilerplate-in-redux-with-redux-starter-kit-c5bd9115e75b
+
+
+## Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game
+https://www.youtube.com/watch?v=jaVNP3nIAv0
+
+
+## How To Fetch Data From An API With React Hooks
+
+https://codeburst.io/how-to-fetch-data-from-an-api-with-react-hooks-9e7202b8afcd
+https://codesandbox.io/s/react-hooks-api-6juq5
+
+## REACT APIs with Remy
+https://github.com/bearski/reddice
+https://github.com/Remchi
+
+## Unit Testing in React + Redux applications
+https://www.youtube.com/watch?v=r5lhmEoaWBM
+
+## Creating a Basic Chai Mocha Test
+https://www.youtube.com/watch?v=0AAIbEAyFxg
+
+## Quick TDD setup with Node, ES6, Gulp and Mocha
+https://www.adamcowley.co.uk/javascript/quick-test-driven-development-setup-with-node-es6-and-gulp/ 
+https://github.com/adam-cowley/quick-tdd-node
+
+
+## My Node.js Setup (Mocha & Chai, Babel7, ES6)
+https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
+https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
