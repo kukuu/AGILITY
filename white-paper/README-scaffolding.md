@@ -559,4 +559,6 @@ Codeship
 
 34. Resources - https://github.com/kukuu/AGILITY/blob/master/resources.md
 
-35. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+35. Leadership quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/leadership-qualities.jpg
+
+36. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
