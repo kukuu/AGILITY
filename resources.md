@@ -196,3 +196,42 @@ https://github.com/adam-cowley/quick-tdd-node
 ## My Node.js Setup (Mocha & Chai, Babel7, ES6)
 https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
 https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
+
+
+## Implementing Quicksort in JavaScript 
+Quicksort is one of the most efficient methods for sorting an array in computer science. For a thorough…
+
+https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea
+
+## How To Write Better Code in React
+9 Useful tips for writing better code in React: Learn about Linting, propTypes, PureComponent and more.
+
+https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
+
+## These React Fundamentals You Skip may be Killing You
+Often times, the inability to debug a certain error stems from not understanding some foundational concept.
+
+https://medium.com/free-code-camp/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a
+
+## Better Reusable React Components with the Overrides Pattern
+If you’ve been watching the React ecosystem the past few years, you’ve surely encountered one of the numerous.
+
+https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646
+
+
+## Replacing Redux with React Hooks and Context: A small concrete example with…
+The Todo List example from Redux
+
+https://levelup.gitconnected.com/redux-meets-hooks-for-non-redux-users-a-small-concrete-example-with-reactive-react-redux-6babc881639b
+
+## Uploading Files in React While Keeping The UI Completely In Sync
+
+https://medium.com/better-programming/keep-your-users-constantly-occupied-ff8ba0b0e673
+
+
+## JavaScript and React unit tests basics
+https://medium.com/feedzaitech/javascript-and-react-unit-tests-basics-324e93dfc64c
+
+## https://itnext.io/redux-observable-can-solve-your-state-problems-15b23a9649d7
+Redux-Observable Can Solve Your State Problems
+Solving Common Async State Issues
