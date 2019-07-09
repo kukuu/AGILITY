@@ -531,6 +531,10 @@ Codeship
 
 - https://github.com/kukuu/AGILITY/blob/master/CI-CD-3.png
 
+- https://github.com/kukuu/AGILITY/blob/master/ci-cd-4.png
+
+- https://github.com/kukuu/AGILITY/blob/master/ci-cd-5.png
+
 18. Web Services - https://github.com/kukuu/Apps-WebServices/blob/master/README.md
 
 19. Severless vs Containers - https://github.com/kukuu/AGILITY/blob/master/white-paper/severlessComputing-vs-containers/README-severless-computing-vs-containers.md
