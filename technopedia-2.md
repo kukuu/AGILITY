@@ -552,7 +552,7 @@ ii. Request/reply-style communication is more complex
 
 iii. Client needs to discover location of message broker
 
-## Seeting up a  microservice team
+## Seting up a  microservice team
 
 1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
 	is Developing services should not   require knowledge of the infrastructure and changing 
