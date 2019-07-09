@@ -521,7 +521,15 @@ Codeship
 
 16. The ISO 7 Layer model - https://github.com/kukuu/digitalTransformationStrategies/blob/master/7-osi-Layers-ii.jpg
 
-17. The DevOps feedback loop - https://github.com/kukuu/digitalTransformationStrategies/blob/master/DevOps_feedback-diagram.png
+17. The DevOps feedback loop
+
+- https://github.com/kukuu/digitalTransformationStrategies/blob/master/DevOps_feedback-diagram.png
+
+- https://github.com/kukuu/AGILITY/blob/master/ci-cd-1.png 
+
+-https://github.com/kukuu/AGILITY/blob/master/ci-cd-2.png
+
+- https://github.com/kukuu/AGILITY/blob/master/CI-CD-3.png
 
 18. Web Services - https://github.com/kukuu/Apps-WebServices/blob/master/README.md
 
