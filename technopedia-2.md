@@ -159,7 +159,7 @@ This measures the amount of each engineer’s efficient code, or code that provi
 
 Cycle time, part of lead time, is how long it takes to make a desired change to the software and put it into production. When a team is using DevOps and employing continuous integration, continuous delivery (CI/CD) practices, they can often measure cycle time in minutes rather than months.
 
-5. Open and close rates
+5. Open and close rates. This KPI can drastically be improved using automation in conjunction with CI/CD.
 
 The open and close rate is the number of issues or problems developers report and fix or close over a period of time.
 
