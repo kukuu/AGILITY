@@ -456,6 +456,8 @@ Codeship
 
 7. Fastify
 
+8. Curl
+
 ```
 
 ## Static Site Generators
@@ -527,7 +529,7 @@ Codeship
 
 - https://github.com/kukuu/AGILITY/blob/master/ci-cd-1.png 
 
--https://github.com/kukuu/AGILITY/blob/master/ci-cd-2.png
+- https://github.com/kukuu/AGILITY/blob/master/ci-cd-2.png
 
 - https://github.com/kukuu/AGILITY/blob/master/CI-CD-3.png
 
