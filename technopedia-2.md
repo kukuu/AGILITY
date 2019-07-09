@@ -40,7 +40,7 @@ Because ReactJS helps to prevent updating of DOM, it means that the apps will be
 
 8. It’s the V in the MVC – the view part
 
-9. Great Developer Tools, and documentation. Used by a greated community of developers.
+9. Great Developer Tools
 
  React Developer Tools, available for Chrome and Firefox, is a browser extension for React. It allows you to inspect the React component hierarchies in the virtual DOM. 
 
@@ -89,19 +89,17 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 1. Does the code follow SOLID principles
 
-2. What design patterns are used in the new code? Any anti-patterns (in loops etc)
+2. Formatting: Where are the spaces and line breaks? Are they using tabs or spaces? How are the curly braces laid out?
 
-3. Formatting: Where are the spaces and line breaks? Are they using tabs or spaces? How are the curly braces laid out?
+3. Style: Are the variables/parameters declared as final? Are method variables defined close to the code where they’re used or at the start of the method?
 
-4. Style: Are the variables/parameters declared as final? Are method variables defined close to the code where they’re used or at the start of the method?
+4. Naming: Do the field/constant/variable/param/class names conform to standards? Are the names overly short?
 
-5. Naming: Do the field/constant/variable/param/class names conform to standards? Are the names overly short?
+5. Test coverage: Is there a test for this code?
 
-6. Test coverage: Is there a test for this code?
+6. Race conditions
 
-7. Race conditions
-
-
+7. What design patterns are used in the new code? Any anti-patterns (in loops etc)
 
 
 ## Attributes of a good leader
@@ -159,7 +157,7 @@ This measures the amount of each engineer’s efficient code, or code that provi
 
 Cycle time, part of lead time, is how long it takes to make a desired change to the software and put it into production. When a team is using DevOps and employing continuous integration, continuous delivery (CI/CD) practices, they can often measure cycle time in minutes rather than months.
 
-5. Open and close rates. This KPI can drastically be improved using automation in conjunction with CI/CD.
+5. Open and close rates
 
 The open and close rate is the number of issues or problems developers report and fix or close over a period of time.
 
@@ -184,7 +182,7 @@ The Leader:
 
 The team:
 
-1. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas. When you combine knowledge, energy and skills of a team which is motivated, evry goal is achievable.
+1. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas
 
 2. Everybody is working toward the same goals.
 
@@ -213,10 +211,6 @@ The outstanding work (or backlog) is often on the vertical axis, with time along
 
 Burn up chart shows how much work has been completed, and the total amount of work.
 
-## Technical debt
-
-Technical debt (also known as design debt or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
-
 ## ES5/ES6 
 
 Features: 
@@ -243,7 +237,7 @@ module imports
 
 ## REACT Life Cycle states
 
-Lifecycle methods (with the exception of constructor) are hard to reason about. They are used to free up resources, and  add complexity to your app. Don’t use them unless you must.
+Lifecycle methods (with the exception of constructor) are hard to reason about. They add complexity to your app. Don’t use them unless you must.
 
 1. Mounting
 
@@ -272,7 +266,7 @@ If you need to load data, here’s where you do it. Don’t try to load data in 
 
 Most Common Use Case for componentDidMount: Starting AJAX calls to load in data for your component.
 
-5. getDerivedStateFromProps (2 extended). 
+5. getDerivedStateFromProps
 
 If you need to update your state based on a prop changing, you can do it here by returning a new state object.
 
@@ -342,9 +336,7 @@ Most Common Use Case for componentDidCatch: Catching and logging errors.
 
 OutSystems is a low-code platform for the development of enterprise web and mobile applications, which run in the cloud, on-premises or in hybrid environments. The current version is 11, for both the paid and unpaid versions - developers are permitted personal cloud environments to use the platform without charge.
 
-## JavaScript Design Patterns 
-
-- https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
+## JavaScript Design Patterns - https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
 
 Developermust  strive to write maintainable, readable, and reusable code. Code structuring becomes more important as applications become larger. Design patterns prove crucial to solving this challenge - providing an organization structure for common issues in a particular circumstance.
 
@@ -780,3 +772,85 @@ No one likes a boss who is constantly looking over her shoulder and second-guess
 7. Avoid useless meetings
 
 Meetings can be an incredible waste of time--the average professional wastes 3.8 hours in unproductive meetings each and every week. Create an agenda for your meetings and distribute it in advance. Invite only the people who really need to attend, start the meeting on time, and then end it as quickly as you possibly can.
+
+## Cloud Computing - Architecting for High Availability
+
+1. Design for Failure - Horizontal scaling : Elastic IPs, EBS, EC2, Cloud Watch
+
+2. Multiplle Availability Zones - Offset natural disaster (Low prone disaster zones)
+
+3. Scaling
+
+4. Loose Coupling
+
+5. Self Healing (Policy - Responsive to Peaks[Calculated and abrupt])
+
+
+## Functional and NFR (Non functional requirements)
+
+1. Functional
+
+Functional requirement (FR) focus on the behavioral aspects.
+
+2. NFR
+
+NFRs are the requirements defined to cover the operational aspects of a product or an app.
+
+Efficiency 
+
+Portability 
+
+security 
+
+Reliability 
+
+Usability
+
+## Cloud Architectures
+
+1. SaaS (Software as a Service) applications are designed for end-users, delivered over the web.
+
+SaaS is a software distribution model in which applications are hosted by a vendor or service provider and made available to customers over a network, typically the Internet.
+
+With Saas model you are provided with access to application softwares often referred to as on-demand softwares. You don't have to worry about the installation, setup and running of the application. Service provider will do that for you. You just have to pay and use it through some client.
+
+Example: Google Apps, Microsoft Office 365.
+
+
+2. PaaS
+
+PaaS (Platform as a Service) is the set of tools and services designed to make coding and deploying those applications quick and efficient over the Internet.
+
+The model is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage web applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app - via the browser.
+
+Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, and Apache Stratos. IaaS (Infrastructure as a Service), is the hardware and software that powers it all – servers, storage, networks, operating system.
+
+
+3. IaaS
+
+IaaS provides you the computing infrastructure, physical or (quite often) virtual machines and other resources like virtual-machine disk image library, block and file-based storage, firewalls, load balancers, IP addresses, virtual local area networks etc.
+
+Examples: Amazon EC2, Windows Azure, Rackspace, Google Compute Engine. Additional points to note:
+
+AWS(Amazon web services) is a complete suite which involves a whole bunch of useful web services. Most popular are EC2 and S3 and they belong to IaaS s
+
+Windows Azure is both a PaaS and IaaS.
+
+
+## Continuous Integration and Continuous Delivery
+
+1. Maintain a code repository.
+
+2. Automate your build.
+
+3. Make your build self-testing.
+
+4. Daily commits to the baseline by everyone on the team.
+
+5. Every commit (to the baseline) should be built.
+
+6. Keep your builds fast.
+
+7. Clone the production environment and test there.
+
+
