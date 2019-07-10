@@ -111,7 +111,7 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 3. Accountability. 
 
-4. Provide Source of INSPIRATION - Inspire Others.
+4. Provide Source of Inspiration - Inspire Others.
 
 5. Show Commitment and Passion
 
@@ -201,7 +201,7 @@ The team:
 7. Accountable for end to end delivery of the products and services. Holding each one responsible.
 
 
-## SPRINT BURN DOWN CHARTS
+## SPRINT BURN DOWN CHARTS - KPI Measurement.
 
 The Sprint Burndown Chart makes the work of the Team visible. It is a graphic representation that shows the rate at which work is completed and how much work remains to be done over the SPRINT period. The chart slopes downward over Sprint duration and across Story Points completed.
 
@@ -243,13 +243,23 @@ Lifecycle methods (with the exception of constructor) are hard to reason about. 
 
 constructor:
 
-The first thing that gets called is your component constructor, if your component is a class component. This does not apply to functional components.
+The first thing that gets called is your component constructor, if your component is a class component. This does not apply to functional components i.e REACT Hooks.
 
 Most Common Use Case For Constructor: Setting up state, creating refs and method binding.
 
 2. getDerivedStateFromProps 
 
 When mounting, getDerivedStateFromProps is the last method called before rendering.
+If you need to update your state based on a prop changing, you can do it here by returning a new state object.
+
+Here’s some examples:
+
+i. resetting a video or audio element when the source changes
+ii. refreshing a UI element with updates from the server
+iii. closing an accordion element when the contents change
+
+
+Note: Even with the above cases, there’s usually a better way to do it. But getDerivedStateFromProps will have your back when worst comes to worst.
 
 
 3. render
@@ -266,20 +276,8 @@ If you need to load data, here’s where you do it. Don’t try to load data in 
 
 Most Common Use Case for componentDidMount: Starting AJAX calls to load in data for your component.
 
-5. getDerivedStateFromProps
 
-If you need to update your state based on a prop changing, you can do it here by returning a new state object.
-
-Here’s some examples:
-
-i. resetting a video or audio element when the source changes
-ii. refreshing a UI element with updates from the server
-iii. closing an accordion element when the contents change
-
-
-Note: Even with the above cases, there’s usually a better way to do it. But getDerivedStateFromProps will have your back when worst comes to worst.
-
-6. shouldComponentUpdate
+5. shouldComponentUpdate
 
 Typical React dogma says that when a component receives new props, or new state, it should update.
 
@@ -290,7 +288,7 @@ Here’s what we get — a shouldComponentUpdate method, called with nextPro
 shouldComponentUpdate should always return a boolean. If you’re worried about wasted renders, (i.e Age authentication) shouldComponentUpdate is an awesome place to improve performance.
 
 
-7. getSnapshotBeforeUpdate
+6. getSnapshotBeforeUpdate
 
 
 Note it’s called between render and the updated component actually being propagated to the DOM. It exists as a last-chance-look at your component with its previous props and state.
@@ -299,7 +297,7 @@ You should either return null or a value from getSnapshotBeforeUpdate.
 
 Most Common Use Case: Taking a look at some attribute of the current DOM, and passing that value on to componentDidUpdate.
 
-8. componentDidUpdate
+7. componentDidUpdate
 
 Now, our changes have been committed to the DOM.
 
@@ -307,7 +305,7 @@ In componentDidUpdate, we have access to three things: the previous props, the p
 
 Most Common Use Case for componentDidUpdate: Reacting  to committed changes to the DOM.
 
-9. componentWillUnmount
+8. componentWillUnmount
 
 Your component is going to go away. Maybe forever. It’s very sad.
 
@@ -316,18 +314,18 @@ Before it goes, it asks if you have any last-minute requests.
 Here you can cancel any outgoing network requests, or remove all event listeners associated with the component.
 
 
-10. getDerivedStateFromError
+9. getDerivedStateFromError
 
 i.e Something broke. Not in your component itself, but one of its descendants.
 
-11. ComponentDidCatch
+10. ComponentDidCatch
 
 It is triggered when an error occurs in a child component.
 
 The difference is rather than updating state in response to an error, we can now perform any side effects, like logging the error.
 
 
-12. Note that componentDidCatch only works for errors in the render/lifecycle methods. If your app throws an error in a click handler, it will not be caught.
+ Note that componentDidCatch only works for errors in the render/lifecycle methods. If your app throws an error in a click handler, it will not be caught.
 
 Most Common Use Case for componentDidCatch: Catching and logging errors.
 
@@ -510,6 +508,115 @@ A logical extension of Continuous Integration, It is based on the use of smart a
 The ultimate goal of continuous delivery is to minimise the iteration time of the code-test-deliver-measure experimentation cycle. Increasing deliverable throughput in this way is the key to not only more feature work being delivered but higher quality code as well. This might seem counter-intuitive at first but code is fixed and polished through that same cycle and less time spent on deployment is more time spent on designing quality code. - https://github.com/kukuu/AGILITY 
 
 
+## How to motivate your team
+
+Teams are the way that most companies get important work done. When you combine the energy, knowledge, and skills of a motivated group of people, then you and your team can accomplish anything you set your minds to.
+
+Hi-lighted below are some mistakes leaders make that drive away their top talent. Rule of thumb, "Reflect on your behavior, fix these mistakes, and get ready to boost your team performance and motivation."
+1. Pay your people what they are worth
+
+When you set your employees' salaries, be sure that their pay is consistent with what other companies in your industry and geographic area are paying. Remember: 26 percent of engaged employees say that they would leave their current job for just a 5 percent increase in pay. Don't lose great people because you're underpaying them.
+
+2. Provide them with a pleasant place to work
+
+Everyone wants to work in an office environment that is clean and stimulating, and that makes them feel good instead of bad. You don't have to spend a lot of money to make an office a more pleasant place to be.
+
+3. Offer opportunities for self-development
+
+The members of your team will be more valuable to your organization, and to themselves, when they have opportunities to learn new skills. Provide your team with the training they need to advance in their careers and to become knowledgeable about the latest technologies and industry news.
+
+4. Foster collaboration within the team
+
+Encourage the members of your team to fully participate by inviting their input and suggestions on how to do things better. Ask questions, listen to their answers, and, whenever possible, implement their solutions. Ensure retrospectives are continuously engaged.
+
+5. Encourage happiness
+
+Happy employees are enthusiastic and positive members of the team, and their attitude is infectious. Keep an eye on whether or not your people are happy with their work, their employer, and you. If they're not, you can count on this unhappiness to spread.
+
+4. Don't punish failure
+
+We all make mistakes. It's part of being human. The key is to learn valuable lessons from those mistakes so we don't make them again. When members of your team make honest mistakes, don't punish them--instead, encourage them to try again. Note the principle of fail fast in Agile.
+
+5. Set clear goals
+
+Sizeable amount of Employees have reported that they wasted time at work because they weren't aware of what work was a priority, and what wasn't. As a leader, it's your job to work with the members of your team to set clear goals. And once you do that, make sure everyone knows exactly what those goals are, what their relative priority is, and what the team's role is in reaching them.
+
+6. Don't micromanage
+
+No one likes a boss who is constantly looking over her shoulder and second-guessing her every decision. Sizeable percent of employees have reported that they would rather take on unpleasant activities than sit next to a micromanaging boss. Provide your people with clear goals, and then let them figure out the best way to achieve them.
+
+7. Avoid useless meetings
+
+Meetings can be an incredible waste of time--the average professional wastes 3.8 hours in unproductive meetings each and every week. Create an agenda for your meetings and distribute it in advance. Invite only the people who really need to attend, start the meeting on time, and then end it as quickly as you possibly can.
+
+
+## Steps to Helping Your Team Advance
+
+1. Discuss Goals. The first step is to sit down with each team member and discuss her desired career goals. 
+
+2. Identify Your Team's Development Gaps.
+
+3. Establish Specific Training Objectives. 
+
+4. Celebrate and Make it Fun.
+
+## Essential Steps to Develop Your Team
+
+1. Ensure that each person truly understands their role.
+
+2. Provide training and development tools. 
+
+3. Step away and let them do their job. 
+
+4. Meet with team members regularly to discuss goals. ...
+
+5. Game plan for their growth.
+
+
+## Straightforward strategies to help improve teamwork in your startup today:
+
+1. Lead by example.
+
+2. Build up trust and respect.
+
+3. Encourage socializing.
+
+4. Cultivate open communication.
+
+5. Clearly outline roles and responsibilities.
+
+6. Organize team processes.
+
+7. Set defined goals.
+
+8. Recognize good work.
+
+
+## Factors of Successful Teams: The Keys to Ensure High Team Performance
+
+1. Cohesiveness -  The first factor to consider is how cohesive members are with one another.
+
+Once a team is highly cohesive, a member’s commitment and willingness to strive for excellence thrives. Team cohesion affects the extent to which members like one another, get along with each other, and trust and respect one another’s abilities and opinions. 
+
+Although these characteristics are difficult to observe, managers can look for signs that team members are well-acquainted past superficial meet-and-greet topics. Managers can also determine whether team members equally participate in group discussions and activities rather than forming cliques or subgroups of cohesive units.
+
+2. Communication -  Efficient communication mechanisms are crucial to develop effective teams.
+
+3. Groupthink -  This is when a group in a team tend to suppress the thinking and development of others.
+
+Other signs of groupthink include individual conformity, apathy toward team goals and outcomes, peer-pressure exerted by leaders within the team, and discussions that tend to be one-sided.
+
+4. Homogeneity -  Having the right ballanced composed members in the team. 
+
+It is the extent to which members are similar or different to one another. The difficulty for most project managers is finding the right balance between overly homogenous and overly heterogeneous teams. When evaluating team homogeneity, a manager can consider similarities and differences in personal characteristics, education, skills, abilities, generational backgrounds, cultural background, and income levels.
+
+5. Role Identity -  Role identity is the extent to which members are capable of assuming different roles throughout the team structure, thus diversifying efforts and developing subject matter experts. Delegating by having experts in different disciplines . Empowerment. 
+
+6. Stability -  Teams that have higher turnover rates experience higher levels of group cohesion, better communication methods, and more effective role identity.
+
+7. Team Size - By evaluating a team’s size, managers are able to maximize productivity to ensure high levels of team performance. The greater number of members within a team the more resources available to achieve a goal. However, as team size increases, so does the number of conflicts resulting in decreased levels of cohesion and inefficient productivity. To evaluate whether a team is too large or small, managers must consider how effectively and harmoniously members work together and whether the required tasks are being efficiently accomplished by all members of the team.
+
+
 ## Achieving CD
 
 1. The process for releasing/deploying software MUST be repeatable and reliable. 
@@ -552,7 +659,7 @@ ii. Request/reply-style communication is more complex
 
 iii. Client needs to discover location of message broker
 
-## Seting up a  microservice team
+## Seeting up a  microservice team
 
 1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
 	is Developing services should not   require knowledge of the infrastructure and changing 
@@ -729,49 +836,6 @@ Features of SOA:
 
 4. Service compatibility is based on policy
 
-## Motivating your teams
-
-Teams are the way that most companies get important work done. When you combine the energy, knowledge, and skills of a motivated group of people, then you and your team can accomplish anything you set your minds to.
-
-Hi-lighted below are some mistakes leaders make that drive away their top talent. Rule of thumb, "Reflect on your behavior, fix these mistakes, and get ready to boost your team performance and motivation."
-
-## How to motivate your team
-
-1. Pay your people what they are worth
-
-When you set your employees' salaries, be sure that their pay is consistent with what other companies in your industry and geographic area are paying. Remember: 26 percent of engaged employees say that they would leave their current job for just a 5 percent increase in pay. Don't lose great people because you're underpaying them.
-
-2. Provide them with a pleasant place to work
-
-Everyone wants to work in an office environment that is clean and stimulating, and that makes them feel good instead of bad. You don't have to spend a lot of money to make an office a more pleasant place to be.
-
-3. Offer opportunities for self-development
-
-The members of your team will be more valuable to your organization, and to themselves, when they have opportunities to learn new skills. Provide your team with the training they need to advance in their careers and to become knowledgeable about the latest technologies and industry news.
-
-4. Foster collaboration within the team
-
-Encourage the members of your team to fully participate by inviting their input and suggestions on how to do things better. Ask questions, listen to their answers, and, whenever possible, implement their solutions. Ensure retrospectives are continuously engaged.
-
-5. Encourage happiness
-
-Happy employees are enthusiastic and positive members of the team, and their attitude is infectious. Keep an eye on whether or not your people are happy with their work, their employer, and you. If they're not, you can count on this unhappiness to spread.
-
-4. Don't punish failure
-
-We all make mistakes. It's part of being human. The key is to learn valuable lessons from those mistakes so we don't make them again. When members of your team make honest mistakes, don't punish them--instead, encourage them to try again. Note the principle of fail fast in Agile.
-
-5. Set clear goals
-
-Sizeable amount of Employees have reported that they wasted time at work because they weren't aware of what work was a priority, and what wasn't. As a leader, it's your job to work with the members of your team to set clear goals. And once you do that, make sure everyone knows exactly what those goals are, what their relative priority is, and what the team's role is in reaching them.
-
-6. Don't micromanage
-
-No one likes a boss who is constantly looking over her shoulder and second-guessing her every decision. Sizeable percent of employees have reported that they would rather take on unpleasant activities than sit next to a micromanaging boss. Provide your people with clear goals, and then let them figure out the best way to achieve them.
-
-7. Avoid useless meetings
-
-Meetings can be an incredible waste of time--the average professional wastes 3.8 hours in unproductive meetings each and every week. Create an agenda for your meetings and distribute it in advance. Invite only the people who really need to attend, start the meeting on time, and then end it as quickly as you possibly can.
 
 ## Cloud Computing - Architecting for High Availability
 
@@ -837,6 +901,24 @@ AWS(Amazon web services) is a complete suite which involves a whole bunch of use
 Windows Azure is both a PaaS and IaaS.
 
 
+## DevOps
+
+DevOps is a software development approach which involves continuous development, continuous testing, continuous integration, continuous deployment, and continuous monitoring of the software throughout its development lifecycle.
+
+Meanwhile, in every step, if there is an error, you can shoot an email back to the development team so that they can fix it. Then they will push it into the version control system and it goes back into the pipeline.
+
+Using Jenkins 
+
+From Git, Jenkins pulls the code and then Jenkins moves it into the commit phase, where the code is committed from every branch. The build phase is where we compile the code. If it is Java code, we use tools like maven in Jenkins and then compile that code, which can be deployed to run a series of tests. These test cases are overseen by Jenkins again.
+
+Then, it moves on to the staging server to deploy it using Docker. After a series of unit tests or sanity tests, it moves on to production.
+
+Docker is just like a virtual environment in which we can create a server. It takes a few seconds to create an entire server and deploy the artifacts we want to test. But here the question arises:
+
+Why do we use Docker?
+
+As we said earlier, you can run the entire cluster in a few seconds. We have a storage registry for images where you build your image and store it forever. You can use it anytime in any environment which can replicate itself.
+
 ## Continuous Integration and Continuous Delivery
 
 1. Maintain a code repository.
@@ -852,5 +934,4 @@ Windows Azure is both a PaaS and IaaS.
 6. Keep your builds fast.
 
 7. Clone the production environment and test there.
-
 
