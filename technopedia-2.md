@@ -56,6 +56,15 @@ Because ReactJS helps to prevent updating of DOM, it means that the apps will be
 
  Babel is a JavaScript compiler. Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 
+## REACT best practices
+
+1. Linting
+
+ES Lint - https://eslint.org/ 
+
+Airbnb’s JavaScript Style Guide.- https://github.com/airbnb/javascript 
+
+ React ESLint Package. - https://www.npmjs.com/package/eslint-plugin-react
 
 ## What are the 5 Scrum ceremonies?
 
