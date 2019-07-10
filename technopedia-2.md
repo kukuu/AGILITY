@@ -115,7 +115,7 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 5. Show Commitment and Passion
 
-6. Good Communicator.
+6. Good Communicator. Empathetic. Emotional stability 
 
 7. Have decision-Making Capabilities.
 
@@ -126,6 +126,8 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 10. Clearly defines goals
 
 11. Helps to refine the knowledge base
+
+12. Self assurance.
 
 
 ## Tracking the metrics / KPI (of the team)
@@ -206,20 +208,7 @@ The outstanding work (or backlog) is often on the vertical axis, with time along
 
 Burn up chart shows how much work has been completed, and the total amount of work.
 
-## Traits of good Line Management & Essential Management  skills
-
-Qualities of good line management:
-1. Communicate well, be clear on vision to meet the needs of  both their employees  and bosses.
-2. Emotional stability 
-3. Enthusiasm 
-4. Self assurance 
-5. The understanding by a manager that members of a team strive to reach  their own personal  goals, as well as their teams.
-6. Finding time for team members to discuss their strength and work on their weaknesses. 
-7. Empathy allows one to identify gaps.
-8. When you  work in a team it gives you sense of belonging.
-
-
-Essential Management  skills:
+##  Essential Management  skills
 
 1. Planning
 2. Communication 
