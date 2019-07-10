@@ -225,7 +225,7 @@ Burn up chart shows how much work has been completed, and the total amount of wo
 4. Delegation
 5. Problem solving
 6. Motivation - https://github.com/kukuu/AGILITY/blob/master/motivation.md
-7. Demo strait g appropriate style of Management - https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
+7. Demonstrate appropriate style of Management - https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
 
 
 ## Five Essential Project Management Skills
