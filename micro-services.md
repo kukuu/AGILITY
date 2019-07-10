@@ -67,6 +67,34 @@ A very good robust and scalable API Gateway must time out calls that exceed the 
 
 For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
 
+## Architecture
+
+The tier systems - https://github.com/kukuu/AGILITY/blob/master/white-paper/tier-layer-README.md
+
+Monolith - https://github.com/kukuu/AGILITY/blob/master/white-paper/monolith.jpg
+
+microservice model : https://github.com/kukuu/digitalTransformationStrategies/blob/master/MICRO-SERVICES-oriented%20Architecture.png
+
+SOA with Enterprise Service Bus (ESB) - https://github.com/kukuu/AGILITY/blob/master/white-paper/SOA.png
+
+ Monolith vs Microservice - https://github.com/kukuu/AGILITY/blob/master/white-paper/monolithic_vs_microservices.jpg
+
+SOA vs Microservices
+
+i. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md
+
+ii. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png
+
+Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png
+
+Microservice Applications:
+
+i. NodeJS, Express, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS
+
+ii. NodeJS/NGINX/Docker - https://github.com/kukuu/microservices-nodejs-docker-nginx
+
+iii. NodeJS, MongoDB, Docker Swarm, Notification - https://github.com/kukuu/cinema-microservice
+
 ## Applications
 
 i. API - NodeJS, Express Framework, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
