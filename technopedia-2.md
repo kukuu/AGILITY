@@ -336,7 +336,7 @@ Meetings can be an incredible waste of time--the average professional wastes 3.8
 5. Game plan for their growth.
 
 
-## Straightforward strategies to help improve teamwork in your startup today:
+## Straight forward strategies to help improve teamwork in your startup today:
 
 1. Lead by example.
 
@@ -660,7 +660,7 @@ ii. Request/reply-style communication is more complex
 
 iii. Client needs to discover location of message broker
 
-## Seeting up a  microservice team
+## Setting up a  microservice team
 
 1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
 	is Developing services should not   require knowledge of the infrastructure and changing 
