@@ -575,4 +575,6 @@ Codeship
 
 35. Leadership quality - https://github.com/kukuu/AGILITY/blob/master/white-paper/leadership-qualities.jpg
 
-36. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+36. DevOps - https://github.com/kukuu/AGILITY/blob/master/devops.md
+
+37. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
