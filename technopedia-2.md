@@ -611,6 +611,8 @@ Is the leading cloud software platform worldwide for drone mapping and 3D modeli
 ## Continuous Delivery (RRASc)
 
 Reliable :: Repeatable :: Automation :: Source control
+
+
 CD is the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way.
 
 A logical extension of Continuous Integration, It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. Manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
