@@ -35,3 +35,78 @@ You will need a  Consul to store and  manage service states.
 	11.	The new build is now online.
 
 
+## Docker File:  Configuration infrastructure code
+
+```
+FROM node: latest
+
+COPY . /src
+
+WORKDIR  /src
+
+RUN npm install --production
+
+EXPOSE 3000
+
+CMD  npm start
+
+```
+
+
+## Micro-service Docker Compose file - For a NodeJS Micro-service
+
+```
+version: '3'
+
+services: 
+    web: 
+      build: './web'
+      ports:
+        - "3000: 3000"
+
+    serach: 
+      build: './serach'
+      ports:
+        - "3001: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI = mongo://db/microservices
+
+    books: 
+      build: './books'
+      ports: 
+        - "3002: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI=mongodb://db/microservices
+
+    videos:
+      build: './videos'
+      ports: 
+        - "3003: 3000"
+      depends_on: 
+        - db
+      environment: 
+        - MONGO_DB_URI = mongo://db/microservices
+
+    db: 
+      image: mongo:latest
+      ports: 
+        - "27018:27018"
+
+    nginx: 
+      image: nginx:latest
+      ports: 
+        - "8080"
+      volumes: 
+        - ./web/public:/svr/www/static
+        -  ./default/.conf:/etc/nginx/conf.d/default.conf
+      depends_on:
+          - web
+          - serach
+          - books
+          - videos
+
+```
