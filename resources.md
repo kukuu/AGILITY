@@ -232,9 +232,9 @@ https://medium.com/better-programming/keep-your-users-constantly-occupied-ff8ba0
 ### JavaScript and React unit tests basics
 https://medium.com/feedzaitech/javascript-and-react-unit-tests-basics-324e93dfc64c
 
-### https://itnext.io/redux-observable-can-solve-your-state-problems-15b23a9649d7
-Redux-Observable Can Solve Your State Problems
-Solving Common Async State Issues
+### Redux-Observable Can Solve Your State Problems - Solving Common Async State Issues
+https://itnext.io/redux-observable-can-solve-your-state-problems-15b23a9649d7
+
 
 
 ### How to Set Up a CI/CD Pipeline From Scratch
