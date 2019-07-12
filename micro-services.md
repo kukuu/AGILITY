@@ -23,6 +23,22 @@ ii. Request/reply-style communication is more complex
 
 iii. Client needs to discover location of message broker
 
+
+## Challenges and bottlenecks to Micro-services
+
+Direct Client‑to‑Microservice Communication
+In theory, a client could make requests to each of the microservices directly. Each microservice would have a public endpoint (https://serviceName.api.company.name). This URL would map to the microservice’s load balancer, which distributes requests across the available instances. To retrieve the product details, the mobile client would make requests to each of the services listed above.
+
+Unfortunately, there are challenges and limitations with this option.
+
+One problem is the mismatch between the needs of the client and the fine‑grained APIs exposed by each of the microservices. The client in this example has to make posibly a number of separate requests. In more complex applications it might have to make many more. While a client could make that many requests over a LAN, it would probably be too inefficient over the public Internet and would definitely be impractical over a mobile network. This approach also makes the client code much more complex.
+
+Another problem with the client directly calling the microservices is that some might use protocols that are not web‑friendly. One service might use Thrift binary RPC while another service might use the AMQP messaging protocol. Neither protocol is particularly browser‑ or firewall‑friendly and is best used internally. An application should use protocols such as HTTP and WebSocket outside of the firewall.
+
+Another drawback with this approach is that it makes it difficult to refactor the microservices. Over time we might want to change how the system is partitioned into services. For example, we might merge two services or split a service into two or more services. If, however, clients communicate directly with the services, then performing this kind of refactoring can be extremely difficult. Because of these kinds of problems it rarely makes sense for clients to talk directly to microservices.
+
+
+
 ## Seting up a  microservice team
 
 1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
