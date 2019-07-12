@@ -81,51 +81,25 @@ and you want to deploy it over the cloud,  you would choose something like Herok
 which is an example of PaaS.
 
 
-
-## Microservices
-
-
-
-
-Loose coupling::individual deployment:: repeatable deployment can only be achieved by repeatble context ==> containerisation
-Microservices enforce loose coupling, plus it’s easier to develop fast and reliable deployment pipelines if they only have to handle small packages.
-
-However, note microservices introduced a new problem: if adding a feature was often going to require adding a new, independently deployed and hosted service then that process had to be fast and not require any specialist knowledge.
-
-Demanding that every single developer in the company learn the intricacies of maintaining Puppet configuration for all their services would have been impractical and more than a little cruel.
-
-Resolution:
-
-1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
-	is Developing services should not   require knowledge of the infrastructure and changing 
-	infrastructure should not require detailed knowledge of the services running on it. 
-	If we need to change the hostname or port a service runs on it should require no changes
-	to the service itself.
-
-2.	All project configuration—from build process to health monitoring—must be contained within the 
-	project repository. Anything else introduces hidden dependencies for deployment that threaten
-	to break the pipeline and require specialist knowledge to debug.
-
-3.	The above configuration should be declarative and not require adding dependencies to the project.
-
-4.   Use Containerisation
-
-
-
 ## The TWELVE-FACTOR App
 
 The twelve-factor app is a methodology for building software-as-a-service apps that:
 ```
-i. Use declarative formats for setup automation, to minimize time and cost for new developers joining the project
+i. Use declarative formats for setup automation, to minimize time and cost for new developers 
+joining the project
 
-ii. Have a clean contract with the underlying operating system, offering maximum portability between execution environments
+ii. Have a clean contract with the underlying operating system, offering maximum portability 
+between execution environments
 
-iii. Are suitable for deployment on modern cloud platforms, obviating the need for servers and systems administration
+iii. Are suitable for deployment on modern cloud platforms, obviating the need for servers
+and systems administration
 
-iv. Minimize divergence between development and production, enabling continuous deployment for maximum agility
+iv. Minimize divergence between development and production, enabling continuous deployment 
+for maximum agility
 
 v. Scales up without significant changes to tooling, architecture, or development practices.
-The twelve-factor methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
+The twelve-factor methodology can be applied to apps written in any programming language, and 
+which use any combination of backing services (database, queue, memory cache, etc).
 
 - https://12factor.net
 
