@@ -110,3 +110,10 @@ services:
           - videos
 
 ```
+
+
+## Resources 
+
+1. Containers - https://github.com/kukuu/AGILITY/blob/master/containerisation.md
+
+2. Docker - https://github.com/kukuu/AGILITY/tree/master/docker
