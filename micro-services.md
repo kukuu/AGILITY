@@ -87,14 +87,6 @@ ii. https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-a
 
 Micro-services API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png
 
-Microservice Applications:
-
-i. NodeJS, Express, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS
-
-ii. NodeJS/NGINX/Docker - https://github.com/kukuu/microservices-nodejs-docker-nginx
-
-iii. NodeJS, MongoDB, Docker Swarm, Notification - https://github.com/kukuu/cinema-microservice
-
 ## Applications
 
 i. API - NodeJS, Express Framework, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
@@ -106,3 +98,9 @@ iii. Node, MongoDB, Docker Swarm - https://github.com/kukuu/cinema-microservice
 iv. from monolithic  to micro services - https://www.youtube.com/watch?v=xydpSPdglQw 
 
 v. Communication Between Microservices - https://stackify.com/communication-microservices-avoid-common-problems/ 
+
+## Resources 
+
+1. Containers - https://github.com/kukuu/AGILITY/blob/master/containerisation.md
+
+2. Docker - https://github.com/kukuu/AGILITY/tree/master/docker
