@@ -235,3 +235,36 @@ https://medium.com/feedzaitech/javascript-and-react-unit-tests-basics-324e93dfc6
 ## https://itnext.io/redux-observable-can-solve-your-state-problems-15b23a9649d7
 Redux-Observable Can Solve Your State Problems
 Solving Common Async State Issues
+
+
+## How to Set Up a CI/CD Pipeline From Scratch
+https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch - blog
+
+## How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger
+https://levelup.gitconnected.com/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649
+
+
+## Did you know — createReducer Works with React Hooks. 
+https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f
+
+## Communication Between Microservices: How to Avoid Common Problems 
+https://stackify.com/communication-microservices-avoid-common-problems/
+
+## How To Write Better Code in React
+https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
+
+
+## Real world React learnings, part one
+https://blog.usejournal.com/real-world-react-learnings-part-one-3d6fe9f2b4e1
+
+## Why I’m excited with React Hooks?
+https://itnext.io/why-im-excited-with-react-hooks-5a8601ac43f7
+
+## How to convert React class components to function components using Hooks
+https://medium.com/free-code-camp/how-to-convert-react-class-components-to-function-components-using-hooks-68d64e394061
+
+
+## React and Redux with Typescript
+https://medium.com/@emmanuel.ponnudurai/react-and-redux-with-typescript-42823d09eccc
+
+
