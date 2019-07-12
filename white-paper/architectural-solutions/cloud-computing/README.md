@@ -9,9 +9,11 @@ Characteristics associated with Cloud Computing services include:
 
 ```
 
-i. On-demand self-service. The ability for an end user to sign up and receive services without the long delays that have characterized traditional IT normally using thin client like the Browser.
+i. On-demand self-service. The ability for an end user to sign up and receive services without the
+long delays that have characterized traditional IT normally using thin client like the Browser.
 
-ii. Broad network access. Ability to access the service via standard platforms (desktop, laptop, mobile etc)
+ii. Broad network access. Ability to access the service via standard platforms (desktop, laptop,
+mobile etc)
 
 iii. Resource pooling. Resources are pooled across multiple customers.
 
