@@ -103,4 +103,6 @@ ii. NodeJS/NGINX/Docker  - https://github.com/kukuu/microservices-nodejs-docker-
 
 iii. Node, MongoDB, Docker Swarm - https://github.com/kukuu/cinema-microservice
 
-iv. from monolithic  to micro services - https://www.youtube.com/watch?v=xydpSPdglQw
+iv. from monolithic  to micro services - https://www.youtube.com/watch?v=xydpSPdglQw 
+
+v. Communication Between Microservices - https://stackify.com/communication-microservices-avoid-common-problems/ 
