@@ -6,6 +6,7 @@ When you choose to build your application as a set of microservices, you need to
 
 Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol. Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels. Examples of asynchronous messaging technologies are Apache Kafka and RabbitMQ.
 
+
 ## Benefits of Micro-services:
 
 1. Loose coupling since it decouples client from services
@@ -66,6 +67,15 @@ The API Gateway could also return cached data if that was available. The data ca
 A very good robust and scalable API Gateway must time out calls that exceed the specified threshold. It implements a circuit breaker pattern, which stops the client from waiting needlessly for an unresponsive service, can be added to the model's implementation. If the error rate for a service exceeds a specified threshold, it could trip a circuit breaker and all requests will fail immediately for a specified period of time. The module should define a fallback action when a request fails, such as reading from a cache or returning a default value.
 
 For most microservices‑based applications, it makes sense to implement an API Gateway, which acts as a single entry point into a system. The API Gateway is responsible for request routing, composition, and protocol translation. It provides each of the application’s clients with a custom API. The API Gateway can also mask failures in the backend services by returning cached or default data.
+
+### Summary
+
+```
+
+The microservices architecture is a design approach to build a single application as a set of small modular services. Each service runs in its own process and communicates with other services through a well-defined interface using a lightweight mechanism, typically an HTTP-based application programming interface (API). Microservices are built around business capabilities; each service is scoped to a single purpose, and supports a busimess goal. You can use different frameworks or programming languages to write microservices and deploy them independently, as a single service, or as a group of services.
+
+
+```
 
 ## Architecture
 
