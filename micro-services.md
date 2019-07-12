@@ -120,3 +120,5 @@ v. Communication Between Microservices - https://stackify.com/communication-micr
 1. Containers - https://github.com/kukuu/AGILITY/blob/master/containerisation.md
 
 2. Docker - https://github.com/kukuu/AGILITY/tree/master/docker
+
+3. Implementing API Gateway - https://github.com/kukuu/AGILITY/blob/master/implementing-api-gateway.md
