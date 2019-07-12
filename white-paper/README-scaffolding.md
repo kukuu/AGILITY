@@ -583,4 +583,6 @@ Codeship
 
 39. CI/CD - https://github.com/kukuu/AGILITY/blob/master/Deltas-%20CI-ContinuousDeployment-ContinuousDelivery.md
 
-39. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
+40. Micro-services - https://github.com/kukuu/AGILITY/blob/master/micro-services.md
+
+41. The FizzBuzz coding exercise -  https://github.com/kukuu/siliconlabs/blob/master/fizzBuzz/fizzbuzz.md
