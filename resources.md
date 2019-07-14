@@ -48,14 +48,12 @@ https://www.youtube.com/watch?v=Qw9zlE3t8Ko
 
 
 ### Docker Desktop
-The preferred choice for millions of developers that are building containerized applications
 https://hub.docker.com/?overlay=onboarding
 
 ## REST API & RESTful Web Services Explained
 https://www.youtube.com/watch?v=LooL6_chvN4 
 
 A question software engineers find hard to explain:
-
 
 Answering your question:
 
@@ -202,8 +200,6 @@ https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d
 https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea
 
 ### How To Write Better Code in React
-9 Useful tips for writing better code in React: Learn about Linting, propTypes, PureComponent and more.
-
 https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
 
 ### These React Fundamentals You Skip may be Killing You
@@ -217,13 +213,10 @@ If you’ve been watching the React ecosystem the past few years, you’ve surel
 https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646
 
 
-### Replacing Redux with React Hooks and Context: A small concrete example with…
-The Todo List example from Redux
-
+### Replacing Redux with React Hooks and Context
 https://levelup.gitconnected.com/redux-meets-hooks-for-non-redux-users-a-small-concrete-example-with-reactive-react-redux-6babc881639b
 
 ### Uploading Files in React While Keeping The UI Completely In Sync
-
 https://medium.com/better-programming/keep-your-users-constantly-occupied-ff8ba0b0e673
 
 
