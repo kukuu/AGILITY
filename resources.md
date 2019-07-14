@@ -198,9 +198,7 @@ https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d
 https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
 
 
-### Implementing Quicksort in JavaScript 
-Quicksort is one of the most efficient methods for sorting an array in computer science. For a thorough…
-
+### Implementing Quicksort in JavaScript
 https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea
 
 ### How To Write Better Code in React
