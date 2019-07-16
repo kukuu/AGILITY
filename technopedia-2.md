@@ -334,9 +334,7 @@ Most Common Use Case for componentDidCatch: Catching and logging errors.
 
 OutSystems is a low-code platform for the development of enterprise web and mobile applications, which run in the cloud, on-premises or in hybrid environments. The current version is 11, for both the paid and unpaid versions - developers are permitted personal cloud environments to use the platform without charge.
 
-## JavaScript Design Patterns 
-
-- https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
+## JavaScript Design Patterns - https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
 
 Developermust  strive to write maintainable, readable, and reusable code. Code structuring becomes more important as applications become larger. Design patterns prove crucial to solving this challenge - providing an organization structure for common issues in a particular circumstance.
 
@@ -970,4 +968,25 @@ As we said earlier, you can run the entire cluster in a few seconds. We have a s
 6. Keep your builds fast.
 
 7. Clone the production environment and test there.
+
+## Quicksort 
+
+This is one of the most efficient methods for sorting an array in computer science.
+
+Quicksort works by picking an element from the array and denoting it as the “pivot.” All other elements in the array are split into two categories — they are either less than or greater than this pivot element.
+
+Each of the two resulting arrays (array of values less-than-the-pivot and array of values greater-than-the-pivot) is then put through that very same algorithm. A pivot is chosen and all other values are separated into two arrays of less-than and greater-than values.
+
+Eventually, a sub-array will contain a single value or no value at all, as there will be no more values with which to compare it. The rest of the values were all denoted to be “pivots” at some previous point and did not trickle down to this lowest sub-array. At that point, the values will be sorted, as all values have now been declared as less than or greater than all other values in the array.
+
+## Using es6 Spread operator
+
+```
+export default function sum(...figures) {
+  return figures.reduce((total, current) => {
+    return total + current;
+  });
+}
+
+```
 
