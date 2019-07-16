@@ -48,12 +48,14 @@ https://www.youtube.com/watch?v=Qw9zlE3t8Ko
 
 
 ### Docker Desktop
+The preferred choice for millions of developers that are building containerized applications
 https://hub.docker.com/?overlay=onboarding
 
 ## REST API & RESTful Web Services Explained
 https://www.youtube.com/watch?v=LooL6_chvN4 
 
 A question software engineers find hard to explain:
+
 
 Answering your question:
 
@@ -196,10 +198,14 @@ https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d
 https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
 
 
-### Implementing Quicksort in JavaScript
+### Implementing Quicksort in JavaScript 
+Quicksort is one of the most efficient methods for sorting an array in computer science. For a thorough…
+
 https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea
 
 ### How To Write Better Code in React
+9 Useful tips for writing better code in React: Learn about Linting, propTypes, PureComponent and more.
+
 https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
 
 ### These React Fundamentals You Skip may be Killing You
@@ -213,10 +219,13 @@ If you’ve been watching the React ecosystem the past few years, you’ve surel
 https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646
 
 
-### Replacing Redux with React Hooks and Context
+### Replacing Redux with React Hooks and Context: A small concrete example with…
+The Todo List example from Redux
+
 https://levelup.gitconnected.com/redux-meets-hooks-for-non-redux-users-a-small-concrete-example-with-reactive-react-redux-6babc881639b
 
 ### Uploading Files in React While Keeping The UI Completely In Sync
+
 https://medium.com/better-programming/keep-your-users-constantly-occupied-ff8ba0b0e673
 
 
@@ -259,5 +268,33 @@ https://medium.com/free-code-camp/how-to-convert-react-class-components-to-funct
 https://medium.com/@emmanuel.ponnudurai/react-and-redux-with-typescript-42823d09eccc
 
 
-### JavaScript Unit Testing With Mocha JS & Chai 
+### TDD
+
+1. Quick TDD setup with Node, ES6, Gulp and Mocha
+i. https://www.adamcowley.co.uk/javascript/quick-test-driven-development-setup-with-node-es6-and-gulp/
+ii. https://www.youtube.com/watch?v=0AAIbEAyFxg
+iii. https://github.com/adam-cowley/quick-tdd-node
+
+2. Learn How to Set Up a CI/CD Pipeline 
+https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
+
+3. JavaScript Unit Testing With Mocha JS & Chai 
 https://www.youtube.com/watch?v=MLTRHc5dk6s
+
+4. Creating a Basic Chai Mocha Test
+https://www.youtube.com/watch?v=0AAIbEAyFxg
+
+5. My Node.js Setup (Mocha & Chai, Babel7, ES6)
+https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
+
+6. Unit Testing in React + Redux applications
+https://www.youtube.com/watch?v=r5lhmEoaWBM
+
+7. Testing "Rock Paper Scissors" in JavaScript with Mocha + Chai
+https://www.youtube.com/watch?v=ILB_pRFHjNU
+
+8. Intro To JavaScript Unit Testing With Mocha JS & Chai
+
+i. https://www.youtube.com/watch?v=MLTRHc5dk6s
+ii. https://www.chaijs.com
+iii. ttps://www.mochajs.org
