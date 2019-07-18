@@ -990,3 +990,53 @@ export default function sum(...figures) {
 
 ```
 
+## JAM Stack
+
+JAMSTACK  is a set of best practices and not a technology.
+Focuses on Build Time Rendering (changes responsibility of the backend). Other than Server Side. No need for backend to (publish) server side  rendering. The backend will contune to focus on the API Layer
+
+Technologies: Gatsby, GraphQL (gives a consistent API Layer). Keeps the Backend decoupled from the backend. No worries abot passing JSON up and down. You can configure the plugins for GrphQL to do this.
+
+Great for Blogs, eCommerce, Static Contents
+
+
+Downsides of JAM Stack
+i. Not good for Big DATA and Analytics
+ii. Not good for Real Time Systems
+iii. Non Developer interactions
+
+
+## REFS in REACT
+
+refs are used to get reference to a DOM(Document Object Model) node or an instance of a component in a React Application i.e. refs would return the node we are referencing .
+
+## Monolith to Microservice - Strategy
+
+
+Note any changes should not change the user experience. Just the underlying architecture. Changing architecture can allow the product serve multiple channels, IMPROVE USER EXPERIENCE AND ENHANCE EFFICIENCY.
+
+
+1. Define Business context
+
+2. Security
+
+3. Technology
+
+4. Architecture
+
+5. Configuration Management
+
+6. Monitoring
+
+7. Aggregating logs
+
+8. Deployment
+
+9. Documentation
+
+.................
+
+Implementation
+
+In the conversion we use a dispatcher proxy to the monolithic (legacy system) to capture requests and direct it to the micro-service
+ii. Use Apache config file to do re-write rule for the new urls (end points) - Apache's re-write engine switched on. Each URL with a string in it will be re-written.
