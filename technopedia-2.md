@@ -1040,3 +1040,17 @@ Implementation
 
 In the conversion we use a dispatcher proxy to the monolithic (legacy system) to capture requests and direct it to the micro-service
 ii. Use Apache config file to do re-write rule for the new urls (end points) - Apache's re-write engine switched on. Each URL with a string in it will be re-written.
+
+
+## Typescript
+
+Modules in typescript are loaded on demand. This enhances efficiency. Module loaders are hence required i.e SystemJS,RequireJS, Webpck, CommonJS.
+
+Some Typecsript features
+
+- Classes
+- Properties
+- Methods
+- Implementing Inheritance and Interfaces
+- Import and Export
+- Loading modules using module loader (System loading - On Demand Loading)
