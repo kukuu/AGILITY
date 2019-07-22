@@ -66,22 +66,53 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
  three artifacts: the product increment, product backlog, and sprint backlog.
 
 
-## Principles of Lean Software Development
+## Principles of Lean Software Development / High Performing Engineering team
 
-1. Eliminate Waste.
 
-2. Build Quality In
+The Leader:
 
-3. Create Knowledge
+1. Drives goal execution and are a catalyst for team performance
 
-4. Defer Commitment
+2. Sets the bar for performance
 
-5. Deliver Fast
+3. Sets the tone
 
-6. Respect People
+4. Communicate goals
 
-7. Optimize the Whole 
 
+The team:
+
+1. Everybody is working toward the same goals.
+
+2. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas
+
+3. Eliminate Waste.
+
+4. Build Quality In
+
+5. Create Knowledge
+
+6. A quick turn around 
+
+7. Minimum or no down time
+
+8. Defer Commitment
+
+9. Accountable for end to end delivery of the products and services. Holding each one responsible.
+
+10. Deliver Fast
+
+11. Mutual Respect from team members
+
+12. Optimize the Whole 
+
+13. A good ROI
+
+14. Meeting deadlines, and hiting targets from planning
+
+15. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
+
+16. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
 
 
 ## CODE REVIEW
@@ -165,40 +196,6 @@ The open and close rate is the number of issues or problems developers report an
 
 Downtime analysis is a measure of the mean time between failures (MTBF) and mean time to recover/repair (MTTR). This evaluates how well software performs in a production environment.
 
-
-
-## HIGH Performing engineering team
-
-The Leader:
-
-1. Drives goal execution and are a catalyst for team performance
-
-2. Sets the bar for performance
-
-3. Sets the tone
-
-4. Communicate goals
-
-
-The team:
-
-1. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas
-
-2. Everybody is working toward the same goals.
-
-2. A quick turn around 
-
-3. Minimum or no down time
-
-3. A good ROI
-
-4. Meeting deadlines, and hiting targets from planning
-
-5. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
-
-6. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
-
-7. Accountable for end to end delivery of the products and services. Holding each one responsible.
 
 
 ## SPRINT BURN DOWN CHARTS - KPI Measurement.
