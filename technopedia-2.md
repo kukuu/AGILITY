@@ -117,6 +117,7 @@ The team:
 
 ## CODE REVIEW
 
+Software MUST be maintainable, readable, re-usable and extendable. Things to watch out for:
 
 1. Does the code follow SOLID principles
 
