@@ -202,7 +202,12 @@ Downtime analysis is a measure of the mean time between failures (MTBF) and mean
 
 The Sprint Burndown Chart makes the work of the Team visible. It is a graphic representation that shows the rate at which work is completed and how much work remains to be done over the SPRINT period. The chart slopes downward over Sprint duration and across Story Points completed.
 
-The outstanding work (or backlog) is often on the vertical axis, with time along the horizontal. That is, it is a run chart of outstanding work. It is useful for predicting/forecasting when all of the work will be completed
+The outstanding work (or backlog) is often on the vertical axis, with time along the horizontal. That is, it is a run chart of outstanding work. It is useful for predicting/forecasting when all of the work will be completed.
+
+Sizing up work:
+
+1. T-Shirt Sizing
+2. Point system (Velocity).
 
 ## SPRINT BURN UP CHARTS
 
