@@ -1054,3 +1054,25 @@ Some Typecsript features
 - Implementing Inheritance and Interfaces
 - Import and Export
 - Loading modules using module loader (System loading - On Demand Loading)
+
+Data Types
+
+- number 
+- string 
+- boolean 
+- enum 
+- void 
+- null 
+- undefined 
+- any 
+- never 
+- Array 
+- tuple 
+
+## Data-driven 
+
+Data-driven approach is when a team makes strategic decisions based on data analysis and interpretation, rather than by intuition or by personal experience. The process of democratising data means making data accessible to as many people as possible within a company.
+
+-  Data-driven learning: A learning approach driven by research-like access to data. 
+
+- Data-driven science, an interdisciplinary field of scientific methods to extract knowledge from data.
