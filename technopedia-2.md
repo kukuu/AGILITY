@@ -26,7 +26,7 @@ A Hadoop data lake is a data management platform comprising one or more Hadoop c
 
 Because ReactJS helps to prevent updating of DOM, it means that the apps will be faster and deliver better UX. ReactJS was designed to help improve the total rendered pages from the website server.
 
-  Virtual DOM - Any new view changes are first performed on the virtual DOM, which lives in memory and not on your screen. An efficient algorithm (DIFFING ALGORITHM) then determines the changes made to the virtual DOM to identify the changes that need to be made to the real DOM (Unlike say the Digest Cycle in AngularJS). It then determines the most effective way to make these changes and then applies only those changes to the real DOM. This guarantees a minimum update time to the real DOM, providing higher performance and a cleaner user experience all around.
+  Virtual DOM - Any new view changes are first performed on the virtual DOM, which lives in memory and not on your screen. An efficient algorithm (DIFFING ALGORITHM) then determines the changes made to the virtual DOM to identify the changes that need to be made to the real DOM. It then determines the most effective way to make these changes and then applies only those changes to the real DOM. This guarantees a minimum update time to the real DOM, providing higher performance and a cleaner user experience all around.
 
 3. It's used for handling view layer for web and mobile apps. 
 
@@ -66,58 +66,26 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
  three artifacts: the product increment, product backlog, and sprint backlog.
 
 
-## Principles of Lean Software Development / High Performing Engineering team
+## Principles of Lean Software Development
 
+1. Eliminate Waste.
 
-The Leader:
+2. Build Quality In
 
-1. Drives goal execution and are a catalyst for team performance
+3. Create Knowledge
 
-2. Sets the bar for performance
+4. Defer Commitment
 
-3. Sets the tone
+5. Deliver Fast
 
-4. Communicate goals
+6. Respect People
 
+7. Optimize the Whole 
 
-The team:
-
-1. Everybody is working toward the same goals.
-
-2. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas
-
-3. Eliminate Waste.
-
-4. Build Quality In
-
-5. Create Knowledge
-
-6. A quick turn around 
-
-7. Minimum or no down time
-
-8. Defer Commitment
-
-9. Accountable for end to end delivery of the products and services. Holding each one responsible.
-
-10. Deliver Fast
-
-11. Mutual Respect from team members
-
-12. Optimize the Whole 
-
-13. A good ROI
-
-14. Meeting deadlines, and hiting targets from planning
-
-15. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
-
-16. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
 
 
 ## CODE REVIEW
 
-Software MUST be maintainable, readable, re-usable and extendable. Things to watch out for:
 
 1. Does the code follow SOLID principles
 
@@ -199,16 +167,45 @@ Downtime analysis is a measure of the mean time between failures (MTBF) and mean
 
 
 
+## HIGH Performing engineering team
+
+The Leader:
+
+1. Drives goal execution and are a catalyst for team performance
+
+2. Sets the bar for performance
+
+3. Sets the tone
+
+4. Communicate goals
+
+
+The team:
+
+1. People have solid and deep trust in each other and in the team's purpose - they feel free to express feelings and ideas
+
+2. Everybody is working toward the same goals.
+
+2. A quick turn around 
+
+3. Minimum or no down time
+
+3. A good ROI
+
+4. Meeting deadlines, and hiting targets from planning
+
+5. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
+
+6. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
+
+7. Accountable for end to end delivery of the products and services. Holding each one responsible.
+
+
 ## SPRINT BURN DOWN CHARTS - KPI Measurement.
 
 The Sprint Burndown Chart makes the work of the Team visible. It is a graphic representation that shows the rate at which work is completed and how much work remains to be done over the SPRINT period. The chart slopes downward over Sprint duration and across Story Points completed.
 
-The outstanding work (or backlog) is often on the vertical axis, with time along the horizontal. That is, it is a run chart of outstanding work. It is useful for predicting/forecasting when all of the work will be completed.
-
-Sizing up work:
-
-1. T-Shirt Sizing
-2. Point system (Velocity).
+The outstanding work (or backlog) is often on the vertical axis, with time along the horizontal. That is, it is a run chart of outstanding work. It is useful for predicting/forecasting when all of the work will be completed
 
 ## SPRINT BURN UP CHARTS
 
@@ -1079,3 +1076,14 @@ Data-driven approach is when a team makes strategic decisions based on data anal
 -  Data-driven learning: A learning approach driven by research-like access to data. 
 
 - Data-driven science, an interdisciplinary field of scientific methods to extract knowledge from data.
+
+
+## Parcel
+
+An out of the box support for JS, CSS, HTML, file assets, and more (perfect for React)
+
+## Apollo GraphQL
+
+Apollo Client is a fully-featured caching GraphQL client with integrations for React, Angular, and more. It allows you to easily build UI components that fetch data via GraphQL. ... Apollo Client can be used in any JavaScript frontend where you want to use data from a GraphQL server.
+
+The client is designed to help you quickly build a UI that fetches data with GraphQL, and can be used with any JavaScript front-end.
