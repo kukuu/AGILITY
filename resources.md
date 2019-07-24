@@ -195,8 +195,6 @@ https://github.com/adam-cowley/quick-tdd-node
 
 ### My Node.js Setup (Mocha & Chai, Babel7, ES6)
 https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
-https://medium.com/@norbertbraun/my-node-js-setup-mocha-chai-babel7-es6-7ee56f6d33d7
-
 
 ### Implementing Quicksort in JavaScript 
 Quicksort is one of the most efficient methods for sorting an array in computer science. For a thorough…
@@ -275,7 +273,7 @@ i. https://www.adamcowley.co.uk/javascript/quick-test-driven-development-setup-w
 ii. https://www.youtube.com/watch?v=0AAIbEAyFxg
 iii. https://github.com/adam-cowley/quick-tdd-node
 
-2. Learn How to Set Up a CI/CD Pipeline 
+2. Learn How to Set Up a CI/CD Pipeline with Jenkins
 https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
 
 3. JavaScript Unit Testing With Mocha JS & Chai 
@@ -298,3 +296,84 @@ https://www.youtube.com/watch?v=ILB_pRFHjNU
 i. https://www.youtube.com/watch?v=MLTRHc5dk6s
 ii. https://www.chaijs.com
 iii. ttps://www.mochajs.org
+
+### Build Content Rich Progressive Web Apps with Gatsby and Contentful
+https://egghead.io/courses/build-content-rich-progressive-web-apps-with-gatsby-and-contentful?utm_content=build-content-rich-progressive-web-apps-with-gatsby-and-contentful&amp%3Butm_medium=email&amp%3Butm_source=drip&amp%3Butm_term=gatsby&utm_medium=email 
+
+
+## TypeScript — JavaScript with Superpowers 
+https://medium.com/better-programming/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842
+
+## Web Assembly
+https://medium.com/better-programming/webassembly-is-it-as-scary-as-it-sounds-b0c38fb2d9c8
+
+## How can you trust a JWT to be authentic?
+https://medium.com/swlh/how-can-you-trust-a-jwt-to-be-authentic-2bd5124b243a
+
+
+## Functional JS From Α to Ω
+Using forEach as a diving board to understand Functional Programming
+https://medium.com/better-programming/functional-js-from-%CE%B1-to-%CF%89-8dc0cfe1f4e1
+
+## JavaScript’s Magical Tips Every Developer Should Remember
+https://medium.com/swlh/javascripts-magical-tips-every-developer-should-remember-38c71b1cbfba
+
+
+## Why do we need Hooks?
+https://medium.com/payscale-tech/introduction-to-react-hooks-29ef97547862
+
+## Everything you need to know about the JavaScript Scope
+https://medium.com/@akarshanbansal/everything-you-need-to-know-about-the-javascript-scope-f81cbffa9491
+
+## The curious case of variable declarations inside a catch block
+https://medium.com/@sarbbottam/the-curious-case-of-variable-declarations-inside-a-catch-block-891a4369aaf0
+
+## Introduction To Testing With Jest - React Testing For Beginners
+https://www.youtube.com/watch?v=D9DdY2WmM-s
+
+## Writing Unit Tests With Jest - React Testing For Beginners
+https://www.youtube.com/watch?v=QzznzOlkgGw
+
+## Writing Integration Tests - React Testing For Beginners
+https://www.youtube.com/watch?v=52-QICDljww
+
+
+## How can I convert an Excel sheet to JSON data in JavaScript?
+https://myclassbook.org/convert-excel-json-using-javascript-code/
+
+## Map, Filter and Reduce – Animated
+https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47
+
+## Service calls make your tests better 
+https://medium.com/swlh/service-calls-make-your-tests-better-457bed6da6db 
+
+## Save Energy and Time with JavaScript Memoization 
+https://medium.com/swlh/save-energy-and-time-with-javascript-memoization-5167bc36e8b7
+
+## Cross-Platform Apps With Electron and React: Part 2
+https://medium.com/better-programming/cross-platform-apps-with-electron-and-react-part-2-3307ae61014a
+
+## Object-Oriented Programming — The Trillion Dollar Disaster
+https://medium.com/codeiq/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7
+
+
+## How To Use an API with JavaScript (The Complete Beginner’s Guide) 
+https://medium.com/@rapid_api/how-to-use-an-api-with-javascript-the-complete-beginners-guide-aa9e0542eb5 
+
+## Complete guide to using TypeORM and TypeScript for data persistence in Node.js module 
+https://levelup.gitconnected.com/complete-guide-to-using-typeorm-and-typescript-for-data-persistence-in-node-js-module-bfce169959d9
+
+## Building a Real-time React App with GraphQL and Apollo
+
+## Setting up a React + TypeScript + SASS + Webpack and Babel 7 project in 6 Steps
+https://medium.com/swlh/setting-up-a-react-typescript-sass-webpack-and-babel-7-project-in-6-steps-b4d172d1d0d6
+
+## Beast: Moving Data from Kafka to BigQuery
+https://blog.gojekengineering.com/beast-moving-data-from-kafka-to-bigquery-3c22567a3472
+
+
+## Recursion-Phobia: Fear of Falling Into an Infinite Loop With Recursion
+https://medium.com/better-programming/recursion-phobia-4251f625d7b6
+https://medium.com/carsales-dev/building-a-real-time-react-app-with-graphql-and-apollo-bd7f66a8732
+
+
