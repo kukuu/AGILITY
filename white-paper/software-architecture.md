@@ -126,7 +126,7 @@ i.  High-volume data like click streams and user logs
 ii. Low-value data that can be lost occasionally without big consequences—in other words, not bank transactions
 Social networks.
 
-## 4. Microkernel (Plug-in) architecture 
+## 4. Microkernel (Plug-in) architecture - AKA COTS
 
 The microkernel architecture pattern (aka plug-in architecture pattern) is a natural pattern for implementing product-based applications. A product-based application is one that is packaged and made available for download in versions as a typical third-party product.
 
