@@ -84,7 +84,7 @@ The main goal of a Sprint Zero is to deliver some usable value that can be built
 
 8. Agree on a definition of done and rebuild confidence with the customer.
 
- ## Softwared Architecture & Standards
+ ## Software Architecture & Standards
  
  Software architecture refers to the high level structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 
