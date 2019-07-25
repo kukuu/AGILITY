@@ -63,6 +63,11 @@ iv.  Applications requiring strict maintainability and testability standards
  
 ## 2. Microservices architecture
 
+Microservices are self contained processes that provides unique business capabilities.  Each individual service boosts of its own data federation unlike momoliths for  deployment.
+
+With Monoliths, minor changes to particular parts of the application, may require a re-deployment of the whole application. Delta changes cannot be detected. Not very good for scaling and for performance.
+
+
  https://github.com/kukuu/Microservice-NodeJS 
 
 ### Benefits:
