@@ -1,4 +1,4 @@
-# Technopedia
+# graphopedia
 
 ## Difference between a data warehouse and a data lake
 
@@ -665,11 +665,20 @@ Repeatable, Automation, Source Control
 
 ## Micro-services
 
+A micro-service is a self contained process that provides a unique business capability.
+
 Microservices architecture is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
 
 When you choose to build your application as a set of microservices, you need to decide how your application’s clients will interact with the microservices. With a monolithic application there is just one set of (typically replicated, load‑balanced) endpoints. In a microservices architecture, however, each microservice exposes a set of what are typically fine‑grained endpoints.
 
 Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol. Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels. Examples of asynchronous messaging technologies are Apache Kafka and RabbitMQ.
+
+Micro services communicate via REST or Messaging services. Communication is always stateless.
+Every micro service is federated (Has its own data model and data). Each Request/Response is stateless (Independent). More instances of the microservic cn be added.
+
+Stateless communication allows the micro service to scale. Add more instances.
+
+Microservices application hardly breaks, as you can set up defaults as part of the architecture.
 
 ## Benefits of Micro-services:
 
@@ -1082,8 +1091,38 @@ Data-driven approach is when a team makes strategic decisions based on data anal
 
 An out of the box support for JS, CSS, HTML, file assets, and more (perfect for React)
 
+
+## GraphQL
+
+Specifically, GraphQL allows you to evolve your API naturally without versioning, it provides workable documentation, it avoids the problems of over- and under-fetching, and it offers a convenient way to aggregate data from multiple sources with a single request.
+
 ## Apollo GraphQL
 
 Apollo Client is a fully-featured caching GraphQL client with integrations for React, Angular, and more. It allows you to easily build UI components that fetch data via GraphQL. ... Apollo Client can be used in any JavaScript frontend where you want to use data from a GraphQL server.
 
 The client is designed to help you quickly build a UI that fetches data with GraphQL, and can be used with any JavaScript front-end.
+
+## RUST
+
+Rust is a multi-paradigm system programming language focused on safety, especially safe concurrency. ... Rust was originally designed by Graydon Hoare at Mozilla Research, with contributions from Dave Herman, Brendan Eich, and others.
+
+While Rust is a general purpose language, you could write your next web app in Rust, but you wouldn't be best experiencing what it has to offer. Rust is a low-level language, best suited for systems, embedded, and other performance critical code.
+
+## Jenkins
+
+Used for:
+
+i. Static code analysis
+ii. Automated testing
+iii. Deploying artefacts
+Can be run as a Docker Container.
+
+PHP Plugins:
+
+i. PHP Unit
+ii. PHP CodeSniffer
+iii. PHPMD
+iv. PHPCPD
+PHP_Depend
+
+Use composer require -dev to find all packages here https://packagist.org/_
