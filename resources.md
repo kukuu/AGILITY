@@ -356,6 +356,9 @@ https://medium.com/better-programming/cross-platform-apps-with-electron-and-reac
 ## Object-Oriented Programming — The Trillion Dollar Disaster
 https://medium.com/codeiq/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7
 
+## Managing secrets and environment variables on kubernetes cluster
+https://medium.com/swlh/managing-secrets-and-environment-variables-on-kubernetes-cluster-fd75a12141be
+
 
 ## How To Use an API with JavaScript (The Complete Beginner’s Guide) 
 https://medium.com/@rapid_api/how-to-use-an-api-with-javascript-the-complete-beginners-guide-aa9e0542eb5 
@@ -375,5 +378,25 @@ https://blog.gojekengineering.com/beast-moving-data-from-kafka-to-bigquery-3c225
 ## Recursion-Phobia: Fear of Falling Into an Infinite Loop With Recursion
 https://medium.com/better-programming/recursion-phobia-4251f625d7b6
 https://medium.com/carsales-dev/building-a-real-time-react-app-with-graphql-and-apollo-bd7f66a8732
+
+
+## nodejs express graphql microservice
+https://www.google.com/search?q=nodejs+express+graphql+microservice&oq=nodejs+express+graphql+microservice&aqs=chrome..69i57j33.25338j0j4&sourceid=chrome&ie=UTF-8
+
+## GraphQL as an API Gateway to Microservices
+https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/
+
+## What are microservices
+https://www.youtube.com/watch?v=PY9xSykods4
+
+## PHP Webservices
+https://www.youtube.com/watch?v=U-L-BJkxaCA
+
+## Algorithms in JavaScript
+https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
+
+## Moving from SASS to PostCSS
+https://medium.com/@im.simonecorsi/moving-from-sass-to-postcss-why-what-and-how-f68b1bc760dc
+
 
 
