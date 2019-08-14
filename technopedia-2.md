@@ -1,4 +1,4 @@
-# graphopedia
+# Technopedia
 
 ## Difference between a data warehouse and a data lake
 
