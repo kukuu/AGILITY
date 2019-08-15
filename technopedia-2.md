@@ -1235,3 +1235,11 @@ iii. They must remove potential malicious code elements such as single quotes.
 iv. It is also a good idea to turn off the visibility of database errors on your production sites. Database errors can be used with SQL Injection to gain information about your database.
 
 https://www.acunetix.com/websitesecurity/sql-injection2/
+
+
+## Selections
+
+| Label | Resource |
+| --- | --- |
+| One | Link1 |
+| Two  | Link2 |
