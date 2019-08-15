@@ -334,7 +334,9 @@ Most Common Use Case for componentDidCatch: Catching and logging errors.
 
 OutSystems is a low-code platform for the development of enterprise web and mobile applications, which run in the cloud, on-premises or in hybrid environments. The current version is 11, for both the paid and unpaid versions - developers are permitted personal cloud environments to use the platform without charge.
 
-## JavaScript Design Patterns - https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
+## JavaScript Design Patterns 
+
+ https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know    
 
 Developermust  strive to write maintainable, readable, and reusable code. Code structuring becomes more important as applications become larger. Design patterns prove crucial to solving this challenge - providing an organization structure for common issues in a particular circumstance.
 
