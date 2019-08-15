@@ -1241,5 +1241,14 @@ https://www.acunetix.com/websitesecurity/sql-injection2/
 
 | Label | Resource |
 | --- | --- |
-| One | Link1 |
-| Two  | Link2 |
+| Airbnb JavaScript Style Guide  | https://github.com/airbnb/javascript/tree/master/react |
+| How to Use Sass and Styled Components in a React JS Application | https://medium.com/@iam_timsmith/how-to-use-sass-and-styled-components-in-a-react-js-application-9d352c915fe0 |
+| Basic React Component  | https://codepen.io/iamtimsmith/pen/xaRydm/#code-area |
+| Algorithms in JavaScript  | https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038 |
+| RxJS: A Simple Introduction  | https://medium.com/@rossbulat/rxjs-a-simple-introduction-32fb48f52a67 |
+| Advanced TypeScript by Example: React Form Carousel  | https://medium.com/topic/javascript |
+| How I built an async form validation library in ~100 lines of code with React Hooks  | https://medium.com/free-code-camp/how-i-built-an-async-form-validation-library-in-100-lines-of-code-with-react-hooks-81dbff6c4a04 |
+| Did you know — createReducer Works with React Hooks. Here’s how.  | https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f |
+| How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger  | https://levelup.gitconnected.com/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649 |
+| CRUD App with Hooks  | https://taniarascia.github.io/react-hooks/ |
+
