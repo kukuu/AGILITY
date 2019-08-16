@@ -1242,7 +1242,6 @@ https://www.acunetix.com/websitesecurity/sql-injection2/
 | Label | Resource |
 | --- | --- |
 | React Hooks API | https://github.com/kukuu/react-hooks/blob/master/react-hooks-api/notes.md |
-| Airbnb JavaScript Style Guide  | https://github.com/airbnb/javascript/tree/master/react |
 | How To Fetch Data From An API With React Hooks |  https://github.com/kukuu/react-hooks/tree/master/react-hooks-api |
 | How to integrate React Hooks into your project without changing your Redux code | https://medium.com/free-code-camp/how-to-integrate-react-hooks-into-your-project-without-changing-your-redux-code-974e6f70f0b0 |
 | Airbnb JavaScript Style Guide | https://github.com/airbnb/javascript |
@@ -1261,7 +1260,7 @@ https://www.acunetix.com/websitesecurity/sql-injection2/
 | Git & GitHub Tutoria | https://www.youtube.com/watch?v=fQLK8Ib_SKk |
 | React Context API | https://blog.pusher.com/react-context-api/ |
 | Server Side Rendering  | https://github.com/kukuu/React-Router-Server-Side-Rendering |
-| Build Real Web App with Reac | https://www.youtube.com/watch?v=NO2DaxhoWHk - https://github.com/bearski/reddice - https://github.com/Remchi/bookworm-react/commits/master |
+| Build Real Web App with React | https://www.youtube.com/watch?v=NO2DaxhoWHk - https://github.com/bearski/reddice - https://github.com/Remchi/bookworm-react/commits/master |
 | AJAX - Generates JSON datasets for testing | http://www.filltext.com/ |
 |  Redux Saga | https://www.youtube.com/watch?v=aH2qQGgugG0 |
 
