@@ -850,8 +850,11 @@ ii. https://www.youtube.com/watch?v=MnUd31TvBoU
 
 ## Selections
 
+
 https://www.youtube.com/watch?v=aWxR05rUoto - Microservices with Node, Docker, NGINX
-youtube.com/watch?v=c4nO5DHQj0k - Remy
+
+
+https://youtube.com/watch?v=c4nO5DHQj0k - Remy
 
 
 https://www.youtube.com/watch?v=p1UmoELah8M - Build REACT REDUX - Bucky Roberts
