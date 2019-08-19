@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=6uE2XULbT3o
 ### Learn Docker 
 https://www.youtube.com/watch?v=YFl2mCHdv24 
 
+
 ### Docker Compose 
 https://www.youtube.com/watch?v=Qw9zlE3t8Ko 
 
@@ -397,6 +398,60 @@ https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 
 ## Moving from SASS to PostCSS
 https://medium.com/@im.simonecorsi/moving-from-sass-to-postcss-why-what-and-how-f68b1bc760dc
+
+## NodeJS Express micro-service
+https://robferguson.org/blog/2015/06/06/build-your-microservices-api-with-swagger/
+
+## PHP XML converter
+i. https://tryphp.w3schools.com/showphp.php?filename=demo_func_simplexml_load_file2
+
+ii. https://www.w3schools.com/php7/func_simplexml_load_file.asp
+
+iii. XML to CSV - https://www.w3schools.com/php7/func_string_implode.asp
+
+iv. https://www.roytuts.com/how-to-convert-xml-to-csv-using-php/
+
+## PHP implode()
+https://www.w3schools.com/php7/func_string_implode.asp
+
+## Airbnb JavaScript Style Guide
+https://github.com/airbnb/javascript
+
+## GitHub
+
+i. 
+ii. https://www.youtube.com/watch?v=MnUd31TvBoU
+
+## Selections
+
+https://www.youtube.com/watch?v=aWxR05rUoto - Microservices with Node, Docker, NGINX
+youtube.com/watch?v=c4nO5DHQj0k - Remy
+https://www.youtube.com/watch?v=p1UmoELah8M - Build REACT REDUX - Bucky Roberts
+https://www.youtube.com/watch?v=D48iCw3WWpI - Learn Python
+https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
+https://github.com/kukuu?tab=repositories  
+http://www.filltext.com AJAX calls
+https://youtube.com/watch?v=aH2qQGgugG0 - Redux Saga
+https://www.youtube.com/watch?v=n1NaVkKdrwc - Gatsby
+https://www.youtube.com/watch?v=GQ0HwmwGBZw - Testing queries with GraphQL
+https://www.youtube.com/watch?v=HlYFW2zaYQM - Push notifications with nodeJS and SW
+https://www.youtube.com/watch?v=2d-SX8YRyis - REACT testing with JEST
+https://www.youtube.com/watch?v=u5XTnNBotqs - REACT - Testing with Jest & Enzyme
+https://www.youtube.com/watch?v=r5lhmEoaWBM - Testing REACT/REDUX
+https://www.youtube.com/watch?v=9H3eICDz4-4 - Building Micro-services-Best Practices
+https://www.youtube.com/watch?v=xqYD8QXJX9U - Learn TypeScript
+https://www.youtube.com/watch?v=Qw9zlE3t8Ko - Docker Compose
+https://www.youtube.com/watch?v=U-L-BJkxaCA - PHP WebServices
+https://www.youtube.com/watch?v=YFl2mCHdv24 - Docker Compose
+https://www.youtube.com/watch?v=6uE2XULbT3o - Building for High Availability
+https://www.youtube.com/watch?v=2ajlfURobd8 - MongoDB Tutorials
+https://www.youtube.com/watch?v=Pyo4RWtxsQM - Big Data, Tools and Technologies
+https://www.youtube.com/watch?v=jaVNP3nIAv0 - Rock, Paper , Scissors
+https://www.youtube.com/watch?v=0AAIbEAyFxg - Chai Mocha Test
+https://www.youtube.com/watch?v=MLTRHc5dk6s - JS Unit testing with Mocha, JS & Chai
+https://www.google.com/search?client=safari&rls=en&q=youtube+how+to+clean+Epson+ink+nozzle&ie=UTF-8&oe=UTF-8#kpvalbx=_tE1DXerPI4TfxgOKv5nQDA8 - Cleaning Epson printer
+https://www.youtube.com/watch?v=u-OmVr_fT4s - Python tutorials
+https://www.youtube.com/watch?v=MnUd31TvBoU | https://www.youtube.com/watch?v=fQLK8Ib_SKk   - GitHub
 
 
 
