@@ -419,63 +419,131 @@ https://github.com/airbnb/javascript
 
 ## GitHub
 
-i. 
 ii. https://www.youtube.com/watch?v=MnUd31TvBoU
+
+## Web Accessibility Toolkit
+https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/
+
+## Software Testing Lifecycle
+
+https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
+
+## How long must a SCRUM last
+
+https://github.com/kukuu/AGILITY/blob/master/how-long-must-a-scrum-last.md
+
+## Digitally signing a document
+
+https://www.google.com/search?q=youtube+create+digi+sign+documents&oq=youtube+create+digi+sign+documents&aqs=chrome..69i57j69i64.25415j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_k6NdXYyYIpuC1fAPofObyAE6
+
+## Completely Edit PDF, Anyway You Want
+
+https://pdf.wondershare.net/ad/pdf-editor/restriction.html?gclsrc=aw.ds&&gclid=CjwKCAjw1_PqBRBIEiwA71rmtX3OH4p_DikWZcUA5kKOt4LpkqxtgfuJwg-P8415_j98LBd79SPHwRoCPZMQAvD_BwE
+
+## Convert HTML to PDF
+
+i. https://pdfcrowd.com/
+
+ii. https://www.youtube.com/watch?v=JQcST_iOgCs
 
 ## Selections
 
+
 https://www.youtube.com/watch?v=aWxR05rUoto - Microservices with Node, Docker, NGINX
-youtube.com/watch?v=c4nO5DHQj0k - Remy
+
+
+https://youtube.com/watch?v=c4nO5DHQj0k - Remy
+
 
 https://www.youtube.com/watch?v=p1UmoELah8M - Build REACT REDUX - Bucky Roberts
 
+
 https://www.youtube.com/watch?v=D48iCw3WWpI - Learn Python
+
 
 https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/ - LinkedIn
 
+
 https://github.com/kukuu?tab=repositories  - My Repo
+
 
 http://www.filltext.com AJAX calls
 
+
 https://youtube.com/watch?v=aH2qQGgugG0 - Redux Saga
+
 
 https://www.youtube.com/watch?v=n1NaVkKdrwc - Gatsby
 
+
 https://www.youtube.com/watch?v=GQ0HwmwGBZw - Testing queries with GraphQL
+
 
 https://www.youtube.com/watch?v=HlYFW2zaYQM - Push notifications with nodeJS and SW
 
+
 https://www.youtube.com/watch?v=2d-SX8YRyis - REACT testing with JEST
+
 
 https://www.youtube.com/watch?v=u5XTnNBotqs - REACT - Testing with Jest & Enzyme
 
+
 https://www.youtube.com/watch?v=r5lhmEoaWBM - Testing REACT/REDUX
+
 
 https://www.youtube.com/watch?v=9H3eICDz4-4 - Building Micro-services-Best Practices
 
+
 https://www.youtube.com/watch?v=xqYD8QXJX9U - Learn TypeScript
+
 
 https://www.youtube.com/watch?v=Qw9zlE3t8Ko - Docker Compose
 
+
 https://www.youtube.com/watch?v=U-L-BJkxaCA - PHP WebServices
+
 
 https://www.youtube.com/watch?v=YFl2mCHdv24 - Docker Compose
 
+
 https://www.youtube.com/watch?v=6uE2XULbT3o - Building for High Availability
 
-https://www.youtube.com/watch?v=2ajlfURobd8 - MongoDB Tutorials
+
+https://www.youtube.com/watch?v=2ajlfURobd8 | https://www.youtube.com/watch?v=bKjH8WhSu_E - MongoDB Tutorials
+
+
 
 https://www.youtube.com/watch?v=Pyo4RWtxsQM - Big Data, Tools and Technologies
 
+
 https://www.youtube.com/watch?v=jaVNP3nIAv0 - Rock, Paper , Scissors
+
 
 https://www.youtube.com/watch?v=0AAIbEAyFxg - Chai Mocha Test
 
+
 https://www.youtube.com/watch?v=MLTRHc5dk6s - JS Unit testing with Mocha, JS & Chai
+
 
 https://www.youtube.com/watch?v=u-OmVr_fT4s - Python tutorials
 
+
 https://www.youtube.com/watch?v=MnUd31TvBoU | https://www.youtube.com/watch?v=fQLK8Ib_SKk   - GitHub
+
+https://www.youtube.com/watch?v=fY3mBJSDA44  | https://www.youtube.com/watch?v=L9Uv_bLSaP4 | https://www.youtube.com/watch?v=hhX8nCnaNFM - 
+
+ 
+Headless CMS  - Gatsby & Contentful - 
+
+
+https://www.youtube.com/watch?v=fY3mBJSDA44 Episode 1
+https://www.youtube.com/watch?v=IaNU4R3ck_k Episode 2
+https://www.youtube.com/watch?v=L9Uv_bLSaP4 Episode 3
+https://www.youtube.com/watch?v=NkFz2psDupw Episode 4
+https://www.youtube.com/watch?v=A8Y1-GRmxFw Episode 5
+https://www.youtube.com/watch?v=ONg1gpx0zlA Episode 6
+
+
 
 
 
