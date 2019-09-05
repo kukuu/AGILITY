@@ -1051,33 +1051,6 @@ In the conversion we use a dispatcher proxy to the monolithic (legacy system) to
 ii. Use Apache config file to do re-write rule for the new urls (end points) - Apache's re-write engine switched on. Each URL with a string in it will be re-written.
 
 
-## Typescript
-
-Modules in typescript are loaded on demand. This enhances efficiency. Module loaders are hence required i.e SystemJS,RequireJS, Webpck, CommonJS.
-
-Some Typecsript features
-
-- Classes
-- Properties
-- Methods
-- Implementing Inheritance and Interfaces
-- Import and Export
-- Loading modules using module loader (System loading - On Demand Loading)
-
-Data Types
-
-- number 
-- string 
-- boolean 
-- enum 
-- void 
-- null 
-- undefined 
-- any 
-- never 
-- Array 
-- tuple 
-
 ## Data-driven 
 
 Data-driven approach is when a team makes strategic decisions based on data analysis and interpretation, rather than by intuition or by personal experience. The process of democratising data means making data accessible to as many people as possible within a company.
@@ -1433,15 +1406,42 @@ It is not a statement, but a literal expression, ignored by earlier versions of 
 
 ## Typescript
 
-i. entity: datatype (for all functions properties and arguments).
+Modules in typescript are loaded on demand. This enhances efficiency. Module loaders are hence required i.e SystemJS,RequireJS, Webpck, CommonJS.
 
-ii. Classes, properties, and methods
+Some Typecsript features
 
-iii. Inheritance and interfaces
+- Classes
+- Properties
+- Methods
+- Implementing Inheritance and Interfaces
+- Import and Export
+- Loading modules using module loader (System loading - On Demand Loading)
 
-iv. Imports and exports
+Data Types
 
-v. Loding modules using Module loader (System.js)
+- number 
+- string 
+- boolean 
+- enum 
+- void 
+- null 
+- undefined 
+- any 
+- never 
+- Array 
+- tuple 
+
+Features
+
+- entity: datatype (for all functions properties and arguments).
+
+- Classes, properties, and methods
+
+- Inheritance and interfaces
+
+- Imports and exports
+
+- Loding modules using Module loader (System.js)
 
 
 ```
