@@ -1142,14 +1142,13 @@ https://dzone.com/articles/what-are-injection-attacks
 
 i. XSS (Cross Site Scripting) - Inject arbitrary JS into a legitimate website/application, which is executed in the users browser.
 
-
-Potential Impact  
+ 
 
 ii. CRLF (Carriage Return Line Feed) - Injection of unexpected CRLF.
 
 Injects an unexpected CRLF (Carriage Return and Line Feed) character sequence used to split an HTTP response header and write arbitrary contents to the response body, including Cross-site Scripting (XSS).
 
-Potential Impact 
+
 
 iii. Email injection (Mail Command SMTP) - Injects SMTP/IMAP statements into an email server
 
@@ -1157,27 +1156,24 @@ Potential Impact
 
 iv Host Header Injection - Abuses the implicit trust of the HTTP host Header to poison passsword re-set functionality.
 
-Potential Impact 
+
 
 v LDAP injection - Injects LDAP (Lightweight  Directory Access Protocol) statements to execute arbitrary LDAP commands including granting permissions and modifying contents of an LDAP tree.
 
-Potential Impact 
 
 vi. SQLi (SQL injection) - Injects SQL commands that can read or modify data from a database. Advanced variations of this attack can be used to write arbitrary files to the server and even execute OS commands which may lead to full system compromise.
 
-Potential Impact 
+
 
 vii. XPath injection - Inject data into an application to execute crafted XPath queries which can be used to access unauthorized data and bypass authentication.
 
-Potential Impact 
+ 
 
 viii. Code injection - Injects application code which can execute operating system commands as the user running the web application.
 
-Potential Impact - Full system compromise
 
 
-
-## CSRF (XSRF)
+vix. CSRF (XSRF)
 
 Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated. CSRF attacks specifically target state-changing requests, not theft of data, since the attacker has no way to see the response to the forged request.
 
@@ -1236,6 +1232,204 @@ iv. It is also a good idea to turn off the visibility of database errors on your
 
 https://www.acunetix.com/websitesecurity/sql-injection2/
 
+
+## Selenium
+
+Selenium is a portable framework for testing web applications. Selenium provides a playback (formerly also recording) tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE).
+
+Using Selenium type of testing can be done are:
+
+Functional Testing.
+
+Regression Testing.
+
+Sanity Testing.
+
+Smoke Testing.
+
+Responsive Testing.
+
+Cross Browser Testing.
+
+UI testing (black box)
+
+Integration Testing.
+
+
+## jMeter
+
+
+Apache JMeter is open source software, a 100% pure Java desktop application, designed to load test functional behavior and measure performance of web sites. It was originally designed for load testing web applications but has since expanded to other test functions.
+
+
+## JUnit
+
+Junit is widely used testing framework along with Java Programming Language. You can use this automation framework for both unit testing and UI testing.it helps us define the flow of execution of our code with different Annotations.7 D
+
+
+##  Scaling MySQL
+
+
+## Headless CMS
+
+(Crafter/Contentfull/Prismic/Storyblok)
+
+How does a headless CMS work?
+
+A headless CMS is a back-end only content management system (CMS) built from the ground up as a content repository that makes content accessible via a RESTful API for display on any device. 
+
+A headless CMS remains with an interface to add content and a RESTful API (JSON, XML) to deliver content wherever you need it.
+
+Other than by using a regular/monolithic CMS, one website can’t be built only with a headless CMS. A headless CMS separated the head from its stack and therefore lacks this point by design. Therefore, the developer must craft the website by his- or herself and use the Content Delivery API of the headless CMS to load the content.
+
+Creating the whole website on their own seems like a big task on the list, but by decoupling the CMS from the front-end a developer can choose any technology he is already familiar with and does not need to learn the technology for that specific CMS. Another big bonus is the fact that one developer can also focus on their own work without handling the bugs of an already existing stack of technology - therefore it is easier to optimize pages for googles pagespeed and even relaunch parts of the website.
+
+### APIs
+
+There are following REST-APIs available at the endpoint api.storyblok.com/v1/cdn.
+
+Stories, For receiving the content entries
+
+Tags, For receiving tags (ex. building a tagcloud)
+
+Links, For receiving the mappings of the story links
+
+Datasource_entries, For receiving datasources (key value pairs)
+The endpoint is made for highspeed delivery and therefore the content is cached in a CDN. If you want to receive the uncached version of your content you need to provide a version parameter in the URL. This parameter is cache_version and usually has a timestamp (The SDKs automatically ups the version timestamp).
+
+Resource - https://www.storyblok.com/tp/headless-cms-explained
+
+### SDKs
+
+Development can be made easier with the use of an SDK. The following SDKs are currently available, with more to be released soon:
+
+
+Javascript
+
+Node.js
+
+Ruby
+
+
+```
+\<body>
+<script src="https://app.storyblok.com/f/storyblok-latest.js?t=hZ9t5mLywGe41ragtcSLgwtt">
+</script>
+<script>
+  // Get the content of the current page
+  storyblok.get({slug: 'home', version: 'draft'}, function(data) {
+    console.log(data.story)
+  })
+
+  // Get multiple content entries from a folder called "news"
+  storyblok.getAll({starts_with: 'story', version: 'draft'}, function(data) {
+    console.log(data.stories)
+  })
+</script>
+</body>
+
+
+```
+
+
+### Optimising SQL queries
+
+Optimize queries based on the query optimization guidelines
+Follow the SQL best practices to ensure query optimization:
+
+1. Index all the predicates in JOIN, WHERE, ORDER BY and GROUP BY clauses.
+WebSphere Commerce typically depends heavily on indexes to improve SQL performance and scalability. Without proper indexes, SQL queries can cause table scans, which causes either performance or locking problems. It is recommended that all predicate columns be indexed. The exception being where column data has very low cardinality.
+
+2. Avoid using functions in predicates.
+The index is not used by the database if there is a function on the column. For example:
+SELECT * FROM TABLE1 WHERE UPPER(COL1)='ABC'Copy
+As a result of the function UPPER(), the index on COL1 is not used by database optimizers. OracleIf the function cannot be avoided in the SQL, you need to create a function-based index in Oracle or generated columns in DB2 to improve performance.
+
+
+3. Avoid using wildcard (%) at the beginning of a predicate.
+The predicate LIKE '%abc' causes full table scan. For example:
+SELECT * FROM TABLE1 WHERE COL1 LIKE '%ABC'Copy
+This is a known performance limitation in all databases.
+
+4. Avoid unnecessary columns in SELECT clause.
+Specify the columns in the SELECT clause instead of using SELECT *. The unnecessary columns places extra loads on the database, which slows down not just the single SQL, but the whole system.
+Use inner join, instead of outer join if possible.
+The outer join should only be used if it is necessary. Using outer join limits the database optimization options which typically results in slower SQL execution.
+DISTINCT and UNION should be used only if it is necessary.
+DISTINCT and UNION operators cause sorting, which slows down the SQL execution. Use UNION ALL instead of UNION, if possible, as it is much more efficient.
+OracleOracle 10g and 11g requires that the CLOB/BLOB columns must be put at the end of the statements.
+Otherwise, it causes failure when the input value size is larger than 1000 characters.
+
+
+5. The ORDER BY clause is mandatory in SQL if the sorted result set is expected.
+The ORDER BY keyword is used to sort the result-set by specified columns. Without the ORDER BY clause, the result set is returned directly without any sorting. The order is not guaranteed. Be aware of the performance impact of adding the ORDER BY clause, as the database needs to sort the result set, resulting in one of the most expensive operations in SQL execution.
+
+### Leads
+
+i. Gatsby & Contentful - https://www.youtube.com/watch?v=fY3mBJSDA44 (6 episodes)  | https://www.youtube.com/watch?v=L9Uv_bLSaP4
+
+
+## Flexbox against CSS Grid
+
+CSS Grid Layout is a two-dimensional system, meaning it can handle both columns and rows, unlike flexbox which is largely a one-dimensional system (either in a column or a row). A core difference between CSS Grid and Flexbox is that — CSS Grid's approach is layout-first while Flexbox' approach is content-first.
+
+When working on either element (row or column), you are most associated with the content. Flexbox, here, gives you more flexibility.
+
+Grid is much newer than Flexbox and has a bit less browser support. That's why it makes perfect sense if people are wondering if CSS grid is here to replace Flexbox. ... Flexbox can do things Grid can't do. They can work together: a grid item can be a flexbox container.
+
+## GitHub
+
+https://www.youtube.com/watch?v=3RjQznt-8kE
+
+## Common OAuth 2.0 grant types
+
+i. Authorization Code.
+
+ii. Implicit.
+
+The Implicit grant type is a simplified flow that can be used by public clients, where the access token is returned immediately without an extra authorization code exchange step. It is generally not recommended to use the implicit flow. 
+
+The Implicit Grant is an OAuth 2.0 flow that client-side apps use in order to access an API
+
+Based on the needs of your application, some grant types are more appropriate than others. Auth0 provides many different authentication and authorization flows and allows you to indicate which grant types are appropriate based on the grant_types property of your Auth0-registered Application.
+
+For example, let's say you are securing a mobile app. In this case, you'd use the Authorization Code using Proof Key for Code Exchange (PKCE) Grant.
+
+Alternatively, if you were securing a client-side app (such as a single-page app), you'd use the Implicit Grant.
+
+iii. Password.
+
+iv. Client Credentials.
+
+v. Device Code.
+
+vi. Refresh Token.
+
+https://auth0.com/docs/api-auth/tutorials/implicit-grant
+
+## TDD & BDD 
+
+TDD is a developer-focused methodology that aims to encourage well-written units of code that meet requirements.
+
+BDD extends the process of TDD. However, the tests describe behavior.
+
+
+## IIFE
+
+An IIFE, or Immediately Invoked Function Expression, is a common JavaScript design pattern used by most popular libraries (jQuery, Backbone.js, Modernizr, etc) to place all library code inside of a local scope. ... An IIFE protects a module's scope from the environment in which it is placed.
+
+It is a JavaScript function that runs as soon as it is defined. Also known as a Self-Executing Anonymous Function and contains two major parts.
+
+ IIFEs are very useful because they don't pollute the global object, and they are a simple way to isolate variables declarations.
+
+## Closure
+
+A closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time. To use a closure, define a function inside another function and expose it.
+
+## Use strict directive
+
+
+It is not a statement, but a literal expression, ignored by earlier versions of JavaScript. The purpose of "use strict" is to indicate that the code should be executed in "strict mode". With strict mode, you can not, for example, use undeclared variables.
 
 ## Selections
 
