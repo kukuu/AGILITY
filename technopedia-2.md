@@ -86,7 +86,20 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 ## CODE REVIEW
 
-https://github.com/kukuu/games-and-algorithms
+
+1. Does the code follow SOLID principles
+
+2. Formatting: Where are the spaces and line breaks? Are they using tabs or spaces? How are the curly braces laid out?
+
+3. Style: Are the variables/parameters declared as final? Are method variables defined close to the code where they’re used or at the start of the method?
+
+4. Naming: Do the field/constant/variable/param/class names conform to standards? Are the names overly short?
+
+5. Test coverage: Is there a test for this code?
+
+6. Race conditions
+
+7. What design patterns are used in the new code? Any anti-patterns (in loops etc)
 
 
 ## Attributes of a good leader
@@ -1417,6 +1430,339 @@ A closure gives you access to an outer function's scope from an inner function. 
 
 
 It is not a statement, but a literal expression, ignored by earlier versions of JavaScript. The purpose of "use strict" is to indicate that the code should be executed in "strict mode". With strict mode, you can not, for example, use undeclared variables.
+
+## Typescript
+
+i. entity: datatype (for all functions properties and arguments).
+
+ii. Classes, properties, and methods
+
+iii. Inheritance and interfaces
+
+iv. Imports and exports
+
+v. Loding modules using Module loader (System.js)
+
+
+```
+
+class Customer {
+
+	public CustomerName: string;
+
+	validate(input:number) boolean {
+		
+		alert("hey");
+
+		return true;
+	}
+}
+
+//inheritance
+
+class someOtherCustomer extends Customer {
+
+	validate(){
+		alert("This is a new Customer");
+	}
+}
+
+
+
+```
+
+
+### JS transpiled (compiled)
+
+```
+var Customer = (function(){
+	function Customer(){
+		this.CustomerName =  '';
+	}
+	return Customer
+}());
+
+```
+
+())
+
+Features:
+
+1. Run time error checks - during compilation
+
+2. Safe - Datatype pre-determined
+
+3. Handle exceptions
+
+4. Interface definition
+
+5. Inheritance
+
+6. Polymorphism
+
+7. Uses Closure - JS design pattern
+
+8. IIFES - JS design pattern
+
+9. Performance friendly - Uses On-demand/Modular loading (3rd party Middlewares SystemJS/Webpack/RequireJS/CommonJS/AMD/lODASH)
+
+Use 'npm i systemjs' - loads asynchronously
+
+
+in the HTML
+
+```
+<script src= "Customer.js"></script>
+<body>
+	<script>	
+		let cust = new Customer();
+		cust.CustomerName = "Luca";
+
+		alert(cust.CustomerName);
+
+		cust.validate();
+
+		cust = new someOtherCustomer;
+		cust.validate()
+
+	</script>
+</body>
+
+```
+
+
+8. Create Private properties (variables), and use se(setters) and get(getters) to access them publicly.
+
+i. Write business logic in the setters.
+```
+class Customer {
+
+	private _customerName: string;
+
+	public set CustomerName( value: string ){
+		this._customerName = value;
+	}
+
+	public get CustomerName(): string {
+		return this._customerName;
+	}
+
+	validate(input:number) boolean {
+		
+		alert("hey");
+
+		return true;
+	}
+}
+
+
+
+ii. html
+
+<script src= "Customer.js"></script>
+<body>
+	<script>
+	let cust = new Customer();
+	cust.CustomerName = "Luca";
+	alert(cust.CustomerName);
+	</script>
+</body>
+```
+
+9. Handling Exceptions
+
+```
+class Customer {
+
+	private _customerName: string;
+
+	public set CustomerName( value: string ){
+
+		//Handling exception
+		if(value.length == 0){
+			throw "Customer Name is required";
+		}
+		//end exception
+
+		this._customerName = value;
+	}
+
+	public get CustomerName(): string {
+		return this._customerName;
+	}
+
+	validate(input:number) boolean {
+		
+		alert("hey");
+
+		return true;
+	}
+}
+```
+
+
+html
+
+```
+<script src= "Customer.js"></script>
+<body>
+	<script>
+		try{
+		
+			let cust = new Customer();
+			cust.CustomerName = "";
+			alert(cust.CustomerName);
+		}
+
+		catch(ex){
+			alert(ex)
+		}
+	</script>
+</body>
+```
+
+10. Inerfaces
+
+
+
+Note JS does not handle:
+
+i. Interfaces (Separate modules that can be referenced.)
+ii. Protected. 
+ii. All protected variables are handles as public. Can be used in sub-classes
+
+```
+Interface IDal {
+	
+	add(){
+
+	}
+}
+
+
+class Customer implements IDal {
+	
+	protected name:string == '';
+	private _customerName: string;
+
+	public set CustomerName( value: string ){
+
+		//Handling exception
+		if(value.length == 0){
+			throw "Customer Name is required";
+		}
+		//end exception
+
+		this._customerName = value;
+	}
+
+	Add(){
+
+	}
+
+	public get CustomerName(): string {
+		return this._customerName;
+	}
+
+	validate(input:number) boolean {
+		
+		alert("hey");
+
+		return true;
+	}
+}
+```
+
+html
+
+```
+<script src= "Customer.js"></script>
+<body>
+	<script>
+		try{
+		
+			let cust = new Customer();
+			cust.name = "me!";
+			alert(cust.name);
+		}
+
+		catch(ex){
+			alert(ex)
+		}
+	</script>
+</body>
+```
+
+
+11. Using external modules
+
+//Address.ts
+
+```
+export class Address{
+
+	public Street1: string = ';
+}
+
+class DB {
+
+}
+.......................
+
+
+//Customer.ts
+
+import { Address } from './Adress';
+
+export class Customer {
+	
+	protected name:string == '';
+	private _customerName: string;
+	public adressObject : Adress = new Address //type address and instantiate it.
+
+	public set CustomerName( value: string ){
+
+		//Handling exception
+		if(value.length == 0){
+			throw "Customer Name is required";
+		}
+		//end exception
+
+		this._customerName = value;
+	}
+
+	
+	public get CustomerName(): string {
+		return this._customerName;
+	}
+
+	validate(input:number) boolean {
+		
+		alert("hey");
+
+		return true;
+	}
+}
+
+```
+
+html
+
+```
+<script src= "/dist/systems.js"></script>
+<body>
+	<script>
+		system.config({
+			"defaultJSExtensions": true
+		});
+
+		system.import("Customer.js").
+		then(function(exports){
+			var cust = new exports. Customer();
+		});
+	</script>
+</body>
+```
 
 ## Selections
 
