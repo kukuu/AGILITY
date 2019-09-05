@@ -86,20 +86,7 @@ four ceremonies: the sprint planning meeting, Daily Scrum, sprint review meeting
 
 ## CODE REVIEW
 
-
-1. Does the code follow SOLID principles
-
-2. Formatting: Where are the spaces and line breaks? Are they using tabs or spaces? How are the curly braces laid out?
-
-3. Style: Are the variables/parameters declared as final? Are method variables defined close to the code where they’re used or at the start of the method?
-
-4. Naming: Do the field/constant/variable/param/class names conform to standards? Are the names overly short?
-
-5. Test coverage: Is there a test for this code?
-
-6. Race conditions
-
-7. What design patterns are used in the new code? Any anti-patterns (in loops etc)
+https://github.com/kukuu/games-and-algorithms
 
 
 ## Attributes of a good leader
