@@ -8,7 +8,11 @@ The  entire team shares the responsibility of testing. “Quality” is injected
 
 1. Agile testing promotes collaboration. It emphasizes integrated teams, frequent releases,
 and the ability to adapt to changing business requirements. It involves the entire team 
-throughout the entire development lifecycle.
+throughout the entire development lifecycle.i.e
+
+
+- TDD
+- BDD
 
 2. Agile testing shortens the feedback loop, and shorter feedback loops increase the team’s
 agility.
@@ -19,27 +23,61 @@ QA and development can often pair together to conduct exploratory testing.
 
 
 ```
+## Agile test practices: TDD, BDD 
 
 
+TDD is a developer-focused methodology that aims to encourage well-written units of code that meet requirements.
 
-## Agile testing tools
+BDD extends the process of TDD. However, the tests describe behavior.
+
+## Agile Cross browser testing tools testing tools
 
 We’ve put together a shortlist of tools that you may want to consider using to help with your testing efforts. Not all tools will work for every team and as with everything in agile, you should be constantly reviewing what tools you use and adapt them so that they continually meet both yours and the team’s needs.
-Cross browser testing tools
+
+
+### Selenium
+Selenium is a portable software-testing framework for web applications. Selenium provides a playback (formerly also recording) tool for authoring tests without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala. The tests can then run against most modern web browsers. Selenium deploys on Windows, Linux, and macOS platforms. It is open-source software, released under the Apache 2.0 license: web developers can download and use it without charge.
+
+
+Using Selenium type of testing can be done are:
+```
+Functional Testing.
+
+Regression Testing.
+
+Sanity Testing.
+
+Smoke Testing.
+
+Responsive Testing.
+
+Cross Browser Testing.
+
+UI testing (black box)
+
+Integration Testing.
+```
+
+### jMeter
+
+
+Apache JMeter is open source software, a 100% pure Java desktop application, designed to load test functional behavior and measure performance of web sites. It was originally designed for load testing web applications but has since expanded to other test functions.
+
+
+### JUnit
+
+Junit is widely used testing framework along with Java Programming Language. You can use this automation framework for both unit testing and UI testing.it helps us define the flow of execution of our code with different Annotations.7 D
 
 ### BrowserStack 
 
 These days it is essential to test any website or online application on not just desktop browsers but also tablet and mobile platforms. BrowserStack allows you to start a live session on many devices and browsers directly from your browser.
 
 
-## Litmus 
+### Litmus 
 
 Emails often don’t appear as expected in email clients and testing all the different clients can mean a lot of wasted time setting up accounts and re-sending the same email. Litmus offers cross client testing for emails and will save you a huge amount of time.
 
 
-### Selenium
-
-Selenium is a portable software-testing framework for web applications. Selenium provides a playback (formerly also recording) tool for authoring tests without the need to learn a test scripting language (Selenium IDE). It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala. The tests can then run against most modern web browsers. Selenium deploys on Windows, Linux, and macOS platforms. It is open-source software, released under the Apache 2.0 license: web developers can download and use it without charge.
 ### Test management
 
 #### TestLodge 
@@ -128,6 +166,9 @@ Smoke Testing
 
 6. Usability Testing.
 
+7. System testing
+
+8. API Testing
 
 ## Web Application Testing Checklist:
 
@@ -297,3 +338,6 @@ You will select a large number of people (crowd) to execute tests which otherwis
 Tools that can be used: People like you and me !!!. And yes , loads of them!
 
 This concludes almost all testing types applicable to your web application.
+
+
+
