@@ -70,6 +70,10 @@ In this phase the testers comes up with the Test strategy, where they mention wh
 
 Implementation / Coding:  On receiving system design documents, the work is divided in modules/units and actual coding is started. Since, in this phase the code is produced so it is the main focus for the developer. This is the longest phase of the software development life cycle.
 
+For code integrity, security (SNYK) and upholding quality, reliability, portability and extensibility of the software Agile practices like TDD, BDD, CI/CD, Containerization (Docker), and Orchestrations(Kubernets) can be adopted.
+
+This process will involve: Planning, Breaking feature stories into units, estimation, coding, SCRUM, code reviews, SPRINT reviews, retrospectives, and grooming. Other methodologies that can possibly adopted depending on business goals are include Waterfall, XP
+
 ## Testing 
 
 Testing:  Quality Analysis and Testing is embeded into the code as is being developed. This is Agile Testing, using CI/CD. The code  is tested against the requirements to make sure that the product is actually solving the needs addressed and gathered during the requirements phase, together with the Architecture producing the code structure (with inherent identified disciplines, technical decisions and patterns). During this phase all types of functional testing like unit testing, integration testing, system testing, smoke testing, acceptance testing are done as well as non-functional testing are also done - black box(UI Testing) and white box testing.
@@ -80,6 +84,40 @@ Code Coverage - https://github.com/kukuu/AGILITY/blob/master/unit-test/code-cove
 
 Agile Software Testing Cycle - https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
 
+### Tools
+
+#### Selenium
+
+Selenium is a portable framework for testing web applications. Selenium provides a playback (formerly also recording) tool for authoring functional tests without the need to learn a test scripting language (Selenium IDE).
+
+Using Selenium type of testing can be done are:
+
+Functional Testing.
+
+Regression Testing.
+
+Sanity Testing.
+
+Smoke Testing.
+
+Responsive Testing.
+
+Cross Browser Testing.
+
+UI testing (black box)
+
+Integration Testing.
+
+
+#### jMeter
+
+
+Apache JMeter is open source software, a 100% pure Java desktop application, designed to load test functional behavior and measure performance of web sites. It was originally designed for load testing web applications but has since expanded to other test functions.
+
+
+#### JUnit
+
+Junit is widely used testing framework along with Java Programming Language. You can use this automation framework for both unit testing and UI testing.it helps us define the flow of execution of our code with different Annotations.7 D
 
 
 ## Deployment 
