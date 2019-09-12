@@ -7,21 +7,25 @@ Software life cycle models describe phases of the software cycle and the order i
 
 The SWDLC is preceeded by evaluating the contexts of Business goals, determining Quality attributes (Performance, Scalability, Security, Quality, Extensibility and Governance), and the Architecture.
 
-There are following six phases in every Software development life cycle model:
+There are following  phases in every Software development life cycle model:
 
 ```
 
 1. Requirement gathering and analysis
 
-2. Design
+2. Architecture
 
-3. Implementation or coding
+3. Design
 
-4. Testing
+4. Implementation or coding
 
-5. Deployment
+5. Testing
 
-6. Maintenance / After care support
+6. Deployment
+
+7. Maintenance / After care support
+
+8. Continuous Improvement
 
 ```
 
