@@ -62,7 +62,7 @@ the requirements analysis is completed.
 
 ## Design  
 
-In this phase the system and software design is prepared from the requirement specifications which were studied in the first phase. System Design helps in specifying hardware and system requirements and also helps in defining overall system architecture. The system design specifications serve as input for the next phase of the model.
+In this phase the system and software design is prepared from the requirement specifications which were studied in the first phase. System Design which is a derivative from the Architecture, helps in specifying hardware and system requirements and also helps in defining overall system architecture. The system design specifications serve as input for the next phase of the model.
 
 In this phase the testers comes up with the Test strategy, where they mention what to test, how to test.
 
@@ -72,7 +72,7 @@ Implementation / Coding:  On receiving system design documents, the work is divi
 
 ## Testing 
 
-Testing:  After the code is developed it is tested against the requirements to make sure that the product is actually solving the needs addressed and gathered during the requirements phase. During this phase all types of functional testing like unit testing, integration testing, system testing, acceptance testing are done as well as non-functional testing are also done.
+Testing:  Quality Analysis and Testing is embeded into the code as is being developed. This is Agile Testing, using CI/CD. The code  is tested against the requirements to make sure that the product is actually solving the needs addressed and gathered during the requirements phase, together with the Architecture producing the code structure (with inherent identified disciplines, technical decisions and patterns). During this phase all types of functional testing like unit testing, integration testing, system testing, smoke testing, acceptance testing are done as well as non-functional testing are also done - black box(UI Testing) and white box testing.
 
 ## Deployment 
 
