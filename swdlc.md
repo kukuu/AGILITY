@@ -74,6 +74,14 @@ Implementation / Coding:  On receiving system design documents, the work is divi
 
 Testing:  Quality Analysis and Testing is embeded into the code as is being developed. This is Agile Testing, using CI/CD. The code  is tested against the requirements to make sure that the product is actually solving the needs addressed and gathered during the requirements phase, together with the Architecture producing the code structure (with inherent identified disciplines, technical decisions and patterns). During this phase all types of functional testing like unit testing, integration testing, system testing, smoke testing, acceptance testing are done as well as non-functional testing are also done - black box(UI Testing) and white box testing.
 
+Test Pyramid with coverage - https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg 
+
+Code Coverage - https://github.com/kukuu/AGILITY/blob/master/unit-test/code-coverage-fig-1.png 
+
+Agile Software Testing Cycle - https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
+
+
+
 ## Deployment 
 
 After successful testing the product is delivered / deployed to the customer for their use.
