@@ -4,13 +4,19 @@ Alexander is a Computer Systems Engineer, Digital Transformation Specialist, and
 
 As an end to end  Software Engineer, Technical Architect and Head of Graduate Academy, my duties consists of a balance of  the following areas of responsibility:
 
-        1.    Articulating solutions, working with clients to ensure products and services are delivered in   the right way. Delivering quality software.
-        2.    Technical Leadership (BAU projects), and Architectural  direction ( UK and abroad).
-        3.    Talent Hiring and Development 
-        4.    Line Management  -   Agile  cross functional teams UK and abroad 
-        5.    Capacity planning
-        6.    Domain Knowledge and driving conversion - P& L margins
-        7.    Incidents (Managed Services): Management of resolutions.
+        1. Articulating solutions, working with clients to ensure products and services are delivered in   the right way. Delivering quality software.
+        
+        2. Technical Leadership (BAU projects), and Architectural  direction ( UK and abroad).
+        
+        3. Talent Hiring and Development 
+        
+        4. Line Management  -   Agile  cross functional teams UK and abroad 
+        
+        5. Capacity planning
+        
+        6. Domain Knowledge and driving conversion - P& L margins
+        
+        7. Incidents (Managed Services): Management of resolutions.
 
  Alexander is a Full stack Engineer, and has extensive hands on experience in full software  life cycle development. Haven worked in various Engineering roles. Namely; Software Engineer, Senior Software Engineer, Tech Lead, Software Development Manager, Head of UI Engineering, Technical Architect, and Head of Development.
 
