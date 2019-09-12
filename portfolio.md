@@ -31,46 +31,38 @@
 
 14. BBC Weather - http://www.bbc.co.uk/weather/
 
-```
+
 
 ## Profile
 
-```
+
 LinkedIn - www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a 
-```
+
 
 ## GitHub
 
-```
+
 https://github.com/kukuu?tab=repositories
-```
+
 
 ## Key Technologies
 
-```
 https://github.com/kukuu/siliconlabs/blob/master/README.md 
-```
+
 
 ## Architecture 
 
-```
 White Paper - https://github.com/kukuu/AGILITY/tree/master/white-paper
 
-```
 
 
 ## Scaffolding Blue Print 
 
-```
 Tooling & Infrastructure - https://github.com/kukuu/AGILITY/blob/master/README-scaffolding.md 
-
-```
 
 
 ## Blog
 
-```
 Agility - https://github.com/kukuu/AGILITY
 
-```
 
