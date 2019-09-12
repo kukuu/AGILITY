@@ -20,7 +20,7 @@ Led the Technical Development team that built Ernest & Young’s Statistical ins
 Alexander  led the Agile software development in the alpha implementation of its  next generation of IT Network Security management tools for Secgate. The Kingfisher  is an API that provides  integrated solution for reporting breaches and management of transactional services by Banks and Venture Capitalists. Features of the software include, Controlled Dashboards, Charts, Heat Maps, Chat Bots, Filters, Search, Live data update and  video chat services. Kingfisher helps clients analyse, correlate, identify and eliminate Cyber Security threats. The software  tracks process and transactional activities in real time, including current data related to performance, awareness, breaches, compliance, GDPR and safe governance. Serving as as an enterprise immune systems to improve the longevity of it’s  clients cyber security strategies. Alexander led the development of the product, whiles managing development teams in UK and Austria. NodeJS/REACT platform.
 
 
-## SONY PlayStation 2017
+## SONY PlayStation 2017
 Senior  UI Development Consultant  on the next generation of SONY PlayStation Platforms for Europe, United States and JA (Japan & Asia). A back office Web Application that stores, filters, monitors and smartly reviews concepts and proposal roadmaps for its games development and marketing trends in real times.  Built on the Angular/Hybris eCommerce platform.
 
 ## Marksandspecer.com
