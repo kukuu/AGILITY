@@ -5,7 +5,7 @@ There are various software development approaches defined and designed which are
 
 Software life cycle models describe phases of the software cycle and the order in which those phases are executed. Each phase produces deliverables required by the next phase in the life cycle. Requirements are translated into design, through architecture. Code is produced according to the design which is called development phase. Coding and  testing (in parallel) verifies the deliverable of the implementation phase against requirements. The testing team follows Software Testing Life Cycle (STLC) which is similar to the development cycle followed by the development team.
 
-The SWDLC is preceeded by evaluating the contexts of Business goals, Determining Quality attributes (Performance, Scalability, Security, Quality, Extensibility and Governance), and the Architecture.
+The SWDLC is preceeded by evaluating the contexts of Business goals, determining Quality attributes (Performance, Scalability, Security, Quality, Extensibility and Governance), and the Architecture.
 
 There are following six phases in every Software development life cycle model:
 
