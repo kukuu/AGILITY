@@ -1,7 +1,7 @@
 # Porfolio - Alexander Adu-Sarkodie
 
 
-## Project
+## Projects
 
 1. GCHQ - https://www.gchq.gov.uk/ 
 
@@ -33,24 +33,25 @@
 
 ```
 
-##  Profile
+## Profile
 
 ```
 LinkedIn - www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a 
 ```
 
-GitHub
+## GitHub
+
 ```
 https://github.com/kukuu?tab=repositories
 ```
 
-Key Technologies
+## Key Technologies
 
 ```
 https://github.com/kukuu/siliconlabs/blob/master/README.md 
 ```
 
-Architecture 
+## Architecture 
 
 ```
 White Paper - https://github.com/kukuu/AGILITY/tree/master/white-paper
@@ -58,7 +59,7 @@ White Paper - https://github.com/kukuu/AGILITY/tree/master/white-paper
 ```
 
 
-Scaffolding Blue Print 
+## Scaffolding Blue Print 
 
 ```
 Tooling & Infrastructure - https://github.com/kukuu/AGILITY/blob/master/README-scaffolding.md 
@@ -66,7 +67,7 @@ Tooling & Infrastructure - https://github.com/kukuu/AGILITY/blob/master/README-s
 ```
 
 
-Blog
+## Blog
 
 ```
 Agility - https://github.com/kukuu/AGILITY
