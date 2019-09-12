@@ -130,3 +130,6 @@ As soon as the product is given to the customers they will first do the beta tes
 
  Once when the customers starts using the developed system then the actual problems comes up and needs to be solved from time to time. This process where the care is taken for the developed product is known as maintenance.
  
+ ## Unveiling CADMA practicing methodology
+ (Blue print)
+ 
