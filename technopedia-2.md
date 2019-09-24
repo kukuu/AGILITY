@@ -700,7 +700,7 @@ iv. Need to mitigate performance
 
 v. Log monitoring
 
-## Setting up a  microservice team
+## Seeting up a  microservice team
 
 1.	Set up feature teams  that can possibly set up a new service in under four hours. What this means
 	is Developing services should not   require knowledge of the infrastructure and changing 
@@ -1047,13 +1047,8 @@ Note any changes should not change the user experience. Just the underlying arch
 
 Implementation
 
-In the conversion we use:
-
-i. dispatcher proxy to the monolithic (legacy system) to capture requests and direct it to the micro-service
-
-ii. Use Apache config file to do re-write rule for the new urls (end points) - Apache's re-write engine switched on. 
-
-iii. Each URL with a string in it will be re-written.
+In the conversion we use a dispatcher proxy to the monolithic (legacy system) to capture requests and direct it to the micro-service
+ii. Use Apache config file to do re-write rule for the new urls (end points) - Apache's re-write engine switched on. Each URL with a string in it will be re-written.
 
 
 ## Data-driven 
@@ -1233,6 +1228,8 @@ UI testing (black box)
 
 Integration Testing.
 
+https://www.youtube.com/watch?v=_JNeiGbAgL4
+
 
 ## jMeter
 
@@ -1245,8 +1242,23 @@ Apache JMeter is open source software, a 100% pure Java desktop application, des
 Junit is widely used testing framework along with Java Programming Language. You can use this automation framework for both unit testing and UI testing.it helps us define the flow of execution of our code with different Annotations.7 D
 
 
-##  Scaling MySQL
+## Black Box Testing
 
+Black Box Testing is a software testing method in which the internal structure/ design/ implementation of the item being tested is NOT known to the tester. White Box Testing is a software testing method in which the internal structure/ design/ implementation of the item being tested is known to the tester.
+
+
+This method of test can be applied virtually to every level of software testing: unit, integration, system and acceptance.
+
+## White Box Testing
+
+Statement Coverage – ensure every single line of code is tested.
+Branch Coverage – ensure every branch (e.g. true or false) is tested.
+Path Coverage – ensure all possible paths are tested.
+
+
+##  SMACSS
+
+Smacss (Scalable and Modular Architecture for CSS) is a style guide that follows five simple categories. SMACSS is a way to examine your design process and to fit those rigid frameworks into a flexible thought process.
 
 ## Headless CMS
 
@@ -1262,6 +1274,8 @@ Other than by using a regular/monolithic CMS, one website can’t be built only 
 
 Creating the whole website on their own seems like a big task on the list, but by decoupling the CMS from the front-end a developer can choose any technology he is already familiar with and does not need to learn the technology for that specific CMS. Another big bonus is the fact that one developer can also focus on their own work without handling the bugs of an already existing stack of technology - therefore it is easier to optimize pages for googles pagespeed and even relaunch parts of the website.
 
+DRUPAL with JSON API to Headless CMS - https://www.youtube.com/watch?v=tDj41kSjKvA
+
 ### APIs
 
 There are following REST-APIs available at the endpoint api.storyblok.com/v1/cdn.
@@ -1275,7 +1289,16 @@ Links, For receiving the mappings of the story links
 Datasource_entries, For receiving datasources (key value pairs)
 The endpoint is made for highspeed delivery and therefore the content is cached in a CDN. If you want to receive the uncached version of your content you need to provide a version parameter in the URL. This parameter is cache_version and usually has a timestamp (The SDKs automatically ups the version timestamp).
 
-Resource - https://www.storyblok.com/tp/headless-cms-explained
+Resource - 
+
+i. https://www.storyblok.com/tp/headless-cms-explained
+
+ii. https://www.youtube.com/watch?v=FOZtRzY5x8E
+
+iii. REST Frameworks for node
+
+a. HapiJS
+b. Loopback
 
 ### SDKs
 
@@ -1392,6 +1415,57 @@ TDD is a developer-focused methodology that aims to encourage well-written units
 BDD extends the process of TDD. However, the tests describe behavior.
 
 
+## APIGEE API Hybrid Management
+
+https://cloud.google.com/apigee/
+
+
+## Terraform
+
+It is a command line tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire datacenter.
+
+ Terraform is an “infrastructure as code” tool similar to AWS. Terraform's code is written in HashiCorp's proprietary language called HashiCorp Configuration Language (HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable.
+
+  It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+  https://linoxide.com/devops/install-terraform-provision-aws-ec2-instance/
+
+
+## VPCs and Subnets
+
+A virtual private cloud (VPC) is a virtual network dedicated to your AWS account. It is logically isolated from other virtual networks in the AWS Cloud. You can launch your AWS resources, such as Amazon EC2 instances, into your VPC.
+
+Benefit of VPC is that it helps in aspects of cloud computing like privacy, security and preventing loss of proprietary data. Lets take a look at some of the basics of a VPC. Subnets: A subnet can be thought of as dividing a large network into smaller networks.
+
+
+### CIDR
+
+Classless inter-domain routing (CIDR) is a set of Internet protocol (IP) standards that is used to create unique identifiers for networks and individual devices. The IP addresses allow particular information packets to be sent to specific computers.
+
+https://specialties.bayt.com/en/specialties/q/270484/what-is-cidr-and-why-it-is-important-in-today-s-scenario/
+
+## Pretty JSON parser
+
+http://json.parser.online.fr
+
+## Kotlin
+
+A statically typed language. A JVM  typed languag. Needs the JVM to execute its bytecode. Fully interoperable with JAVA, and other Server side languages.
+
+Has support to avoid the null pointer exception
+
+Supports Immutability (Values don't change after initialization)
+
+OO Language
+
+Supports functional programming
+
+Can compile into JS and run in Browser
+
+https://www.youtube.com/watch?v=iC8LRjd67Ds 
+
+https://www.youtube.com/watch?v=k9K71QkrHGE
+
 ## IIFE
 
 An IIFE, or Immediately Invoked Function Expression, is a common JavaScript design pattern used by most popular libraries (jQuery, Backbone.js, Modernizr, etc) to place all library code inside of a local scope. ... An IIFE protects a module's scope from the environment in which it is placed.
@@ -1493,6 +1567,7 @@ var Customer = (function(){
 
 Features:
 
+
 1. Run time error checks - during compilation
 
 2. Safe - Datatype pre-determined
@@ -1510,6 +1585,8 @@ Features:
 8. IIFES - JS design pattern
 
 9. Performance friendly - Uses On-demand/Modular loading (3rd party Middlewares SystemJS/Webpack/RequireJS/CommonJS/AMD/lODASH)
+
+10. On demand loading
 
 Use 'npm i systemjs' - loads asynchronously
 
@@ -1587,7 +1664,7 @@ class Customer {
 		if(value.length == 0){
 			throw "Customer Name is required";
 		}
-		//end exception
+		//end exception. If there is exception, following statement will not run
 
 		this._customerName = value;
 	}
@@ -1706,7 +1783,7 @@ html
 ```
 export class Address{
 
-	public Street1: string = ';
+	public Street1: string = '';
 }
 
 class DB {
@@ -1763,72 +1840,40 @@ html
 
 		system.import("Customer.js").
 		then(function(exports){
-			var cust = new exports. Customer();
+			var cust = new exports.Customer();
 		});
 	</script>
 </body>
 ```
 
 
-##. Find the sum of multiple numbers of argumnets
+## Setting up a React + TypeScript + SASS + Webpack and Babel project in 6 Steps
 
-i. Old school
+https://medium.com/swlh/setting-up-a-react-typescript-sass-webpack-and-babel-7-project-in-6-steps-b4d172d1d0d6
 
-```
-function sum(){
-  var sum =0; 
-  for(var i=0;i<arguments.length;i++){
-     sum += arguments[i];
-  }
-   return sum;
-}
-sum(1,2); // returns 3
-sum(1,2,3); // returns 6
 
-```
+## OKR
 
-ii. ES6
+The acronym OKR stands for Objectives and Key Results, a popular goal management framework that helps companies implement strategy. The benefits of the framework include improved focus, increased transparency, and better alignment. It also helps companies to move from an output to an outcome-based approach to work.
 
-```
-const sum = (...args) => [...args].reduce((a, b) => a + b, 0);
+## Deep and Shallow clones
 
-```
+In programming, we store values in variables.
 
-iii. Using closures
+A deep copy means that all of the values of the new variable are copied and disconnected from the original variable. A shallow copy means that certain (sub-)values are still connected to the original 
 
-```
-var add = function(x) {
-  
-   return function(y) { return x + y; };
+https://we-are.bookmyshow.com/understanding-deep-and-shallow-copy-in-javascript-13438bad941c
 
-}
-```
 
-## The Fibonacci sequence
+## PEGA CRM
 
-// Please write a function which given an input of an integer N
-// returns an array containing N fibonacci numbers.
-// Assume that the input is always an integer and never less than 2.
-//
-// Examples:
-// 2 => [0,1]
-// 3 => [0,1,1]
-// 8 => [0,1,1,2,3,5,8,13]
+PEGA is a Business Process Management tool (BPM). It is developed on Java and uses OOP and java concepts. The main use of PEGA technology is to reduce cost and is used in improving business purpose . Pega allows organizations to deploy changes eight times faster than Java based applications.
 
-// linear Solution
+## Native array methods 
 
-function fb(n) {
-  //[0,1, 1, 2, 3, 5, 8]
+Native array methods that iterate through all its items are: indexOf, lastIndexOf, includes, fill, and join. 
 
-  let nums = [0, 1];
-
-  for (let i = 2; i < n; i++) {
-    nums.push(nums[i - 2] + nums[i - 1]);
-  }
-  console.log(nums);
-  return nums[n - 1];
-}
-//recursion would turn it expoential  and could take longer to execute
+Additionally, we can provide a callback function to the following methods: findIndex, find, filter, forEach, map, some, every, and reduce.
 
 ## Selections
 
@@ -1856,5 +1901,7 @@ function fb(n) {
 | Build Real Web App with React | https://www.youtube.com/watch?v=NO2DaxhoWHk - https://github.com/bearski/reddice - https://github.com/Remchi/bookworm-react/commits/master |
 | AJAX - Generates JSON datasets for testing | http://www.filltext.com/ |
 |  Redux Saga | https://www.youtube.com/watch?v=aH2qQGgugG0 |
+
+
 
 
