@@ -139,3 +139,28 @@ Using AWS Auto Scaling, you maintain optimal application performance and availab
 #### PAY ONLY FOR WHAT YOU NEED
 
 AWS Auto Scaling can help you optimize your utilization and cost efficiencies when consuming AWS services so you only pay for the resources you actually need. When demand drops, AWS Auto Scaling will automatically remove any excess resource capacity so you avoid overspending. AWS Auto Scaling is free to use, and allows you to optimize the costs of your AWS environment.
+
+## Terraform
+
+It is a command line tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire datacenter.
+
+ Terraform is an “infrastructure as code” tool similar to AWS. Terraform's code is written in HashiCorp's proprietary language called HashiCorp Configuration Language (HCL). HCL is a structured configuration language that is intended to be both machine friendly and human readable.
+
+  It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
+  https://linoxide.com/devops/install-terraform-provision-aws-ec2-instance/
+
+
+## VPCs and Subnets
+
+A virtual private cloud (VPC) is a virtual network dedicated to your AWS account. It is logically isolated from other virtual networks in the AWS Cloud. You can launch your AWS resources, such as Amazon EC2 instances, into your VPC.
+
+Benefit of VPC is that it helps in aspects of cloud computing like privacy, security and preventing loss of proprietary data. Lets take a look at some of the basics of a VPC. Subnets: A subnet can be thought of as dividing a large network into smaller networks.
+
+
+## CIDR
+
+Classless inter-domain routing (CIDR) is a set of Internet protocol (IP) standards that is used to create unique identifiers for networks and individual devices. The IP addresses allow particular information packets to be sent to specific computers.
+
+https://specialties.bayt.com/en/specialties/q/270484/what-is-cidr-and-why-it-is-important-in-today-s-scenario/
+
