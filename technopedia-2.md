@@ -1860,9 +1860,9 @@ The acronym OKR stands for Objectives and Key Results, a popular goal management
 
 In programming, we store values in variables.
 
-A deep copy means that all of the values of the new variable are copied and disconnected from the original variable. A shallow copy means that certain (sub-)values are still connected to the original 
+A deep copy means that all of the values of the new variable are copied and disconnected from the original variable. A shallow copy means that certain (sub-)values are still connected to the original.
 
-https://we-are.bookmyshow.com/understanding-deep-and-shallow-copy-in-javascript-13438bad941c
+https://github.com/kukuu/algorithms/tree/master/algorithms/copy-clone
 
 
 ## PEGA CRM
@@ -1901,7 +1901,3 @@ Additionally, we can provide a callback function to the following methods: findI
 | Build Real Web App with React | https://www.youtube.com/watch?v=NO2DaxhoWHk - https://github.com/bearski/reddice - https://github.com/Remchi/bookworm-react/commits/master |
 | AJAX - Generates JSON datasets for testing | http://www.filltext.com/ |
 |  Redux Saga | https://www.youtube.com/watch?v=aH2qQGgugG0 |
-
-
-
-
