@@ -1856,13 +1856,45 @@ https://medium.com/swlh/setting-up-a-react-typescript-sass-webpack-and-babel-7-p
 
 The acronym OKR stands for Objectives and Key Results, a popular goal management framework that helps companies implement strategy. The benefits of the framework include improved focus, increased transparency, and better alignment. It also helps companies to move from an output to an outcome-based approach to work.
 
+https://ally.io/?utm_campaign=1344228909&utm_source=google&utm_medium=cpc&utm_content=262344502731&utm_term=%2Bokr%20methodology&adgroupid=59637947171&gclid=Cj0KCQjw_absBRD1ARIsAO4_D3uD9KBxv7pjM1weNaX7cTekgUxifuWajjvz-7x_WqKwBtHh5M0SLGkaAl-yEALw_wcB
+
 ## Deep and Shallow clones
 
 In programming, we store values in variables.
 
-A deep copy means that all of the values of the new variable are copied and disconnected from the original variable. A shallow copy means that certain (sub-)values are still connected to the original.
+A deep copy means that all of the values of the new variable are copied and disconnected from the original variable. A shallow copy means that certain (sub-)values are still connected to the original 
 
-https://github.com/kukuu/algorithms/tree/master/algorithms/copy-clone
+https://we-are.bookmyshow.com/understanding-deep-and-shallow-copy-in-javascript-13438bad941c
+
+## Curry and compositional programming
+
+Currying is the process of taking a function with multiple arguments and turning it into a sequence of functions each with only a single argument.
+
+https://medium.com/front-end-weekly/javascript-es6-curry-functions-with-practical-examples-6ba2ced003b1
+
+```
+const sum = x => y => z => x + y + z;
+
+// JavaScript substring: str.substr(start[, length])
+
+//definin
+const curriedSubstring = start => length => str
+  => str.substr(start, length);
+
+//get
+const getSubstring = (start, length, str)
+  => curriedSubstring (start) (length) (str);
+
+  //get first characters
+const getFirstCharacters = (length, str) =>
+curriedSubstring (0) (length) (str);
+
+//get first character
+const getFirstCharacter = str => curriedSubstring (0) (1) (str);
+
+
+
+```
 
 
 ## PEGA CRM
@@ -1874,6 +1906,205 @@ PEGA is a Business Process Management tool (BPM). It is developed on Java and us
 Native array methods that iterate through all its items are: indexOf, lastIndexOf, includes, fill, and join. 
 
 Additionally, we can provide a callback function to the following methods: findIndex, find, filter, forEach, map, some, every, and reduce.
+
+## Features PHP 7:
+
+Scalar type declarations.
+
+Return type declarations.
+
+Null coalescing operator.
+
+Spaceship operator.
+
+Constant arrays using define()
+
+Anonymous classes.
+
+Unicode codepoint escape syntax.
+
+Closure: call()
+
+## CSS3
+
+
+Box Shadows.
+
+CSS3 Selectors. 
+
+Font Additions. 
+
+Rounded Corners. 
+
+Border Images. 
+
+Opacity Levels. 
+
+Transform.
+
+CSS3 Text Shadow.
+
+Media  queries
+
+## 10 ways to avoid cross-browser compatibility issues
+
+Validate your code.
+
+Fail gracefully. 
+
+Know your audience. 
+
+Consider using a framework. 
+
+Keep your design simple. 
+
+Reuse and reduce components.
+
+Test with the difficult browsers first. 
+
+Use automation - Create test scripts .
+
+
+## JS Design Pttens
+
+Constructor Pattern
+
+Module Pattern
+
+Revealing Module Pattern
+
+Singleton Pattern
+
+Observer Pattern
+
+Mediator Pattern
+
+Prototype Pattern
+
+Command Pattern
+
+Facade Pattern
+
+Factory Pattern
+
+Mixin Pattern
+
+Decorator Pattern
+
+Flyweight Pattern
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
+
+## JavaScript MV* Patterns
+
+MVC Pattern
+
+MVP Pattern
+
+MVVM Pattern
+
+## Modern Modular JavaScript Design Patterns
+
+AMD
+
+CommonJS
+
+SystemJS
+
+ES Harmony
+
+## Best practices in software engineering
+
+Develop iteratively.
+
+Manage requirements and edge cases.
+
+Use component architecture.
+
+Model software visually.
+
+Verify quality.
+
+Control change.
+
+Use SOLID Principles
+
+
+## Agile methodologies
+
+Scrum
+
+Lean Software Development
+
+Kanban
+
+Extreme Programming (XP) - Extreme Programming is about putting individuals and interactions over processes and tools, working software over documentation, customer collaboration over contract negotiation, and responding to change over following a plan. Extreme Programming should be applied to systems that have no constant functionality features. If the system should often change its functions it requires the use of Extreme Programming method.
+
+Crystal
+
+Dynamic Systems Development Method (DSDM)
+
+Feature Driven Development (FDD)
+
+
+## Map & ForEach Defined
+
+
+forEach() — executes a provided function once for each array element.
+
+map() — creates a new array with the results of calling a provided function on every element in the calling array.
+
+
+The forEach() method doesn’t actually return anything (undefined). It simply calls a provided function on each element in your array. This callback is allowed to mutate the calling array.
+
+Meanwhile, the map() method will also call a provided function on every element in the array. The difference is that map() utilizes return values and actually returns a new Array of the same size.
+
+
+## PHP REST API with Database & Read
+
+https://www.youtube.com/watch?v=OEWXbpUMODk
+
+## PHP Validate email
+
+```
+<?php
+declare(strict_types=1);
+namespace UnitTestFiles\Test;
+use PHPUnit\Framework\TestCase;
+final class EmailTest extends TestCase
+{
+   public function testCanBeCreatedFromValidEmailAddress(): void
+   {
+       $this->assertInstanceOf(
+           Email::class,
+           Email::fromString('user@example.com')
+       );
+   }
+   public function testCannotBeCreatedFromInvalidEmailAddress(): void
+   {
+       $this->expectException(InvalidArgumentException::class);
+       Email::fromString('invalid');
+   }
+   public function testCanBeUsedAsString(): void
+   {
+       $this->assertEquals(
+           'user@example.com',
+           Email::fromString('user@example.com')
+       );
+   }
+}
+
+```
+
+
+## Cordova platform
+
+Cordova is an open-source mobile development framework. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development, avoiding each mobile platforms' native development language.
+
+https://www.youtube.com/watch?v=CDY1fRZycGk
+
 
 ## Selections
 
@@ -1901,3 +2132,7 @@ Additionally, we can provide a callback function to the following methods: findI
 | Build Real Web App with React | https://www.youtube.com/watch?v=NO2DaxhoWHk - https://github.com/bearski/reddice - https://github.com/Remchi/bookworm-react/commits/master |
 | AJAX - Generates JSON datasets for testing | http://www.filltext.com/ |
 |  Redux Saga | https://www.youtube.com/watch?v=aH2qQGgugG0 |
+
+
+
+
