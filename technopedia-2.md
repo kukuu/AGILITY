@@ -1102,7 +1102,7 @@ Use composer require -dev to find all packages here https://packagist.org/_
 
 ## Implode()
 
-The implode() function returns a string from the elements of an array. Note: The implode() function accept its parameters in either order. However, for consistency with explode(), you should use the documented order of arguments. ... However, it is recommended to always use two parameters for backwards compatibility.
+The implode() function returns a string from the elements of an array. Note: The implode() function accept its parameters in either order. However, for consistency with explode(), you should use the documented order of arguments. However, it is recommended to always use two parameters for backwards compatibility.
 
 
 ## OWASP
@@ -1447,6 +1447,12 @@ https://specialties.bayt.com/en/specialties/q/270484/what-is-cidr-and-why-it-is-
 ## Pretty JSON parser
 
 http://json.parser.online.fr
+
+## Bundlephobia 
+
+Find the cost of adding a npm package to your bundle
+
+https://bundlephobia.com
 
 ## Kotlin
 
@@ -1946,6 +1952,115 @@ CSS3 Text Shadow.
 
 Media  queries
 
+## REACT snippets
+
+
+
+
+index.js
+
+
+```
+import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+import MyBox from './component/component';
+import './index.css'
+
+class MyApp extends React.Component{
+
+	render(){
+
+		return(
+			<MyBox />
+		)
+	}
+}
+
+ReactDOM.render( <MyApp />,document.getElementById("result"))
+
+```
+
+
+Cmponent shell ()component.js
+
+```
+import React { Component } from 'react';
+
+class MyBox extends React.Component{
+	
+	render(){
+		return(
+
+		)
+	}
+}
+
+export default MyBox;
+
+```
+
+API call with axios - actions/index.js
+
+```
+import axios from 'axios';
+
+export function loadColour(){
+	return(dispatch) => {
+		return axios.get('endPointURL').then((response) => {
+			dispatch(changeColor(response.data))
+		})
+	}
+}
+
+
+export function changeColor(color){
+	retun {
+		type:"CHANGE_COLOR",
+		payload: color
+	}
+}
+
+
+```
+
+
+## CloudBees Core
+
+ Is a continuous delivery solution that provides manageability, security, best practices and supports multiple platforms, teams, and geographical locations. ... CloudBees Core on modern cloud platforms provides flexible, governed continuous delivery with the high availability and scalability of Kubernetes.
+
+
+
+## OWASP
+
+The OWASP Top 10 list consists of the 10 most seen application vulnerabilities:
+
+Injection.
+
+Broken Authentication.
+
+Sensitive data exposure.
+
+XML External Entities (XXE)
+
+Broken Access control.
+
+Security misconfigurations.
+
+Cross Site Scripting (XSS)
+
+Insecure Deserialization.
+
+
+## HTTP2 
+
+Concurrent downloads streamlined within a single TCP connection
+
+Enable browsers to fetch crucial assets of a web page first
+
+Optimize and improve HTTP header compression
+
+And integrating a feature known as 'Server Push' that allows the server to deliver crucial data before the browser asks for it.
+
 ## 10 ways to avoid cross-browser compatibility issues
 
 Validate your code.
@@ -1963,6 +2078,10 @@ Reuse and reduce components.
 Test with the difficult browsers first. 
 
 Use automation - Create test scripts .
+
+
+
+
 
 
 ## JS Design Pttens
@@ -2104,6 +2223,14 @@ final class EmailTest extends TestCase
 Cordova is an open-source mobile development framework. It allows you to use standard web technologies such as HTML5, CSS3, and JavaScript for cross-platform development, avoiding each mobile platforms' native development language.
 
 https://www.youtube.com/watch?v=CDY1fRZycGk
+
+## PreCSS
+
+PreCSS is a tool that allows you to use Sass-like markup in your CSS files. It lets you enjoy a familiar syntax with variables, mixins, conditionals and other goodies. ... PreCSS alone will give us most of what we'd need to replace Sass, but there are plenty of additional PostCSS plugins to choose from.
+
+## PostCSS-cssnext 
+
+PostCSS-cssnext is a PostCSS plugin that helps you to use the latest CSS syntax today. It transforms CSS specs into more compatible CSS so you don't need to wait for browser support.
 
 
 ## Selections
