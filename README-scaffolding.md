@@ -36,6 +36,14 @@ The patterns and best practices mentioned here should be discussed, mitigated an
  
  SOA 
  
+ EAI (Enterprise Application Integration)
+ 
+ ESB (Enterprise Service Bus)
+ 
+ XML
+ 
+ JSON
+ 
  Hosting
  
  Microservices
@@ -207,17 +215,23 @@ Codeship
 
 11. Containerisation (Docker Kubernetes)
 
-12. Prometheus
+12. Sonarcube
 
-13. SNYK
+13. Prometheus
 
-14. Server Security (SSL, TLS) & Monitoring (KIBANA, Prometheus)
+14. SNYK
 
-15. Deploymnet Servers  (Jenkins, Tomcat)
+15. Server Security (SSL, TLS) & Monitoring (KIBANA, Prometheus)
 
-16. Jenkins
+16. Deploymnet Servers  (Jenkins, Tomcat)
 
-17. Terraform
+17. Jenkins
+
+18. Terraform
+
+19. Pager
+
+20. KIBANA
 
 ```
 
@@ -226,7 +240,7 @@ Codeship
 ```
 1. Micro-services
 
-2. SOA
+2. SOA, EAI, ESB, Middlewares, Adapters
 
 4. Integration - Cloud and Proprietory
 
@@ -239,5 +253,7 @@ Codeship
 6. GraphQL
 
 7. Fastify
+
+8. Postman
 
 ```
