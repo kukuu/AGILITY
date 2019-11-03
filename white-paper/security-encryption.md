@@ -59,6 +59,129 @@ DSA
 
 ```
 
+
+## OWASP (Open Web Application Security Project )
+
+OWASP (Open Web Application Security Project) is an organization that provides unbiased and practical, cost-effective information about computer and Internet applications.
+
+
+The OWASP Top 10 list consists of the 10 most seen application vulnerabilities:
+
+1. Injection.
+
+2. Broken Authentication.
+
+3. Broken Access control.
+
+4. Sensitive data exposure.
+
+5. XML External Entities (XXE)
+
+6. Security misconfigurations.
+
+7. Cross Site Scripting (XSS)
+
+8. Insecure Deserialization.
+
+## Types of injection Attacks
+
+https://dzone.com/articles/what-are-injection-attacks
+
+i. XSS (Cross Site Scripting) - Inject arbitrary JS into a legitimate website/application, which is executed in the users browser.
+
+ 
+
+ii. CRLF (Carriage Return Line Feed) - Injection of unexpected CRLF.
+
+Injects an unexpected CRLF (Carriage Return and Line Feed) character sequence used to split an HTTP response header and write arbitrary contents to the response body, including Cross-site Scripting (XSS).
+
+
+
+iii. Email injection (Mail Command SMTP) - Injects SMTP/IMAP statements into an email server
+
+Potential Impact 
+
+iv Host Header Injection - Abuses the implicit trust of the HTTP host Header to poison passsword re-set functionality.
+
+
+
+v LDAP injection - Injects LDAP (Lightweight  Directory Access Protocol) statements to execute arbitrary LDAP commands including granting permissions and modifying contents of an LDAP tree.
+
+
+vi. SQLi (SQL injection) - Injects SQL commands that can read or modify data from a database. Advanced variations of this attack can be used to write arbitrary files to the server and even execute OS commands which may lead to full system compromise.
+
+
+
+vii. XPath injection - Inject data into an application to execute crafted XPath queries which can be used to access unauthorized data and bypass authentication.
+
+ 
+
+viii. Code injection - Injects application code which can execute operating system commands as the user running the web application.
+
+
+
+vix. CSRF (XSRF)
+
+Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they're currently authenticated. CSRF attacks specifically target state-changing requests, not theft of data, since the attacker has no way to see the response to the forged request.
+
+A csrf token is generated for the forms and Must be tied to the user's sessions. It is used to send requests to the server, in which the token validates them. This is one way of protecting against csrf, another would be checking the referrer header.
+
+
+## What is the difference between XSS and CSRF?
+
+Fundamental difference is that CSRF (Cross-site Request forgery) happens in authenticated sessions when the server trusts the user/browser, while XSS (Cross-Site scripting) doesn't need an authenticated session and can be exploited when the vulnerable website doesn't do the basics of validating or escaping input.
+
+## XSS Attack 
+
+The concept of XSS is to manipulate client-side scripts of a web application to execute in the manner desired by the malicious user. Such a manipulation can embed a script in a page that can be executed every time the page is loaded, or whenever an associated event is performed.
+
+XSS is a web-based attack performed on vulnerable web applications.
+In XSS attacks, the victim is the user and not the application.
+In XSS attacks, malicious content is delivered to users using JavaScript.
+
+XSS vulnerabilities gives the attackers the capability to inject client-side scripts into the application, for example to re-direct users to malicious websites
+
+It can be used to hi-jack user accounts, spread worms, and Trojans, access browser history and clipboard contents, control the browser remotely, and scan and exploit online appliances and applications.
+
+Example
+
+Cyber criminals exploited a persistent XSS vulnerability in the eBay website to embed malicious JavaScript in legitimate listings, redirecting them to spoofed eBay login paes for phishing user credentials.
+
+
+Featurs of XSS:
+
+
+i. XSS is a web-based attack performed on vulnerable web applications.
+
+ii.In XSS attacks, the victim is the user and not the application.
+
+iii. In XSS attacks, malicious content is delivered to users using JavaScript.
+
+https://www.veracode.com/security/xss
+
+
+
+Examples:
+
+For example, the attacker could send the victim a misleading email with a link containing malicious JavaScript. If the victim clicks on the link, the HTTP request is initiated from the victim's browser and sent to the vulnerable web application.
+
+
+## How to Prevent an SQL Injection
+
+The only sure way to prevent SQL Injection attacks is 
+
+i. Input validation and parametrized queries including prepared statements. The application code should never use the input directly. 
+
+ii. The developer must sanitize all input, not only web form inputs such as login forms. 
+
+iii. They must remove potential malicious code elements such as single quotes. 
+
+iv. It is also a good idea to turn off the visibility of database errors on your production sites. Database errors can be used with SQL Injection to gain information about your database.
+
+https://www.acunetix.com/websitesecurity/sql-injection2/
+
+
+
 ## Working with Cloud Security 
 
 - https://github.com/kukuu/AGILITY/blob/master/Cloud-app-security.md 
