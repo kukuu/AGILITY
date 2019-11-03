@@ -11,7 +11,9 @@ A project manager can be skilled at putting the project together, but may fail i
 3. Use templates to help complete your documentation and keep consistency—but remember, templates are a guide, not a rulebook!
 Templates are great because they give you the freedom from the waste of reinventing the wheel over and over again. But, don’t let them take over your processes and halt your creativity. Treat your projects as a roadmap, and don't be afraid to explore some back roads on your own. Who knows? You may discover a better, faster, cleaner way of doing things — all on your own!
 
-Effective project management depends on clear business communications.4. Understand earned value management systems (EVMS)
+Effective project management depends on clear business communications.
+
+4. Understand earned value management systems (EVMS)
 Inevitably, your project sponsor is going to ask you the typical questions, "About how far along are you with your project? Are you on schedule? And are you within budget?" You may have a general idea, but how can you be more certain? If you have a system such as EVMS put in place, you will be able to report on the project status with more confidence and therefore earn more credibility among your team members and stakeholders. But remember, if you don't fully understand the metrics, neither will they, so make sure you are "up-to-speed" on how to obtain the data so you can convey the information effectively.
 
 5. Get the right resources behind you
@@ -21,6 +23,7 @@ Some people have a knack for this; others have to work at it. It's all about get
 It is imperative to communicate with your stakeholders early on in the project and often. This not only builds trust but you may also gain valuable insights about how you can increase the likelihood of success for your project; however, remember to be flexible about your methods of communication. Some people are more at ease in person, some over email or on the phone, and others one-on-one or in big groups. You'll find that the more comfortable people feel, the more they will be willing to cooperate with you to get the job done.
 
 For more information on this topic, as well as how Corporate Education Group can help optimize your organization's performance, contact us or call 1.800.288.7246 (US only) or +1.978.649.8200.
+
 7. Learn how to problem-solve with confidence
 A problem may be the difference between your current state and your goal state, but it is also an opportunity for improvement. Be confident in your abilities to brainstorm and implement solutions. After all, a problem can be a real break, the stroke of luck, a chance to get out of the rut of the everyday and make yourself or some situation better. Note that problems need not arrive as a result of external factors or bad events. Any new awareness you have that allows you to see possibilities for improvement brings a "problem" for you to solve.
 
@@ -30,12 +33,16 @@ Having a narrow technical focus is not enough to be a successful project manager
 9. Formally "kick off" your projects
 Your first project meeting is an opportunity to share your plan for leading the project to a successful completion. You should take advantage of this one-time chance to energize the group, set proper expectations, and establish guidelines that will help you complete the project on time and within budget.
 
-When it comes to team meetings, always have an agenda!10. Hold regular team meetings
+When it comes to team meetings, always have an agenda!
+
+10. Hold regular team meetings
 Team meetings don't have to be useless, dull, and never-ending. You can distribute information, solicit feedback, set timelines, line up resources, and update all your stakeholders in just a few minutes, something that would take days to accomplish in email or one-on-one. If you're only going to remember three things about effective meetings, note the following:
 
 Always have an agenda.
 Stay on track (this is not the time for you to give your colleagues a "play-by-play" of your son's weekend soccer tournament).
 Following the meeting, email everyone the key takeaways and decisions to avoid possible misunderstandings.
+
+
 11. Don't be afraid of what might go wrong
 A proactive project manager tries to resolve potential problems before they happen by developing a risk management plan. Yet, not all issues can be foreseen and the unlikely can occur — so don't be afraid of what might go wrong! Some things are simply out of your control, and you will inevitably make mistakes in your career. The key is to learn from your mistakes by understanding what didn't work and how you can improve upon it the next time around.
 
@@ -65,6 +72,7 @@ Let you see who the "thought leaders" are.
 Inform you of companies — or individuals — with whom you may like to work
 Provide information about upcoming conferences, networking opportunities and professional development opportunities.
 Allow access to journals, job listings, newsletters, articles, blogs, and much, much more!
+
 19. Formally closeout the project
 There are important lessons to be learned through the project closeout phase. Projects can be mined for best practices and lessons can be shared and leveraged across the organization; these insights should be documented along with any possible improvements for next time. The project closeout is also an important time for recognition. The project team has spent a great deal of time and effort on the project, and often so have the various stakeholders, which leads us to our last words of wisdom...
 
