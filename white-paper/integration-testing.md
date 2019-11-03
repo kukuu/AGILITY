@@ -1,5 +1,5 @@
 
-# Integration Testing in CI
+# Testing in CI
 
 Traditionally, integration testing happened between unit testing and validation testing. That model fits well in a waterfall environment, where the development phases are clear and distinct.
 
@@ -20,7 +20,7 @@ Continuous integration (CI)  relies on the following best practices being in pla
 7. Test in a clone of the production environment.
 
 
-## Strategy you could consider for your testing regime:
+## Integration testing regime - Strategy you could consider:
 
 1. Run integration tests until something fails
 
