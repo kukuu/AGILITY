@@ -25,5 +25,5 @@ Senior executives must discover new ways of generating income, especially as tra
 
 5. Humility to admit mistakes, sharing of achievements.
 
-Senior executives with P & L responsibility are often required to communicate P & L statements to owners, shareholders and the entire organization, justifying expenditures and explaining profit levels. Mistakes should be openly discussed, followed by suggested next steps and potential solutions. Hiding any information or problems leads to isolation from key thought leaders, and ultimately distrust (and possible dismissal). On the other hand, achievements need to be clearly communicated, attributing success to those involved.
+Senior executives with P & L responsibility are often required to communicate P & L statements to owners, shareholders and the entire organization, justifying expenditures and explaining profit levels. Mistakes should be openly discussed, followed by suggested next steps and potential solutions. Hiding any information or problems leads to isolation from key thought leaders, and ultimately distrust (and possible dismissal). On the other hand, achievements need to be clearly communicated, celebrating and attributing success to those involved.
 
