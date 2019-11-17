@@ -61,6 +61,8 @@ iii. Teams with inexperienced developers who don’t understand other architectu
 iv.  Applications requiring strict maintainability and testability standards
  
  
+ Multi tier - https://github.com/kukuu/AGILITY/blob/master/white-paper/restfulArchitecturalDesign-2.png
+ 
 ## 2. Microservices architecture
 
 Microservices are self contained processes that provides unique business capabilities.  Each individual service boosts of its own data federation unlike momoliths for  deployment.
