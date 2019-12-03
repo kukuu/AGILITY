@@ -105,7 +105,51 @@ Other duties will include involved in recruitment and retention strategy, on-boa
 co-facilitating development community of practice, appraisals & Performance Management, 
 organising recognition awards and socials, and finally stays far away to let them problem-solve on their own.
 
+### Summary
 
+```
+1. Accountable to the business  on the end to end software and service 
+delivery by the technical teams.
+
+2. Responsible for technical and architectural direction of the teams and 
+system improvement. 
+
+3. Responsible for Line Management, motivation,  Influencing dispersed teams the teams. 
+Near shore/Off shore.
+
+4. Providing Lean Agile Leadership to cross functional teams through empowerment.
+Ensuring they are empowered, autonomous and collaborative. 
+
+5. Must be hands on if needed, and  remains close enough to the team to add value 
+
+6. Attend SPRINT planning sessions supporting the Product Owner
+
+7. Actively engages with Product owner and Agile Coach to review and refine  
+the development process.
+
+8. Ensure engineers are supported with resources   for working effectively. 
+Removing impediments
+
+9. Ensuring very minimum  or no downtime. Engineers are engaged. Ensuring platform is 
+credible and resilient- AREST 
+
+Automation,  Reliable,  Reproducible,  Elastic, Smooth and Traceable.
+
+10. Enforcing adherence to best engineering practices  in Agile, CI,CD,Automation,
+Quality  Checks, consistency in environments using Containers (Docker/Kubernetes). 
+Ensure agile  ceremonies  moves smoothly 
+
+11.Head  Graduate Academy (if any)
+
+12. Evaluating performance, benefits, promotions, 1-2-1 catchups, Appraisal, 
+Corrective actions, administering compensation, Personal development and Training programs 
+
+13. Ensure documentation is continuously reviewed, optimised and to support On-boarding.
+
+14. Subtle control in assigning individuals to teams
+
+
+```
 ## How are Scrum and Kanban different
 
 There are a number of differences in both the philosophy behind and the practical application of Scrum and Kanban. While the individual differences are many, they can be grouped into the following three buckets:
