@@ -104,3 +104,7 @@ Testers using BDD need to have enough technical skills.
 ## Working with BDD
 
 https://github.com/kukuu/CI-CD-pipeline-with-Jenkins/tree/master/BDD
+
+## Best Practices 
+
+https://dannorth.net/introducing-bdd/
