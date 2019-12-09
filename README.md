@@ -34,7 +34,7 @@ Research suggests about 80% of all market leaders were first to market. As well 
 
 #### 3. Quality
 
-A key principle of agile development is that testing is integrated throughout the cycle, enabling regular inspection of the working product as it develops. This allows the product owner to make adjustments if necessary and gives the product team early sight of any quality issues.
+A key principle of agile development is that testing is integrated throughout the cycle (TDD, BDD, Automation etc), enabling regular inspection of the working product as it develops. This allows the product owner to make adjustments if necessary and gives the product team early sight of any quality issues.
 
 
 #### 4. Visibility
