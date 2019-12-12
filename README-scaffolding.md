@@ -1,10 +1,10 @@
 
 #  Platform Blue Print (Scaffolding) - SPRINT 0
 
-The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for SPRINT 0, and during the period of writing up the SDD (Sof†ware Design Documen†). 
+The patterns and best practices mentioned here should be discussed, mitigated and covered (be in place) in any software development cycle before coding begins. This is normally an agenda for Discovery phase and SPRINT 0, and during the period of writing up the SDD (Sof†ware Design Documen†). 
 
 
- ## Softwared Architecture
+ ## Software Architecture
  
  Software architecture refers to the high level structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.
 
