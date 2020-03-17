@@ -248,8 +248,6 @@ https://github.com/kukuu/digitalTransformationStrategies
 
 # Building High Performance Engineering Teams
 
-https://www.huffpost.com/entry/10-characteristics-of-hig_b_1536155?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKvVw0GCZjTnx0DrtaY83XTf9aMr4ckEaBF2lVkdwEsia_o-R5J4-NeJTTQ1Gq8BUoqInG_nAqylMusG8YT-ure64GcH4iklmmJLeQPGxcZC5JPO0ok4ShWqZYiMhPhYRFmu-wvqoEuwYwmhft25in3S7WjwAT-X6N8bVG-EJxIk
-
 ## Characteristics
 
 Characteristics of high-performing teams include the following: 
@@ -266,7 +264,39 @@ Characteristics of high-performing teams include the following:
 
 6. Manage conflicts successfully
 
-7. Are accountable;
+7. Are accountable
+
+https://www.huffpost.com/entry/10-characteristics-of-hig_b_1536155?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKvVw0GCZjTnx0DrtaY83XTf9aMr4ckEaBF2lVkdwEsia_o-R5J4-NeJTTQ1Gq8BUoqInG_nAqylMusG8YT-ure64GcH4iklmmJLeQPGxcZC5JPO0ok4ShWqZYiMhPhYRFmu-wvqoEuwYwmhft25in3S7WjwAT-X6N8bVG-EJxIk
+
+
+
+# Improving your team’s efficiency 
+
+1. Eliminate unnecessary meetings
+
+2. Prioritize work based on key results
+
+3. Delete, defer, delegate, or diminish lower priority work
+
+4. Homogeneity - Leverage your team’s strengths when assigning work
+
+5. Avoid Group thinking - Peer pressure
+
+6. Motivation - https://github.com/kukuu/AGILITY/blob/master/motivation.md
+
+7. Map out your team’s work before beginning
+
+8. Encourage cross-functional collaboration
+
+9. Promote full working days without meetings
+
+10. Define the purpose of different communication channels
+
+11. Help your team be their most efficient yet
+
+https://asana.com/resources/ways-improve-team-efficiency-work
+
+
 
 
 # Best Practices
