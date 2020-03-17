@@ -240,6 +240,10 @@ more...
 
 https://github.com/kukuu/digitalTransformationStrategies
 
+## How we did it at Marks & Spencer (The success story)
+
+https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/
+
 # Conflict resolution
 
 - https://employmenthero.com/blog/leadership-management/team-conflict-management/
