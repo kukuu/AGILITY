@@ -245,6 +245,30 @@ https://github.com/kukuu/digitalTransformationStrategies
 - https://employmenthero.com/blog/leadership-management/team-conflict-management/
 
 
+
+# Building High Performance Engineering Teams
+
+https://www.huffpost.com/entry/10-characteristics-of-hig_b_1536155?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAKvVw0GCZjTnx0DrtaY83XTf9aMr4ckEaBF2lVkdwEsia_o-R5J4-NeJTTQ1Gq8BUoqInG_nAqylMusG8YT-ure64GcH4iklmmJLeQPGxcZC5JPO0ok4ShWqZYiMhPhYRFmu-wvqoEuwYwmhft25in3S7WjwAT-X6N8bVG-EJxIk
+
+## Characteristics
+
+Characteristics of high-performing teams include the following: 
+
+1. People have solid and deep trust in each other and in the team's purpose 
+
+2. Have a clear vision of their objectives and goals. Including what is expected of them. Individual and team's goals
+
+3. Are enthusiastic about achieving their goals;
+
+4. They feel free to express feelings and ideas. 
+
+5. Everybody is working toward the same goals.
+
+6. Manage conflicts successfully
+
+7. Are accountable;
+
+
 # Best Practices
 
 ## Continuous Delivery (RRASc)
