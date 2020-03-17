@@ -173,13 +173,83 @@ There are a number of differences in both the philosophy behind and the practica
 
 - https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
 
+
+# Digital Transformation 
+
+Is the change associated with the application of digital technology. However, digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
+
+When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies.
+
+Practices used in transformation include methodologies like Agile (SCRUM, KANBAN) , XP, Waterfall, Continuous Delivery, Continuous Deployment, Micro-services, Containerization, Severless Computing, IaaS, PaaS, ITaaS, Headerless CMS, Hybrid CMS, Big Data, Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development,IoT,Chat Bots, Video Chats, and Mobility Management.
+
+DT can be built around the following. The exact structure will vary depending on the specific needs of the business:
+
+1. Understand the Corporate Strategy and business domain
+
+2. Assess current state of IT Strategy and understanding  existing systems and processes
+
+3. Define Initiatives 
+
+4. Develop a Strategy Roadmap
+
+	i. Objective setting and measures of success (What you want to achieve - 
+		digitally and as a wider business)
+
+	ii. Opportunity Analysis - What you could be doing and potential rewards
+
+	iii. Barrier analysis - What’s stopping you doing this? How we can get around this
+
+	iv. Customer profiling and needs analysis - How you could serve your audiences better
+
+     v. Stakeholder engagement and Market Analysis.
+
+5. Communicate  strategy Execution
+
+The CADMA Syndrome
+
+C - Create a Vision
+
+A - Analyse the market
+
+D - Design the experience
+
+M - Measure the impact
+
+A - Adjust the infrastructure.
+
+
+Key services to deliver digital solutions and consulting services:
+
+1. Business model innovation
+
+2. Internet of Things (IoT)
+
+3. Industry‐specific disruptive technologies
+
+4. Organizsational culture and change management - AGILE etc
+
+5. Cybersecurity and digital trust.
+
+6. Effective Governance, Legislation, Data Protection (i.e GDPR and associated penalties)
+
+7. KPI
+
+8. Reporting
+
+more...
+
+https://github.com/kukuu/digitalTransformationStrategies
+
 # Conflict resolution
 
 - https://employmenthero.com/blog/leadership-management/team-conflict-management/
 
-# Continuous Delivery (RRASc)
 
-#### Reliable :: Repeatable :: Automation :: Source control
+# Best Practices
+
+## Continuous Delivery (RRASc)
+
+Reliable :: Repeatable :: Automation :: Source control
 
  CD is the ability to get changes of all types including new features, configuration changes, bug fixes and experiments into production, or into the hands of users, safely and quickly in a sustainable way. 
 
@@ -233,7 +303,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 The most optimum path to achieve these goals is to use  microservices architecture
 
 
-# Micro-services 
+## Micro-services 
 
 Microservices architecture is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
 
@@ -242,7 +312,7 @@ When you choose to build your application as a set of microservices, you need to
 Services must handle requests from the application’s clients. Furthermore, services must sometimes collaborate to handle those requests. They must use an inter-process communication protocol. Use asynchronous messaging for inter-service communication. Services communicating by exchanging messages over messaging channels. Examples of asynchronous messaging technologies are 
 Apache Kafka and RabbitMQ.
 
-## This pattern has the following benefits:
+### This pattern has the following benefits:
 
 1. Loose coupling since it decouples client from services
 
@@ -251,7 +321,7 @@ Apache Kafka and RabbitMQ.
 3. Supports a variety of communication patterns including request/reply, notifications, request/async response, publish/subscribe, publish/async response etc
 
 
-## This pattern has the following drawbacks:
+### This pattern has the following drawbacks:
 
 1. Additional complexity of message broker, which must be highly available
 
@@ -286,9 +356,9 @@ Resolution:
 
 	4.   Use Containerisation
 
-### Challenges and bottlenecks to Micro-services
+#### Challenges and bottlenecks to Micro-services
 
-#### Direct Client‑to‑Microservice Communication
+##### Direct Client‑to‑Microservice Communication
 
 In theory, a client could make requests to each of the microservices directly. Each microservice would have a public endpoint (https://serviceName.api.company.name). This URL would map to the microservice’s load balancer, which distributes requests across the available instances. To retrieve the product details, the mobile client would make requests to each of the services listed above.
 
@@ -302,7 +372,7 @@ Unfortunately, there are challenges and limitations with this option.
 Because of these kinds of problems it rarely makes sense for clients to talk directly to microservices.
 
 
-#### Resolving micro service complexity  with an API Gateway
+##### Resolving micro service complexity  with an API Gateway
 
 Usually a much better approach is to use what is known as an API Gateway. An API Gateway is a server (Serving as an interface) that is the single entry point into the system. It is similar to the Facade pattern from object‑oriented design. The API Gateway encapsulates the internal system architecture and provides an API that is tailored to each client. It might have other responsibilities such as authentication, monitoring, load balancing, caching, request shaping and management, and static response handling.
 
@@ -507,68 +577,3 @@ The core difference between SOA and microservices lies in the size and scope. Mi
 	4. Service compatibility is based on policy
 
 
-# Digital Transformation 
-
-Is the change associated with the application of digital technology. However, digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
-
-When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies.
-
-Practices used in transformation include methodologies like Agile (SCRUM, KANBAN) , XP, Waterfall, Continuous Delivery, Continuous Deployment, Micro-services, Containerization, Severless Computing, IaaS, PaaS, ITaaS, Headerless CMS, Hybrid CMS, Big Data, Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development,IoT,Chat Bots, Video Chats, and Mobility Management.
-
-DT can be built around the following. The exact structure will vary depending on the specific needs of the business:
-
-1. Understand the Corporate Strategy and business domain
-
-2. Assess current state of IT Strategy and understanding  existing systems and processes
-
-3. Define Initiatives 
-
-4. Develop a Strategy Roadmap
-
-	i. Objective setting and measures of success (What you want to achieve - 
-		digitally and as a wider business)
-
-	ii. Opportunity Analysis - What you could be doing and potential rewards
-
-	iii. Barrier analysis - What’s stopping you doing this? How we can get around this
-
-	iv. Customer profiling and needs analysis - How you could serve your audiences better
-
-     v. Stakeholder engagement and Market Analysis.
-
-5. Communicate  strategy Execution
-
-The CADMA Syndrome
-
-C - Create a Vision
-
-A - Analyse the market
-
-D - Design the experience
-
-M - Measure the impact
-
-A - Adjust the infrastructure.
-
-
-Key services to deliver digital solutions and consulting services:
-
-1. Business model innovation
-
-2. Internet of Things (IoT)
-
-3. Industry‐specific disruptive technologies
-
-4. Organizsational culture and change management - AGILE etc
-
-5. Cybersecurity and digital trust.
-
-6. Effective Governance, Legislation, Data Protection (i.e GDPR and associated penalties)
-
-7. KPI
-
-8. Reporting
-
-more...
-
-https://github.com/kukuu/digitalTransformationStrategies
