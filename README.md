@@ -255,7 +255,7 @@ iii. Completely changed distribution
 
 2. The BBC - https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
 
-3. GCHQ (Government Communication Headquarters, UK) - https://www.gchq.gov.uk/
+3. GCHQ/NCSC (Government Communication Headquarters / National Cybersecurity Council, UK) - https://www.governmentcomputing.com/central-government/news/digital-era-new-challenges-gchq
 
 # Conflict resolution
 
