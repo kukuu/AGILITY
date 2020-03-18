@@ -246,9 +246,23 @@ https://github.com/kukuu/digitalTransformationStrategies
 
 ```
 i. Built a new omni-channel platform.
+    a. User testing strategy - Beta versions (A/B)
+    
+    b. Segmentation
+    
+    c. External factors
 
 ii. Hired an entirely new digital-focused team.
 
+     a. Hiring eCommerce expect on Executive Board
+     
+     b. Digitally focused workshops
+     
+     d. Leveraging digital mindset across all parts of business: Retail and online. Having a single 
+     source of truth for customers from shoping floor and from on-line
+     
+     e. Rewarding all staff equally as enablers -  Motivating shoping floor staff.  
+     
 iii. Completely changed distribution 
 
 ```
