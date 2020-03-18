@@ -240,9 +240,11 @@ more...
 
 https://github.com/kukuu/digitalTransformationStrategies
 
-## How we did it at Marks & Spencer (The success story)
+## How we did it.... 
 
-https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/
+Marks & Spencer (The success story) - https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/ 
+
+The BBC - https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
 
 # Conflict resolution
 
