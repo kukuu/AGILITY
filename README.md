@@ -244,6 +244,15 @@ https://github.com/kukuu/digitalTransformationStrategies
 
 Marks & Spencer (The success story) - https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/ 
 
+```
+i. Built a new omni-channel platform.
+
+ii. Hired an entirely new digital-focused team.
+
+iii. Completely changed distribution 
+
+```
+
 The BBC - https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
 
 # Conflict resolution
