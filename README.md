@@ -176,7 +176,10 @@ There are a number of differences in both the philosophy behind and the practica
 
 # Digital Transformation 
 
-Is the change associated with the application of digital technology. However, digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
+Mission: Drive digital capability and optimise operational efficiency
+
+
+Digital Transformation ss the change associated with the application of digital technology. However, digital transformation is more than technology. It is a mindset shift. It is the adoption of new ways of working and ultimately it is the marrying of people and process to gain a competitive advantage.
 
 When planning for digital transformation, organizations must factor the cultural changes they'll confront as workers and organizational leaders adjust to adopting and relying on unfamiliar technologies.
 
