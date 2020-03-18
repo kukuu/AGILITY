@@ -265,9 +265,9 @@ ii. Hired an entirely new digital-focused team.
      
 iii. Completely changed distribution 
 
-     a. Centralising distibution network. From both web front end and depots. Required efficient distribution network.
-     Centralisation meant reducing logistics cost- Castle Donington depot was built to facilitate as a 
-     central distribution point!
+     a. Centralising distibution network. From both web front end and depots. 
+     Required efficient distribution network.Centralisation meant reducing logistics cost.
+     Castle Donington depot was built to facilitate as a central distribution point!
 
 ```
 
