@@ -242,7 +242,7 @@ https://github.com/kukuu/digitalTransformationStrategies
 
 ## How we did it.... 
 
-Marks & Spencer (The success story) - https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/ 
+1. Marks & Spencer (The success story) - https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/ 
 
 ```
 i. Built a new omni-channel platform.
@@ -253,7 +253,9 @@ iii. Completely changed distribution
 
 ```
 
-The BBC - https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
+2. The BBC - https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
+
+3. GCHQ (Government Communication Headquarters, UK) - https://www.gchq.gov.uk/
 
 # Conflict resolution
 
