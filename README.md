@@ -242,7 +242,7 @@ https://github.com/kukuu/digitalTransformationStrategies
 
 ## How we did it.... 
 
-1. Marks & Spencer (The success story) - https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/ 
+ 1. Marks & Spencer (The success story) - https://econsultancy.com/marks-and-spencer-s-three-steps-to-digital-transformation/ 
 
 ```
 i. Built a new omni-channel platform.
