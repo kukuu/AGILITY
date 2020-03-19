@@ -61,13 +61,20 @@ iii. Teams with inexperienced developers who don’t understand other architectu
 iv.  Applications requiring strict maintainability and testability standards
  
  
- Multi tier - https://github.com/kukuu/AGILITY/blob/master/white-paper/restfulArchitecturalDesign-2.png
+ Multi tier - Apache
+ 
+ ![Multi-tier-Apache](https://github.com/kukuu/AGILITY/blob/master/white-paper/restfulArchitecturalDesign-2.png) 
  
 ## 2. Microservices architecture
 
 Microservices are self contained processes that provides unique business capabilities.  Each individual service boosts of its own data federation unlike momoliths for  deployment.
 
 With Monoliths, minor changes to particular parts of the application, may require a re-deployment of the whole application. Delta changes cannot be detected. Not very good for scaling and for performance.
+
+A microservice snippet:
+
+
+![snippet](https://github.com/kukuu/microservices-nodejs-docker-nginx/blob/master/microservice-back-end-hub-architecture/microservice-snippet.png) 
 
 
  https://github.com/kukuu/Microservice-NodeJS 
