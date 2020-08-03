@@ -222,7 +222,7 @@ Also - https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
 
 1. Multi tier - https://github.com/kukuu/AGILITY/blob/master/white-paper/restfulArchitecturalDesign-2.png
 
-2. JWT - https://github.com/kukuu/AGILITY/blob/master/white-paper/restfulArchitecturalDesign-2.png
+2. JWT - https://github.com/kukuu/AGILITY/blob/master/white-paper/JWT-architecture.png
 
 3. Micro service  - https://github.com/kukuu/Microservice-NodeJS/blob/master/microservice-snapshots/3.png
 
