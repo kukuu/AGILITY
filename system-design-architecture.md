@@ -15,6 +15,8 @@ You can use multiple patterns in a single system to optimize each section of cod
 
 2. DRY.
 
+4. SOLID
+
 3. Develop iteratively
 
 4. Composition > Inheritance. 
@@ -24,6 +26,8 @@ You can use multiple patterns in a single system to optimize each section of cod
 6. Separation of Concerns. 
 
 7. Avoid Premature Optimization.
+
+8. Auto-scaling
 
 
 ## Architectures
