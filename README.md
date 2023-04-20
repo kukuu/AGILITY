@@ -11,7 +11,7 @@ The individual teams that make up a company in agile management are known as squ
 
 ### Tribes
 
-A tribe is the name given to a collection of squads working together. They can be seen as an incubator for the mini start-up squads in your company. Tribes will usually not exceed more than around 100 employees. Example: Shopping 'Backend' and 'Test' Teams.
+A tribe is the name given to a collection of squads working together in a business. They can be seen as an incubator for the mini start-up squads in your company. Tribes will usually not exceed more than around 100 employees. Example: Shopping 'Backend' and 'Test' Teams.
 
 In large organisations where a department could possibly have say a 1000 employees, the optimum thing to do is to break the team down into smaller numbers and make them cross functional and self organising making them manageable.
 
