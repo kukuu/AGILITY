@@ -13,7 +13,7 @@ It's also the responsibility of leaders to define the company's ethics and belie
 
 ## Servant Leadership
 
-A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their  teams by unblocking issues and offering strategic advice and guidance and  balancing delegation and accountability
+A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their  teams by unblocking issues and offering strategic advice and guidance and  balancing delegation and accountability.
 
 How does leadership influence organisational culture
 Leaders can educate employees on the company's organisational culture through their interactions. Both action and inaction go a long way in showing employees which actions and behaviour are acceptable or unacceptable in the company. Below are influences of leadership on culture in organisations:
