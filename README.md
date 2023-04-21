@@ -668,8 +668,45 @@ The core difference between SOA and microservices lies in the size and scope. Mi
 
 	4. Service compatibility is based on policy
 
-# Profile 
+# Further reading:
 
-- https://github.com/kukuu/AGILITY/tree/master/profile-main 
+https://github.com/kukuu/AGILITY/blob/master/Leadership%20and%20Culture.md
+
+https://github.com/kukuu/AGILITY/blob/master/Metrics-Improving-SWE-Efficency.md
+
+https://uk.indeed.com/career-advice/career-development/leadership-and-culture-in-organizations
+
+https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
+
+https://github.com/kukuu/AGILITY/blob/master/motivation.md
+
+https://github.com/kukuu/AGILITY/blob/master/Profit-and-Loss-Responsibility.md
+
+https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
+
+https://github.com/kukuu/AGILITY/blob/master/how-long-must-a-scrum-last.md
+
+https://github.com/kukuu/AGILITY/blob/master/continuous-integration-with-team-city.png
+
+https://github.com/kukuu/AGILITY/blob/master/benefits-of-agile.md
+
+https://github.com/kukuu/AGILITY/blob/master/design-thinking.md
+
+https://github.com/kukuu/AGILITY/blob/master/devops.md
+
+https://github.com/kukuu/AGILITY/blob/master/negotiation-skills.md
+
+https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
+
+https://github.com/kukuu/AGILITY/blob/master/stakeholder-management.md
+
+https://github.com/kukuu/AGILITY/blob/master/swdlc.md
+
+https://github.com/kukuu/AGILITY/blob/master/system-design-architecture.md
+
+https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
+
+
+# Profile 
 
 - https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
