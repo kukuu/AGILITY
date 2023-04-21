@@ -80,8 +80,6 @@ The best leaders find ways to motivate their team members and make their contrib
 
 ## Further reading:
 
-https://github.com/kukuu/AGILITY/blob/master/Leadership%20and%20Culture.md
-
 https://github.com/kukuu/AGILITY/blob/master/Metrics-Improving-SWE-Efficency.md
 
 https://uk.indeed.com/career-advice/career-development/leadership-and-culture-in-organizations
