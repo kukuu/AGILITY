@@ -18,15 +18,15 @@ A Servant Leader is one who helps their teams to perform at their best by ensuri
 How does leadership influence organisational culture
 Leaders can educate employees on the company's organisational culture through their interactions. Both action and inaction go a long way in showing employees which actions and behaviour are acceptable or unacceptable in the company. Below are influences of leadership on culture in organisations:
 
-1. It reinforces accountability:
+### It reinforces accountability:
 
 Accountability in the workplace is a major influencer of organisational structure. Leaders often make the rules and policies that guide a company, but holding employees accountable for their actions keeps them responsible and able to perform their tasks effectively. Good leaders build a culture of accountability when they clearly outline the responsibilities of employees and the standards by which they measure their success. Doing this gives employees a clear picture of the results the employers want them to achieve and motivates them to achieve and even exceed these expectations.
 
-2. It helps employers understand their roles and skills:
+### It helps employers understand their roles and skills:
 
 Outstanding leaders help employees to understand their assigned tasks and design a working strategy that allows them to execute their duties effectively. They help employees broaden their knowledge of their responsibilities and help to improve their skill sets. This may require additional training of team members in a particular department or cross-training of employees from different departments to increase their knowledge and strengthen their bonds.
 
-3. It fosters effective communication:
+### It fosters effective communication:
 
 To be efficient and productive, it's important that employees understand their assigned responsibilities and the company's core values.
 
@@ -41,36 +41,36 @@ Effective communication can benefit a company in a number of ways. These include
   
 	•	improved employee satisfaction
 
-4. It promotes a common vision:
+### It promotes a common vision:
 
 An organisation's vision often determines the company's future. Leaders create this vision and come up with strategies and methods to fulfil it. One approach is to teach employees about the company's goals and objectives and communicate ways to reach those targets. This information lets the team members know the company's current and future targets, how it intends to achieve them and the roles they can play to help accomplish these goals. This knowledge encourages employees to be more productive, as they can see first-hand how their efforts influence the success of the business.
 
-5. It promotes a learning culture:
+### It promotes a learning culture:
 
 Good leaders are always in the habit of sharing any information and knowledge that can promote the growth of their team members. They understand that employees need the necessary tools to work effectively. For employees to benefit the company, leadership needs to communicate and provide these tools effectively.
 
 For example, you can organise monthly or yearly skill enhancement programmes for your team members aimed at enhancing their knowledge and increasing their technical capabilities. eg -Engineering Council forums, attending meet ups , conferences and networking.
 
-6. It fosters a culture of recognition and appreciation:
+### It fosters a culture of recognition and appreciation:
 
 As a leader, you can promote a culture of recognition by encouraging and rewarding employees who work effectively and efficiently.
 You can also recognise and appreciate an employee for their unique contributions towards a project and encourage other team members to do likewise. Employers who work in this kind of environment feel more fulfilled and motivated to carry out their tasks.
 
-7. It defines and reveals the company's core values:
+### It defines and reveals the company's core values:
 
 Effective leadership often involves working hard to share and teach team members about the company's values and principles.
 
 
-8. It promotes job satisfaction:
+### It promotes job satisfaction:
 
 When employees feel satisfied with their work, they become inspired to devote their time and skills towards the success of the business. Employees feel satisfied in jobs where they feel comfortable and their employers appreciate them. Different factors may influence an employee's job satisfaction, such as compensation, company's core values, promotion, quality of leadership, work environment and motivation. Effective leadership evaluates these factors to determine how they're able to satisfy the needs of their team members. 
 
-9. It defines the behaviour of employees:
+### It defines the behaviour of employees:
 
 Quality leaders lead by example. They understand that employees are looking up to them to know the acceptable ways of doing things in the organisation such as fulfilling their responsibilities, reacting to situations and handling projects. Therefore, effective leaders not only create company policies and rules but also live by them.
 A good leader does not overlook mistakes but acknowledges them while offering directions and ways to improve. By working to embody the company's values, a good leader's behaviour and work ethic stand as models of what the company represents and stands for. With time, this begins to influence and define the behaviour of the workforce as they realise the correlation between the success of the business and their attitude.
 
-10. It boosts employee morale:
+### It boosts employee morale:
 
 The best leaders find ways to motivate their team members and make their contributions feel valued. This includes praising and complimenting them, trusting in them and actively involving them in company decisions. Employees who work in this kind of atmosphere often feel more motivated to put in their best towards the company's growth and success.
 
