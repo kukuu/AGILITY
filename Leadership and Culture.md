@@ -87,3 +87,5 @@ https://uk.indeed.com/career-advice/career-development/leadership-and-culture-in
 https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
 
 https://github.com/kukuu/AGILITY/blob/master/Profit-and-Loss-Responsibility.md
+
+https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
