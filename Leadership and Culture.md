@@ -2,20 +2,22 @@
 
 # Leadership and Culture
 
-Leadership and culture in organisations refer to the role leadership plays in an organisation's culture. An organisation's culture comes from the values and practices that guide the decisions of the company. It's a collection of a company's objectives and mission that guides the actions and behaviours of the employer and their employees. Leadership and culture in organisations promote a positive atmosphere in the workplace, improves the performance of employees and can help the general success of the business.
-
-Achieving a company's goals and objectives depends on its leadership and organisational culture. The presence of strong leadership helps employees carry out different activities efficiently and effectively. Understanding how leadership affects organisational culture can influence your company's productivity and how you collaborate with your team members. In this article, we explore the meaning of leadership and culture in organisations, why leadership is important to organisational culture and the role leadership plays in influencing a company's culture.
-
-Leadership culture is how leaders interact with one another and their team members. It's the way leaders operate, communicate, and make decisions. And it's about the everyday working environment: their behaviors, interactions, beliefs, and values.
+Leadership and culture in organisations refer to the role leadership plays in an organisation's culture. It refers to how leaders interact with one another and their team members. It's the way leaders operate, communicate, and make decisions. And it's about the everyday working environment: their behaviors, interactions, beliefs, and values.
 
 No matter how great a company's organisational culture may be, its objectives and goals may remain unachieved without the influence of good leadership. A leader is anyone who has the authority or ability to influence and motivate others, irrespective of their title. They embody and reinforce the company's visions and set the rules with which the company work.
+
+An organisation's culture comes from the values and practices that guide the decisions of the company. It's a collection of a company's objectives and mission that guides the actions and behaviours of the employer and their employees. Leadership and culture in organisations promote a positive atmosphere in the workplace, improves the performance of employees and can help the general success of the business.
+
+Achieving a company's goals and objectives depends on its leadership and organisational culture. The presence of strong leadership helps employees carry out different activities efficiently and effectively. Understanding how leadership affects organisational culture can influence your company's productivity and how you collaborate with your team members. 
+
 It's also the responsibility of leaders to define the company's ethics and beliefs while teaching the employees how to live by these values. Ethical leaders promote a culture of trust, integrity, honesty and fairness. They work to establish the organisation's core values and show employees what the management expects of them. People in leadership roles influence the organisational culture of the company, positively or negatively.
 
 ## Servant Leadership
 
 A Servant Leader is one who helps their teams to perform at their best by ensuring that the business outcomes are clearly understood, allowing the teams to define how they deliver those outcomes within the set guidelines. A Servant Leader should support their  teams by unblocking issues and offering strategic advice and guidance and  balancing delegation and accountability.
 
-How does leadership influence organisational culture
+## How does leadership influence organisational culture
+
 Leaders can educate employees on the company's organisational culture through their interactions. Both action and inaction go a long way in showing employees which actions and behaviour are acceptable or unacceptable in the company. Below are influences of leadership on culture in organisations:
 
 ### It reinforces accountability:
