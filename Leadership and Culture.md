@@ -148,8 +148,6 @@ https://github.com/kukuu/AGILITY/blob/master/README.md
 
 https://github.com/kukuu/AGILITY/blob/master/Metrics-Improving-SWE-Efficency.md
 
-https://uk.indeed.com/career-advice/career-development/leadership-and-culture-in-organizations
-
 https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
 
 https://github.com/kukuu/AGILITY/blob/master/motivation.md
