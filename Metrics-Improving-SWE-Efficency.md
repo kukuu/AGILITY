@@ -12,16 +12,11 @@ Focus must be directed at building high performance engineering teams. One with:
 
 3. A good ROI
 
-```
+4. Meeting deadlines, and hiting targets from planning
 
-Traits of high performance engineering team includes but not limited to:
+5. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
 
-```
-1. Meeting deadlines, and hiting targets from planning
-
-2. Achieving definition of done,(DoD) over SPRINT period. From requirement gathering to production.
-
-3. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
+6. Managing low fault levels. Less or minimum  return rates/complaints/bugs from users
 
 ```
 
