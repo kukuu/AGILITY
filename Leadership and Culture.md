@@ -146,11 +146,11 @@ The active involvement, cooperation and collaboration make agile development tea
 
 https://github.com/kukuu/AGILITY/blob/master/README.md
 
+https://github.com/kukuu/AGILITY/blob/master/motivation.md
+
 https://github.com/kukuu/AGILITY/blob/master/Metrics-Improving-SWE-Efficency.md
 
 https://github.com/kukuu/AGILITY/blob/master/ManagementStyles-InfluencingSkills.md
-
-https://github.com/kukuu/AGILITY/blob/master/motivation.md
 
 https://github.com/kukuu/AGILITY/blob/master/Profit-and-Loss-Responsibility.md
 
