@@ -41,7 +41,7 @@ Performance testing tools help evaluate the performance, scalability, and respon
 These tools help track and manage software defects or issues discovered during testing. Common defect tracking tools include JIRA, Bugzilla, and HP ALM (Application Lifecycle Management).
 
 ### Continuous Integration/Continuous Delivery (CI/CD) Tools: 
-CI/CD tools facilitate the automation of software build, testing, and deployment processes. Popular tools in this category include Jenkins, TeamCity, and Bamboo.
+CI/CD tools facilitate the automation of software build, testing, and deployment processes. Popular tools in this category include Jenkins, TeamCity, CircleCI, and Bamboo.
 
 ### Code Analysis Tools: 
 Code analysis tools analyze source code to identify potential issues, such as coding standards violations, security vulnerabilities, and potential bugs. Examples include SonarQube, ESLint, and PMD.
