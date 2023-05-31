@@ -56,6 +56,7 @@ These tools assist in the creation, management, and provisioning of test data fo
 API testing tools focus on testing the functionality and performance of application programming interfaces (APIs). Tools like Postman, SoapUI, and JMeter can be used for API testing.
 
 
+## Summary
 QA is typically performed by dedicated quality assurance teams or individuals who are responsible for overseeing and implementing QA processes. They work closely with developers, testers, and other stakeholders to ensure that quality is built into the software from the early stages of development.
 
 It's important to note that QA is distinct from Quality Control (QC), which involves the actual testing and verification of the product or service. While QA focuses on prevention and process improvement, QC focuses on detection and correction of defects through testing and inspection.
