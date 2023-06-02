@@ -106,7 +106,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 
 #### Achieving CD
 
-	1. The process for releasing/deploying software MUST be repeatable and reliable. 
+	1. The process for releasing/deploying software MUST be repeatable and reliable (RR). 
 
 	2. Automate everything!
 
@@ -116,7 +116,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 
 	5. Done means “released”.
 
-	6. Build quality in! 
+	6. Build quality in. 
 
 	7. Everybody has responsibility for the release process
 
