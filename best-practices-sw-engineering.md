@@ -104,7 +104,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 
 	8. Stop the lines if anything fails.
 
-### Achieving CD
+#### Achieving CD
 
 	1. The process for releasing/deploying software MUST be repeatable and reliable. 
 
