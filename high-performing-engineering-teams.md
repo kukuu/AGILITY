@@ -8,15 +8,15 @@ Characteristics of high-performing teams include the following:
 
 2. Have a clear vision of their objectives and goals. Including what is expected of them. Individual and team's goals
 
-3. Are enthusiastic about achieving their goals;
+3. Are enthusiastic about achieving their goals.
 
 4. They feel free to express feelings and ideas. 
 
 5. Everybody is working toward the same goals.
 
-6. Manage conflicts successfully
+6. Manage conflicts successfully.
 
-7. Are accountable
+7. Are accountable.
 
 
 ## Improving your team’s efficiency 
