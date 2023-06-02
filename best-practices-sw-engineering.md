@@ -81,8 +81,6 @@ Reliable :: Repeatable :: Automation :: Source control
 
  A logical extension of Continuous Integration (CI), It is based on the use of smart automation. This is all about creating a repeatable and reliable process for delivering software. You have to automate pretty much everything in order to be able to achieve continuous delivery. Manual steps will get in the way or become a bottleneck. This goes for everything from requirements authoring to deploying to production.
 
-
-
 The ultimate goal of continuous delivery is to minimise the iteration time of the code-test-deliver-measure experimentation cycle. Increasing deliverable throughput in this way is the key to not only more feature work being delivered but higher quality code as well. This might seem counter-intuitive at first but code is fixed and polished through that same cycle and less time spent on deployment is more time spent on designing quality code.
 
 	The high-level requirements FOR CD are:
@@ -106,8 +104,7 @@ The ultimate goal of continuous delivery is to minimise the iteration time of th
 
 	8. Stop the lines if anything fails.
 
-
-	Achieving CD
+### Achieving CD
 
 	1. The process for releasing/deploying software MUST be repeatable and reliable. 
 
