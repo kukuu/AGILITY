@@ -44,5 +44,7 @@ The primary goal of DORA is to help organizations understand and improve their D
 
 ## Resources
 
-1. Learn How to Set Up a CI/CD Pipeline From Scratch - https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
+1. https://github.com/kukuu/AGILITY/blob/master/devops-1.png 
+2. https://github.com/kukuu/AGILITY/blob/master/devops-2.png
+3. Learn How to Set Up a CI/CD Pipeline From Scratch - https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
 
