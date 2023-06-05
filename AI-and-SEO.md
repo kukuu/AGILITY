@@ -27,4 +27,5 @@ AI enables search engines to personalize search results based on a user's search
 - Write clean and readable code that is easy to understand and maintain.
 
 ## Further reading:
-- https://www.bbi.co.uk/Latest-News/the-impact-of-artificial-intelligence-on-seo
+- https://www.bbi.co.uk/Latest-News/the-impact-of-artificial-intelligence-on-seo 
+- https://www.bbi.co.uk/News
