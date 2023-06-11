@@ -1,6 +1,6 @@
 # Version Contron and Git Strategies
 
-Both are effective best practices used collaboratively in Software development.
+Both are effective best practices used collaboratively in software development.
 
 ## Version Control
 Version control system (VCS), also known as a source control system or revision control system, is a software tool that helps track and manage changes to files and documents over time. It provides a systematic way to manage different versions of files, enabling collaboration among multiple users, tracking changes, and facilitating the merging and branching of code or other project assets.
