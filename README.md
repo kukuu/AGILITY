@@ -780,7 +780,10 @@ https://github.com/kukuu/AGILITY/blob/master/system-design-architecture.md
 
 https://github.com/kukuu/AGILITY/blob/master/test-pyramid-coverage.jpg
 
+# Agile & SPRINT  Anti-Patterns:
+https://david-theil.medium.com/agile-anti-patterns-sprint-anti-patterns-part-i-11db15bbe83e
+
 
 # Profile 
 
-- https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
+- [https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/](https://www.linkedin.com/in/alexander-adu-sarkodie-mbcs-mieng-063b4b4a/)https://www.linkedin.com/in/alexander-adu-sarkodie-mbcs-mieng-063b4b4a/
