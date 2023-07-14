@@ -29,7 +29,7 @@ The iterative nature of agile development means features are delivered increment
 
 #### 2. Speed-to-market
 
-Research suggests about 80% of all market leaders were first to market. As well as the higher revenue from incremental delivery, agile development philosophy also supports the notion of early and regular releases, and ‘perpetual beta’.
+Research suggests about 80% of all market leaders were first to market. As well as the higher revenue from incremental delivery, the agile development philosophy also supports the notion of early and regular releases, and ‘perpetual beta’.
 
 
 #### 3. Quality
