@@ -44,7 +44,7 @@ These tools help track and manage software defects or issues discovered during t
 CI/CD tools facilitate the automation of software build, testing, and deployment processes. Popular tools in this category include Jenkins, TeamCity, CircleCI, and Bamboo.
 
 ### Code Analysis Tools: 
-Code analysis tools analyze source code to identify potential issues, such as coding standards violations, security vulnerabilities, and potential bugs. Examples include SonarQube, ESLint, and PMD.
+Code analysis tools analyze source code to identify potential issues, such as coding standards violations, security vulnerabilities, and potential bugs. Examples include SonarQube, SENTRY, ESLint, and PMD.
 
 ### Security Testing Tools: 
 Security testing tools help identify vulnerabilities and weaknesses in software applications. Tools like OWASP ZAP, Burp Suite, and Nessus are commonly used for security testing.
