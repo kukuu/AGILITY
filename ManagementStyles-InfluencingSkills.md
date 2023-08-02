@@ -3,6 +3,22 @@
 
 Different types of leadership styles exist in work environments. The culture and goals of an organization determine which leadership style fits the firm best, while personality differences often dictate which is most often used. Some companies offer several leadership styles within the organization, dependent upon the necessary tasks to complete and departmental needs.
 
+## Adaptive
+
+A manager who can adjust their approach based on the needs of the team and the specific project or situation.
+
+## Supportive and Coaching
+
+A manager who provides guidance, support, and coaching to team members, helping them grow and develop their skills.
+
+## Results-Oriented
+
+A manager who prioritizes achieving specific outcomes and focuses on delivering results.
+
+## Data-Driven 
+
+A manager who relies on data and metrics to make informed decisions and drive improvements.
+
 ## The Laissez-Faire Leader
 
 A laissez-faire leader lacks direct supervision of employees and fails to provide regular feedback to those under his supervision. Highly experienced and trained employees requiring little supervision fall under the laissez-faire leadership style. However, not all employees possess those characteristics. This leadership style hinders the production of employees needing supervision. The laissez-faire style produces no leadership or supervision efforts from managers, which can lead to poor production, lack of control and increasing costs.
