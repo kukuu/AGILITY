@@ -185,7 +185,7 @@ When planning for digital transformation, organizations must factor the cultural
 
 Practices used in transformation include methodologies like Agile (SCRUM, KANBAN) , XP, Waterfall, Continuous Delivery, Continuous Deployment, Micro-services, Containerization, Severless Computing, IaaS, PaaS, ITaaS, Headerless CMS, Hybrid CMS, Big Data, Analytics, Machine Learning, Change Management, Cloud Computing, Digital Security, Leadership & Development,IoT,Chat Bots, Video Chats, and Mobility Management.
 
-## Structure
+### Structure
 
 DT can be built around the following. The exact structure will vary depending on the specific needs of the business:
 
@@ -210,7 +210,7 @@ DT can be built around the following. The exact structure will vary depending on
 
 5. Communicate  strategy Execution
 
-## The CADMA Effect
+### The CADMA Effect
 
 C - Create a Vision
 
