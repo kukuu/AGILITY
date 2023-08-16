@@ -255,7 +255,7 @@ Tools: Project management tools (Jira, Trello), Agile methodologies (Scrum, Kanb
 - Solution Design:
 
 Collaborate with the team to design a comprehensive solution architecture aligned with client needs.
-Tools: Diagramming tools (Lucidchart, draw.io), architecture design tools (Microsoft Visio).
+Tools: Diagramming tools (Lucidchart, draw.io), architecture design tools (Microsoft Visio), Figma, SKETCH, etc.
 
 - Implementation and Integration:
 
