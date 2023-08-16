@@ -240,7 +240,7 @@ Tools: Data analytics tools (Power BI, Tableau), documentation tools (Microsoft 
 - Requirements Elicitation:
 
 Conduct workshops, interviews, and surveys to gather detailed requirements from stakeholders.
-Tools: Online survey platforms (SurveyMonkey, Google Forms), collaboration tools (Miro, MURAL).
+Tools: Online survey platforms (SurveyMonkey, Google Forms), collaboration tools (Miro,Figma, SKETCH, MURAL etc).
 
 - Technology Alignment:
 
