@@ -275,7 +275,7 @@ Tools: Learning management systems (Moodle, Canvas), training video platforms (C
 - Monitoring and Support:
 
 Set up monitoring tools to track the performance and health of the newly implemented systems.
-Tools: Application monitoring tools (New Relic, Datadog), incident tracking systems (ServiceNow).
+Tools: Application monitoring tools (New Relic, Datadog, Prometheus), incident tracking systems (ServiceNow).
 
 - Continuous Improvement:
 
