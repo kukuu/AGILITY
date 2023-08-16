@@ -225,7 +225,7 @@ A - Adjust the infrastructure.
 
 ### DT - Requirement gathering, associated technologies, planning, methodology, and tools :
 
-The process involves a systematic approach to requirement gathering, technology alignment, planning, implementation, testing, training, and ongoing support. Throughout each stage, a combination of communication tools, project management platforms, development environments, testing frameworks, and monitoring solutions ensure a successful digital transformation aligned with client goals and industry best practices. Hereby explain the steps:
+Management Consultancy process involves a systematic approach to requirement gathering, technology alignment, planning, implementation, testing, training, and ongoing support. Throughout each stage, a combination of communication tools, project management platforms, development environments, testing frameworks, and monitoring solutions ensure a successful digital transformation aligned with client goals and industry best practices. Hereby explain the steps:
 
 - Initial Consultation:
 
