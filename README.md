@@ -169,6 +169,8 @@ There are a number of differences in both the philosophy behind and the practica
 
 3. A Kanban team is not required to be cross-functional since the Kanban work flow is intended to be used by any and all teams involved in the project. Therefore, a team of specialists and a separate team of generalists may be working on different aspects of the same Kanban project from the same board, and that’s ok.
 
+4. SCRUM v KANBAN - https://mdalmijn.medium.com/when-is-it-better-to-use-kanban-than-scrum-d5032b658ac3
+
 # Agile estimation 
 
 - https://github.com/kukuu/AGILITY/blob/master/agile-estimates.md
