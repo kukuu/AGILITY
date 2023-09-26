@@ -7,6 +7,8 @@ Engaging the right approaches will effectively make the team members feel motiva
 
 - Individualized Approach: Recognize that each team member has unique strengths, weaknesses, and learning styles. Tailor your mentoring approach to address individual needs.
 
+- Building Trust: Trust is essential for successful mentoring. Build trust through active listening, confidentiality, and genuine interest in each team member's growth.
+
 - Continuous Learning Culture: Encourage a culture of continuous learning within the team. Share resources, recommend relevant courses or workshops, and promote knowledge sharing.
 
 - Constructive Feedback: Provide constructive feedback regularly, both in one-on-one settings and during code reviews. Feedback is focused on improvement and growth, not criticism.
@@ -21,4 +23,4 @@ Engaging the right approaches will effectively make the team members feel motiva
 
 - Leading by Example: Demonstrate the values and behaviours expected from team members. Be opened to learning from them as well.
 
-- Building Trust: Trust is essential for successful mentoring. Build trust through active listening, confidentiality, and genuine interest in each team member's growth.
+
