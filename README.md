@@ -3,7 +3,7 @@
 
 Agile management involves the division of a company into small teams of employees, each one acting like a start-up in its own right. The aim is to change the way in which your company runs to meet the ever-changing demands of the global market. The ‘Agile Manifesto,’ highlights key messages behind the system – including self-organisation, autonomous, collaboration and cross-functionality of teams.
 
-Lean Agile Leadership is established through empowerment:  Building, autonomous, self-organising, cross functional and collaboration.
+Lean Agile Leadership is established through empowerment:  Building, autonomous, self-organising, cross functional and collaboration. 
 
 ### Squads
 
